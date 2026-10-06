@@ -1,0 +1,1501 @@
+Order_ID,Date,Region,Category,Segment,Unit_Price,Quantity,Discount,Sales,Profit,Customer_Rating,Payment_Method
+ORD-10000,2025-04-13,Delhi,Electronics,Corporate,903.34,10,0.0,9033.4,2258.35,2.0,Cash on Delivery
+ORD-10001,2026-01-08,Mumbai,Clothing,Consumer,1455.47,12,0.2,13972.51,5583.97,5.0,Credit Card
+ORD-10002,2026-04-05,Mumbai,Electronics,Consumer,796.67,10,0.0,7966.7,1991.67,5.0,Net Banking
+ORD-10003,2025-07-09,Chennai,Clothing,Consumer,1475.18,9,0.0,13276.62,5310.65,4.0,Credit Card
+ORD-10004,2025-06-16,Chennai,Accessories,Corporate,590.42,10,0.0,5904.2,2361.68,4.0,Net Banking
+ORD-10005,2026-03-31,Mumbai,Office Supplies,Consumer,598.77,2,0.1,1077.79,431.12,4.0,UPI
+ORD-10006,2025-04-16,Mumbai,Electronics,Home Office,685.64,10,0.2,5485.12,1339.37,5.0,Cash on Delivery
+ORD-10007,2026-04-07,Chennai,Electronics,Consumer,595.24,2,0.05,1130.96,282.74,4.0,Credit Card
+ORD-10008,2025-07-07,Mumbai,Electronics,Home Office,130.33,7,0.05,866.69,216.67,4.0,Cash on Delivery
+ORD-10009,2026-04-17,Chennai,Electronics,Corporate,1189.46,11,0.0,13084.06,3271.01,4.0,Credit Card
+ORD-10010,2025-01-28,Hyderabad,Clothing,Consumer,114.07,7,0.1,718.64,287.46,4.0,Cash on Delivery
+ORD-10011,2026-04-07,Hyderabad,Clothing,Consumer,398.98,11,0.05,4169.34,1667.74,4.0,UPI
+ORD-10012,2026-04-06,Chennai,Office Supplies,Consumer,853.65,4,0.2,2731.68,,4.0,Net Banking
+ORD-10013,2026-06-25,Chennai,Electronics,Consumer,258.61,2,0.1,465.5,116.38,3.0,Credit Card
+ORD-10014,2025-01-28,Chennai,Furniture,Home Office,500.03,7,0.2,2800.17,960.75,2.0,Credit Card
+ORD-10015,2025-10-10,Bangalore,Office Supplies,Home Office,30.29,8,0.05,230.2,92.08,4.0,Credit Card
+ORD-10016,2025-08-22,Bangalore,Accessories,Consumer,787.81,9,0.05,6735.78,2694.31,2.0,UPI
+ORD-10017,2025-09-25,Bangalore,Furniture,Consumer,441.56,1,0.0,441.56,154.55,5.0,Cash on Delivery
+ORD-10018,2025-08-13,Mumbai,Clothing,Corporate,682.72,6,0.0,4096.32,1638.53,4.0,Net Banking
+ORD-10019,2025-07-03,Chennai,Clothing,Consumer,955.81,6,0.0,5734.86,2293.94,5.0,Cash on Delivery
+ORD-10020,2025-07-20,Bangalore,Electronics,Consumer,894.52,11,0.0,9839.72,2459.93,5.0,Net Banking
+ORD-10021,2025-05-27,Bangalore,Electronics,Home Office,608.41,7,0.2,3407.1,840.59,4.0,Credit Card
+ORD-10022,2025-05-31,Mumbai,Clothing,Consumer,278.93,9,0.05,2384.85,953.94,3.0,Credit Card
+ORD-10023,2025-10-31,Kolkata,Clothing,Home Office,299.29,9,0.0,2693.61,1077.44,5.0,Net Banking
+ORD-10024,2026-02-08,Hyderabad,Office Supplies,Corporate,144.53,8,0.15,982.8,358.02,4.0,Cash on Delivery
+ORD-10025,2026-05-25,Kolkata,Accessories,Consumer,471.94,2,0.1,849.49,339.8,4.0,Credit Card
+ORD-10026,2025-06-10,Chennai,Furniture,Consumer,562.37,8,0.15,3824.12,1303.85,4.0,Cash on Delivery
+ORD-10027,2026-04-15,Bangalore,Electronics,Home Office,601.78,6,0.2,2888.54,697.59,4.0,Credit Card
+ORD-10028,2025-10-11,Mumbai,Office Supplies,Consumer,758.81,4,0.0,3035.24,1214.1,4.0,Credit Card
+ORD-10029,2025-06-21,Kolkata,Accessories,Home Office,567.83,9,0.25,3832.85,1513.26,4.0,Net Banking
+ORD-10030,2025-04-09,Kolkata,Electronics,Consumer,302.55,1,0.0,302.55,75.64,3.0,Credit Card
+ORD-10031,2025-11-19,Mumbai,Electronics,Corporate,1485.28,2,0.0,2970.56,742.64,3.0,UPI
+ORD-10032,2025-04-14,Delhi,Clothing,Consumer,454.52,7,0.05,3022.56,1209.02,3.0,Cash on Delivery
+ORD-10033,2026-06-09,Chennai,Electronics,Corporate,307.53,8,0.1,2214.22,553.55,5.0,Cash on Delivery
+ORD-10034,2026-04-16,Chennai,Clothing,Consumer,1014.6,3,0.05,2891.61,1156.64,4.0,Credit Card
+ORD-10035,2025-05-30,Mumbai,Electronics,Consumer,1237.45,6,0.05,7053.47,1763.37,4.0,Cash on Delivery
+ORD-10036,2025-02-22,Bangalore,Accessories,Consumer,1266.19,4,0.05,4811.52,1924.61,4.0,Cash on Delivery
+ORD-10037,2025-09-26,Kolkata,Clothing,Consumer,610.25,3,0.05,1739.21,695.68,2.0,Credit Card
+ORD-10038,2026-04-19,Kolkata,Office Supplies,Corporate,625.25,10,0.2,5002.0,1975.89,3.0,UPI
+ORD-10039,2026-05-03,Kolkata,Clothing,Corporate,992.52,5,0.1,4466.34,1786.54,4.0,Cash on Delivery
+ORD-10040,2025-06-03,Bangalore,Office Supplies,Consumer,191.79,5,0.0,958.95,383.58,4.0,UPI
+ORD-10041,2026-03-29,Mumbai,Electronics,Consumer,720.74,1,0.05,684.7,171.18,4.0,UPI
+ORD-10042,2026-06-06,Kolkata,Office Supplies,Consumer,42.65,3,0.05,121.55,48.62,5.0,Credit Card
+ORD-10043,2026-05-31,Mumbai,Accessories,Home Office,1303.45,11,0.15,12187.26,4839.43,4.0,Credit Card
+ORD-10044,2026-03-03,Kolkata,Furniture,Home Office,1359.92,12,0.0,16319.04,5711.66,3.0,UPI
+ORD-10045,2025-09-10,Chennai,Clothing,Consumer,492.08,10,0.1,4428.72,,4.0,Net Banking
+ORD-10046,2025-07-15,Delhi,Furniture,Home Office,78.0,9,0.15,596.7,191.15,3.0,Credit Card
+ORD-10047,2025-07-11,Mumbai,Clothing,Consumer,390.02,8,0.2,2496.13,968.17,3.0,Net Banking
+ORD-10048,2026-06-09,Delhi,Electronics,Consumer,810.8,4,0.15,2756.72,669.78,5.0,Credit Card
+ORD-10049,2026-01-31,Kolkata,Office Supplies,Consumer,1436.07,4,0.05,5457.07,2182.83,4.0,Credit Card
+ORD-10050,2025-03-10,Bangalore,Furniture,Corporate,1133.51,7,0.15,6744.38,2350.43,5.0,UPI
+ORD-10051,2026-02-02,Mumbai,Furniture,Home Office,539.35,2,0.25,809.03,247.2,5.0,Credit Card
+ORD-10052,2025-09-10,Hyderabad,Furniture,Consumer,607.04,11,0.1,6009.7,2103.39,2.0,Credit Card
+ORD-10053,2026-02-26,Kolkata,Furniture,Consumer,1222.94,7,0.25,6420.43,2208.25,4.0,Net Banking
+ORD-10054,2026-03-21,Bangalore,Clothing,Consumer,508.77,14,0.05,6766.64,2706.66,1.0,Cash on Delivery
+ORD-10055,2025-02-27,Delhi,Office Supplies,Home Office,1121.43,3,0.05,3196.08,1278.43,5.0,Net Banking
+ORD-10056,2026-05-23,Bangalore,Office Supplies,Consumer,1445.57,12,0.25,13010.13,5174.03,4.0,Cash on Delivery
+ORD-10057,2025-08-01,Kolkata,Electronics,Corporate,1454.57,2,0.0,2909.14,727.28,3.0,Net Banking
+ORD-10058,2026-02-19,Kolkata,Clothing,Consumer,1110.91,11,0.0,12220.01,4888.0,5.0,Cash on Delivery
+ORD-10059,2025-12-24,Bangalore,Clothing,Consumer,298.42,10,0.0,2984.2,1193.68,3.0,Cash on Delivery
+ORD-10060,2025-02-10,Bangalore,Furniture,Consumer,434.05,5,0.15,1844.71,609.84,3.0,UPI
+ORD-10061,2025-09-10,Kolkata,Furniture,Corporate,1380.38,10,0.2,11043.04,3821.09,1.0,Net Banking
+ORD-10062,2026-01-09,Delhi,Accessories,Consumer,899.31,9,0.25,6070.34,2385.24,5.0,UPI
+ORD-10063,2025-04-15,Bangalore,Electronics,Consumer,1299.79,1,0.05,1234.8,308.7,5.0,Net Banking
+ORD-10064,2026-03-13,Mumbai,Clothing,Corporate,579.22,5,0.05,2751.3,1100.52,2.0,Net Banking
+ORD-10065,2026-03-22,Hyderabad,Office Supplies,Consumer,417.64,7,0.1,2631.13,1052.45,4.0,UPI
+ORD-10066,2025-11-02,Hyderabad,Clothing,Corporate,1317.45,9,0.05,11264.2,4505.68,4.0,Net Banking
+ORD-10067,2025-07-26,Delhi,Clothing,Home Office,1356.66,12,0.25,12209.94,4851.61,4.0,Net Banking
+ORD-10068,2026-03-11,Hyderabad,Furniture,Corporate,1179.81,12,0.0,14157.72,4955.2,4.0,Credit Card
+ORD-10069,2025-05-13,Delhi,Furniture,Home Office,1158.0,4,0.05,4400.4,1540.14,5.0,Credit Card
+ORD-10070,2026-03-26,Bangalore,Clothing,Consumer,132.28,9,0.05,1130.99,452.4,4.0,Net Banking
+ORD-10071,2026-01-09,Delhi,Electronics,Corporate,629.26,3,0.05,1793.39,448.35,5.0,Credit Card
+ORD-10072,2025-02-20,Chennai,Electronics,Consumer,281.98,5,0.05,1339.4,334.85,4.0,Cash on Delivery
+ORD-10073,2025-12-12,Hyderabad,Electronics,Consumer,495.94,10,0.15,4215.49,1020.62,2.0,UPI
+ORD-10074,2025-04-17,Kolkata,Electronics,Consumer,1213.18,1,0.05,1152.52,288.13,5.0,Net Banking
+ORD-10075,2025-02-25,Mumbai,Clothing,Consumer,704.55,13,0.0,9159.15,3663.66,3.0,Net Banking
+ORD-10076,2025-01-07,Delhi,Office Supplies,Corporate,65.1,2,0.05,123.69,49.48,4.0,Net Banking
+ORD-10077,2025-07-11,Bangalore,Furniture,Consumer,496.68,7,0.0,3476.76,1216.87,4.0,Credit Card
+ORD-10078,2025-05-25,Bangalore,Furniture,Consumer,980.26,2,0.0,1960.52,686.18,4.0,UPI
+ORD-10079,2026-01-04,Mumbai,Furniture,Consumer,1351.48,2,0.0,2702.96,946.04,4.0,UPI
+ORD-10080,2026-01-12,Chennai,Electronics,Consumer,384.02,4,0.2,1228.86,298.26,5.0,Cash on Delivery
+ORD-10081,2025-05-17,Chennai,Furniture,Consumer,1473.92,6,0.0,8843.52,3095.23,5.0,Cash on Delivery
+ORD-10082,2025-04-28,Bangalore,Electronics,Corporate,1395.48,11,0.05,14582.77,3645.69,3.0,Cash on Delivery
+ORD-10083,2025-11-22,Kolkata,Clothing,Consumer,1109.65,12,0.0,13315.8,5326.32,4.0,Cash on Delivery
+ORD-10084,2025-05-19,Kolkata,Furniture,Corporate,566.46,8,0.0,4531.68,1586.09,2.0,Cash on Delivery
+ORD-10085,2025-01-13,Delhi,Electronics,Consumer,24.01,9,0.05,205.29,51.32,4.0,Net Banking
+ORD-10086,2026-02-23,Bangalore,Accessories,Home Office,1448.24,14,0.2,16220.29,6438.52,3.0,Net Banking
+ORD-10087,2026-05-28,Delhi,Clothing,Home Office,226.86,9,0.15,1735.48,653.21,5.0,Credit Card
+ORD-10088,2025-01-05,Chennai,Clothing,Home Office,487.97,10,0.0,4879.7,1951.88,,Net Banking
+ORD-10089,2026-06-10,Hyderabad,Clothing,Corporate,669.34,1,0.0,669.34,267.74,5.0,Net Banking
+ORD-10090,2025-04-14,Mumbai,Electronics,Home Office,949.01,8,0.1,6832.87,1708.22,3.0,Net Banking
+ORD-10091,2025-10-16,Mumbai,Office Supplies,Corporate,244.48,1,0.1,220.03,88.01,5.0,Credit Card
+ORD-10092,2025-09-11,Chennai,Clothing,Consumer,1136.86,6,0.15,5797.99,2309.22,5.0,Cash on Delivery
+ORD-10093,2025-01-15,Delhi,Electronics,Consumer,1088.93,2,0.0,2177.86,544.47,4.0,Cash on Delivery
+ORD-10094,2025-10-19,Delhi,Clothing,Home Office,1439.43,8,0.05,10939.67,4375.87,4.0,Net Banking
+ORD-10095,2025-12-12,Kolkata,Electronics,Corporate,768.72,9,0.0,6918.48,1729.62,5.0,Net Banking
+ORD-10096,2026-04-05,Chennai,Accessories,Corporate,54.07,10,0.15,459.6,161.99,2.0,Net Banking
+ORD-10097,2025-01-29,Chennai,Office Supplies,Home Office,201.76,5,0.25,756.6,259.89,2.0,Credit Card
+ORD-10098,2025-01-01,Hyderabad,Furniture,Corporate,610.52,9,0.1,4945.21,1730.82,3.0,Credit Card
+ORD-10099,2025-04-27,Mumbai,Electronics,Consumer,1298.01,6,0.0,7788.06,1947.02,4.0,UPI
+ORD-10100,2025-12-13,Bangalore,Electronics,Consumer,228.47,8,0.05,1736.37,434.09,3.0,Credit Card
+ORD-10101,2025-06-10,Bangalore,Clothing,Corporate,39.38,5,0.05,187.06,74.82,5.0,Credit Card
+ORD-10102,2025-05-28,Bangalore,Electronics,Home Office,763.25,1,0.0,763.25,,4.0,Net Banking
+ORD-10103,2025-11-14,Chennai,Electronics,Consumer,718.66,8,0.05,5461.82,1365.45,3.0,Net Banking
+ORD-10104,2025-06-24,Mumbai,Furniture,Consumer,755.58,3,0.0,2266.74,793.36,3.0,Credit Card
+ORD-10105,2025-02-24,Kolkata,Furniture,Consumer,973.12,12,0.15,9925.82,3424.99,5.0,Net Banking
+ORD-10106,2025-12-15,Bangalore,Clothing,Consumer,310.25,13,0.05,3831.59,1532.64,4.0,Credit Card
+ORD-10107,2025-02-20,Mumbai,Electronics,Consumer,379.89,14,0.1,4786.61,1196.65,5.0,Cash on Delivery
+ORD-10108,2026-03-28,Kolkata,Electronics,Consumer,499.51,2,0.0,999.02,249.75,2.0,Net Banking
+ORD-10109,2025-03-26,Chennai,Electronics,Corporate,643.71,2,0.2,1029.94,224.37,4.0,Net Banking
+ORD-10110,2026-01-21,Bangalore,Electronics,Home Office,530.88,14,0.0,7432.32,1858.08,5.0,Net Banking
+ORD-10111,2026-05-15,Kolkata,Office Supplies,Consumer,857.35,11,0.2,7544.68,2976.88,4.0,Net Banking
+ORD-10112,2025-07-28,Bangalore,Furniture,Corporate,401.67,6,0.1,2169.02,759.16,4.0,UPI
+ORD-10113,2026-03-18,Hyderabad,Clothing,Corporate,1237.42,5,0.15,5259.03,2076.2,2.0,Credit Card
+ORD-10114,2025-06-02,Mumbai,Clothing,Consumer,227.23,11,0.2,1999.62,755.52,4.0,Cash on Delivery
+ORD-10115,2026-03-31,Mumbai,Office Supplies,Consumer,1160.95,14,0.0,16253.3,6501.32,3.0,Net Banking
+ORD-10116,2025-10-19,Delhi,Electronics,Home Office,667.05,4,0.1,2401.38,600.35,3.0,Net Banking
+ORD-10117,2025-11-06,Mumbai,Clothing,Home Office,1104.21,1,0.0,1104.21,441.68,4.0,Net Banking
+ORD-10118,2025-09-01,Chennai,Furniture,Corporate,514.68,10,0.05,4889.46,1711.31,4.0,Cash on Delivery
+ORD-10119,2025-01-17,Bangalore,Clothing,Corporate,700.33,3,0.15,1785.84,673.36,4.0,UPI
+ORD-10120,2025-04-12,Mumbai,Furniture,Consumer,1377.62,13,0.15,15222.7,5291.87,4.0,Cash on Delivery
+ORD-10121,2025-11-14,Kolkata,Office Supplies,Corporate,1143.37,5,0.1,5145.16,2058.06,5.0,Credit Card
+ORD-10122,2026-04-11,Mumbai,Electronics,Home Office,1417.21,10,0.05,13463.49,3365.87,5.0,UPI
+ORD-10123,2025-03-27,Hyderabad,Electronics,Corporate,460.08,8,0.25,2760.48,642.63,4.0,UPI
+ORD-10124,2026-01-07,Hyderabad,Furniture,Home Office,74.77,8,0.0,598.16,209.36,2.0,UPI
+ORD-10125,2025-05-11,Delhi,Furniture,Corporate,116.73,8,0.05,887.15,310.5,5.0,Credit Card
+ORD-10126,2026-02-01,Mumbai,Office Supplies,Corporate,364.78,7,0.05,2425.79,970.32,5.0,Net Banking
+ORD-10127,2025-05-21,Bangalore,Accessories,Consumer,34.04,13,0.15,376.14,127.37,4.0,Credit Card
+ORD-10128,2025-09-29,Hyderabad,Accessories,Corporate,638.29,7,0.05,4244.63,1697.85,5.0,Credit Card
+ORD-10129,2025-01-03,Bangalore,Electronics,Home Office,1079.02,5,0.0,5395.1,1348.78,1.0,UPI
+ORD-10130,2026-02-03,Bangalore,Clothing,Consumer,1425.94,13,0.0,18537.22,7414.89,4.0,Net Banking
+ORD-10131,2026-03-16,Hyderabad,Clothing,Home Office,1483.99,7,0.25,7790.95,3100.95,5.0,Net Banking
+ORD-10132,2025-11-06,Mumbai,Furniture,Consumer,281.26,10,0.0,2812.6,984.41,5.0,Cash on Delivery
+ORD-10133,2026-06-01,Chennai,Accessories,Home Office,1393.07,10,0.05,13234.16,5293.66,3.0,Net Banking
+ORD-10134,2025-03-03,Kolkata,Office Supplies,Consumer,941.95,13,0.05,11633.08,4653.23,4.0,UPI
+ORD-10135,2025-12-23,Chennai,Office Supplies,Consumer,211.68,9,0.0,1905.12,762.05,5.0,UPI
+ORD-10136,2026-06-05,Bangalore,Accessories,Corporate,436.46,12,0.0,5237.52,2095.01,3.0,Credit Card
+ORD-10137,2025-06-25,Mumbai,Electronics,Consumer,1031.22,5,0.25,3867.08,959.0,5.0,UPI
+ORD-10138,2025-12-15,Hyderabad,Clothing,Corporate,824.79,13,0.0,10722.27,4288.91,5.0,Net Banking
+ORD-10139,2025-12-02,Mumbai,Office Supplies,Home Office,1068.38,11,0.0,11752.18,4700.87,5.0,Cash on Delivery
+ORD-10140,2025-07-10,Delhi,Electronics,Home Office,1442.75,9,0.0,12984.75,3246.19,5.0,UPI
+ORD-10141,2025-12-29,Chennai,Accessories,Consumer,843.15,13,0.05,10412.9,4165.16,1.0,Cash on Delivery
+ORD-10142,2026-06-09,Mumbai,Accessories,Corporate,404.51,12,0.0,4854.12,1941.65,5.0,Cash on Delivery
+ORD-10143,2025-11-22,Bangalore,Electronics,Consumer,1263.38,12,0.1,13644.5,3411.12,5.0,Credit Card
+ORD-10144,2025-10-05,Kolkata,Clothing,Consumer,465.43,1,0.15,395.62,121.36,4.0,UPI
+ORD-10145,2026-04-19,Chennai,Office Supplies,Home Office,1020.56,12,0.1,11022.05,4408.82,3.0,Credit Card
+ORD-10146,2026-04-05,Chennai,Electronics,Consumer,743.19,3,0.0,2229.57,557.39,1.0,UPI
+ORD-10147,2026-03-06,Bangalore,Accessories,Consumer,1284.23,7,0.15,7641.17,3038.04,5.0,Net Banking
+ORD-10148,2025-03-25,Mumbai,Electronics,Home Office,243.57,12,0.1,2630.56,657.64,5.0,Credit Card
+ORD-10149,2025-03-25,Bangalore,Electronics,Home Office,625.81,12,0.1,6758.75,1689.69,5.0,Net Banking
+ORD-10150,2026-06-08,Mumbai,Furniture,Corporate,255.68,9,0.2,1840.9,604.37,5.0,UPI
+ORD-10151,2025-07-18,Mumbai,Electronics,Consumer,1382.85,3,0.0,4148.55,1037.14,4.0,UPI
+ORD-10152,2025-07-25,Mumbai,Clothing,Consumer,846.45,9,0.0,7618.05,3047.22,4.0,Credit Card
+ORD-10153,2025-04-27,Mumbai,Furniture,Home Office,241.38,5,0.0,1206.9,422.42,4.0,UPI
+ORD-10154,2026-05-10,Mumbai,Electronics,Corporate,1292.98,6,0.2,6206.3,1513.98,5.0,Credit Card
+ORD-10155,2026-02-05,Chennai,Clothing,Consumer,733.89,12,0.1,7926.01,3170.4,4.0,Cash on Delivery
+ORD-10156,2025-08-30,Bangalore,Furniture,Consumer,538.93,1,0.15,458.09,139.23,4.0,UPI
+ORD-10157,2025-03-31,Delhi,Office Supplies,Consumer,267.87,1,0.25,200.9,69.77,5.0,Credit Card
+ORD-10158,2025-03-14,Chennai,Furniture,Corporate,1309.03,2,0.1,2356.25,824.69,5.0,Net Banking
+ORD-10159,2025-09-08,Mumbai,Clothing,Corporate,904.26,6,0.05,5154.28,2061.71,4.0,Credit Card
+ORD-10160,2025-01-14,Chennai,Electronics,Consumer,256.13,13,0.1,2996.72,749.18,4.0,UPI
+ORD-10161,2025-12-22,Delhi,Office Supplies,Consumer,84.62,12,0.05,964.67,385.87,5.0,UPI
+ORD-10162,2025-12-18,Mumbai,Furniture,Consumer,616.83,13,0.0,8018.79,2806.58,1.0,Credit Card
+ORD-10163,2025-11-28,Chennai,Accessories,Consumer,1272.44,5,0.0,6362.2,2544.88,4.0,Cash on Delivery
+ORD-10164,2025-06-01,Mumbai,Furniture,Corporate,63.5,2,0.05,120.65,42.23,5.0,UPI
+ORD-10165,2025-10-22,Bangalore,Clothing,Home Office,331.78,13,0.05,4097.48,1638.99,5.0,Credit Card
+ORD-10166,2026-06-04,Bangalore,Clothing,Corporate,571.82,2,0.0,1143.64,457.46,5.0,Credit Card
+ORD-10167,2025-11-14,Chennai,Furniture,Corporate,877.53,4,0.05,3334.61,1167.11,3.0,Net Banking
+ORD-10168,2025-01-28,Bangalore,Clothing,Consumer,1164.74,8,0.0,9317.92,3727.17,3.0,Net Banking
+ORD-10169,2026-01-30,Hyderabad,Furniture,Consumer,684.19,12,0.15,6978.74,2418.17,3.0,Net Banking
+ORD-10170,2026-05-28,Bangalore,Furniture,Consumer,916.2,5,0.05,4351.95,1523.18,5.0,Cash on Delivery
+ORD-10171,2025-06-05,Hyderabad,Clothing,Corporate,70.6,14,0.0,988.4,395.36,4.0,Cash on Delivery
+ORD-10172,2025-10-09,Chennai,Electronics,Consumer,1402.14,5,0.0,7010.7,1752.67,4.0,Cash on Delivery
+ORD-10173,2026-05-05,Bangalore,Furniture,Corporate,45.72,9,0.1,370.33,129.62,5.0,Net Banking
+ORD-10174,2025-07-03,Mumbai,Furniture,Corporate,226.68,14,0.0,3173.52,1110.73,5.0,UPI
+ORD-10175,2026-01-10,Chennai,Electronics,Corporate,251.12,6,0.2,1205.38,288.37,4.0,Net Banking
+ORD-10176,2025-04-29,Kolkata,Clothing,Consumer,934.41,8,0.2,5980.22,2352.5,2.0,Credit Card
+ORD-10177,2025-01-01,Chennai,Clothing,Consumer,983.82,10,0.0,9838.2,3935.28,3.0,Cash on Delivery
+ORD-10178,2025-06-10,Bangalore,Office Supplies,Corporate,859.18,9,0.0,7732.62,3093.05,4.0,UPI
+ORD-10179,2026-05-09,Kolkata,Furniture,Home Office,1319.28,7,0.05,8773.21,3070.62,5.0,Cash on Delivery
+ORD-10180,2026-03-31,Chennai,Furniture,Consumer,606.34,5,0.0,3031.7,1061.09,4.0,Credit Card
+ORD-10181,2025-11-01,Mumbai,Furniture,Consumer,888.85,8,0.1,6399.72,2239.9,4.0,UPI
+ORD-10182,2025-01-03,Mumbai,Accessories,Home Office,1373.07,13,0.0,17849.91,7139.96,4.0,UPI
+ORD-10183,2025-10-31,Mumbai,Furniture,Corporate,1152.03,6,0.1,6220.96,2177.34,5.0,Net Banking
+ORD-10184,2025-01-21,Chennai,Electronics,Corporate,1349.09,9,0.1,10927.63,2731.91,4.0,Cash on Delivery
+ORD-10185,2025-05-21,Bangalore,Electronics,Consumer,400.03,4,0.1,1440.11,360.03,5.0,Cash on Delivery
+ORD-10186,2025-10-18,Mumbai,Electronics,Corporate,611.86,13,0.05,7556.47,1889.12,2.0,Net Banking
+ORD-10187,2025-09-20,Delhi,Electronics,Corporate,1069.39,8,0.15,7271.85,1804.63,5.0,Cash on Delivery
+ORD-10188,2026-03-28,Chennai,Office Supplies,Consumer,799.22,11,0.0,8791.42,3516.57,4.0,Credit Card
+ORD-10189,2025-08-08,Chennai,Electronics,Corporate,628.32,13,0.2,6534.53,1593.98,4.0,Net Banking
+ORD-10190,2025-10-20,Bangalore,Clothing,Home Office,1013.71,9,0.0,9123.39,3649.36,4.0,Credit Card
+ORD-10191,2026-03-15,Mumbai,Electronics,Corporate,1296.94,7,0.05,8624.65,2156.16,3.0,Credit Card
+ORD-10192,2026-02-23,Mumbai,Furniture,Consumer,598.54,13,0.0,7781.02,2723.36,3.0,Cash on Delivery
+ORD-10193,2025-09-20,Delhi,Furniture,Consumer,1082.04,1,0.0,1082.04,378.71,4.0,UPI
+ORD-10194,2026-06-15,Mumbai,Furniture,Home Office,1163.48,4,0.0,4653.92,1628.87,5.0,Net Banking
+ORD-10195,2025-03-14,Bangalore,Electronics,Consumer,122.75,1,0.15,104.34,-9.05,2.0,Cash on Delivery
+ORD-10196,2025-05-29,Bangalore,Clothing,Corporate,361.63,10,0.0,3616.3,1446.52,4.0,Net Banking
+ORD-10197,2025-06-21,Mumbai,Clothing,Corporate,708.5,8,0.05,5384.6,2153.84,2.0,Credit Card
+ORD-10198,2026-04-22,Delhi,Electronics,Corporate,163.08,9,0.15,1247.56,306.83,4.0,Cash on Delivery
+ORD-10199,2026-05-30,Kolkata,Electronics,Consumer,245.58,5,0.1,1105.11,276.28,5.0,Credit Card
+ORD-10200,2025-10-13,Mumbai,Clothing,Consumer,1137.8,1,0.1,1024.02,409.61,4.0,Cash on Delivery
+ORD-10201,2026-05-24,Chennai,Furniture,Consumer,553.0,5,0.0,2765.0,967.75,3.0,Credit Card
+ORD-10202,2025-06-29,Bangalore,Accessories,Home Office,259.41,6,0.05,1478.64,591.46,5.0,Credit Card
+ORD-10203,2025-09-01,Chennai,Accessories,Consumer,1229.83,3,0.1,3320.54,1328.22,4.0,UPI
+ORD-10204,2025-05-14,Chennai,Electronics,Home Office,497.34,3,0.0,1492.02,373.0,4.0,UPI
+ORD-10205,2025-07-25,Kolkata,Clothing,Home Office,216.14,6,0.0,1296.84,518.74,4.0,Credit Card
+ORD-10206,2025-04-20,Hyderabad,Office Supplies,Consumer,1430.14,6,0.0,8580.84,3432.34,4.0,Cash on Delivery
+ORD-10207,2026-06-21,Chennai,Electronics,Corporate,200.61,12,0.0,2407.32,601.83,4.0,UPI
+ORD-10208,2026-03-23,Mumbai,Electronics,Corporate,982.3,3,0.0,2946.9,736.73,4.0,UPI
+ORD-10209,2025-12-11,Chennai,Accessories,Consumer,1048.65,9,0.05,8965.96,3586.38,3.0,Credit Card
+ORD-10210,2025-11-25,Delhi,Electronics,Consumer,1043.59,1,0.05,991.41,247.85,,Credit Card
+ORD-10211,2025-04-11,Mumbai,Furniture,Corporate,800.02,7,0.1,5040.13,1764.05,5.0,Net Banking
+ORD-10212,2026-04-28,Bangalore,Furniture,Home Office,1105.75,6,0.25,4975.88,1725.37,3.0,Credit Card
+ORD-10213,2025-09-03,Delhi,Clothing,Corporate,300.75,5,0.0,1503.75,601.5,1.0,UPI
+ORD-10214,2026-05-08,Kolkata,Office Supplies,Home Office,742.02,3,0.0,2226.06,890.42,4.0,Credit Card
+ORD-10215,2025-11-04,Bangalore,Electronics,Consumer,1299.7,12,0.1,14036.76,3509.19,5.0,Credit Card
+ORD-10216,2026-03-12,Hyderabad,Furniture,Home Office,217.05,1,0.1,195.35,68.37,5.0,UPI
+ORD-10217,2025-01-29,Bangalore,Accessories,Consumer,1176.13,12,0.1,12702.2,5080.88,4.0,Net Banking
+ORD-10218,2025-07-19,Chennai,Office Supplies,Consumer,1326.04,5,0.1,5967.18,2386.87,4.0,Credit Card
+ORD-10219,2025-01-08,Chennai,Electronics,Corporate,126.68,8,0.0,1013.44,253.36,1.0,Cash on Delivery
+ORD-10220,2025-10-04,Bangalore,Furniture,Home Office,1456.71,3,0.1,3933.12,1376.59,3.0,Net Banking
+ORD-10221,2026-03-18,Chennai,Clothing,Corporate,412.27,6,0.0,2473.62,989.45,4.0,Credit Card
+ORD-10222,2025-08-11,Delhi,Electronics,Home Office,1007.68,3,0.0,3023.04,755.76,4.0,UPI
+ORD-10223,2025-06-18,Kolkata,Furniture,Home Office,496.88,4,0.0,1987.52,695.63,5.0,UPI
+ORD-10224,2025-06-09,Delhi,Office Supplies,Corporate,209.58,1,0.2,167.66,51.96,4.0,Net Banking
+ORD-10225,2025-05-04,Bangalore,Electronics,Consumer,1393.91,12,0.0,16726.92,4181.73,5.0,Cash on Delivery
+ORD-10226,2025-05-02,Delhi,Office Supplies,Home Office,1380.01,2,0.1,2484.02,993.61,3.0,UPI
+ORD-10227,2025-10-29,Delhi,Office Supplies,Corporate,282.59,6,0.15,1441.21,559.36,4.0,Credit Card
+ORD-10228,2026-04-11,Chennai,Clothing,Consumer,1448.39,3,0.0,4345.17,1738.07,4.0,UPI
+ORD-10229,2026-02-25,Mumbai,Furniture,Consumer,856.23,13,0.0,11130.99,3895.85,4.0,Credit Card
+ORD-10230,2025-05-08,Bangalore,Electronics,Corporate,1221.39,12,0.1,13191.01,3297.75,5.0,Cash on Delivery
+ORD-10231,2026-04-28,Bangalore,Office Supplies,Consumer,841.53,14,0.1,10603.28,4241.31,3.0,Credit Card
+ORD-10232,2025-04-22,Delhi,Clothing,Consumer,1146.27,6,0.15,5845.98,2332.9,5.0,Credit Card
+ORD-10233,2026-01-12,Delhi,Office Supplies,Home Office,716.07,3,0.25,1611.16,622.89,4.0,Cash on Delivery
+ORD-10234,2026-06-20,Chennai,Electronics,Corporate,22.78,7,0.0,159.46,39.87,4.0,Cash on Delivery
+ORD-10235,2025-07-07,Delhi,Electronics,Corporate,731.84,14,0.1,9221.18,2305.3,2.0,UPI
+ORD-10236,2025-02-24,Delhi,Electronics,Consumer,907.07,3,0.0,2721.21,680.3,5.0,Credit Card
+ORD-10237,2025-11-15,Chennai,Electronics,Consumer,1181.65,6,0.0,7089.9,1772.47,5.0,Net Banking
+ORD-10238,2026-03-08,Bangalore,Electronics,Corporate,369.07,4,0.0,1476.28,369.07,5.0,Net Banking
+ORD-10239,2025-04-28,Mumbai,Furniture,Corporate,1182.76,11,0.1,11709.32,4098.26,5.0,Cash on Delivery
+ORD-10240,2025-03-16,Delhi,Accessories,Consumer,857.01,10,0.0,8570.1,3428.04,1.0,Credit Card
+ORD-10241,2025-09-11,Mumbai,Clothing,Home Office,1178.22,3,0.0,3534.66,1413.86,4.0,Net Banking
+ORD-10242,2025-12-15,Bangalore,Furniture,Consumer,1407.28,4,0.0,5629.12,1970.19,2.0,Net Banking
+ORD-10243,2025-10-22,Mumbai,Furniture,Corporate,1152.96,6,0.0,6917.76,2421.22,3.0,Credit Card
+ORD-10244,2026-06-27,Kolkata,Furniture,Consumer,438.46,10,0.0,4384.6,1534.61,3.0,Net Banking
+ORD-10245,2025-08-08,Delhi,Accessories,Consumer,654.75,9,0.15,5008.84,1995.59,4.0,Cash on Delivery
+ORD-10246,2025-09-07,Mumbai,Furniture,Consumer,1162.35,6,0.2,5579.28,1946.77,4.0,Cash on Delivery
+ORD-10247,2026-04-17,Mumbai,Accessories,Consumer,639.81,14,0.1,8061.61,3224.64,5.0,UPI
+ORD-10248,2025-05-11,Delhi,Electronics,Consumer,476.87,5,0.1,2145.91,536.48,4.0,Credit Card
+ORD-10249,2025-06-10,Chennai,Electronics,Consumer,1278.91,7,0.05,8504.75,2126.19,5.0,Credit Card
+ORD-10250,2025-12-20,Bangalore,Furniture,Corporate,832.28,2,0.0,1664.56,582.6,4.0,Credit Card
+ORD-10251,2026-06-01,Kolkata,Office Supplies,Corporate,704.2,3,0.1,1901.34,760.54,4.0,Cash on Delivery
+ORD-10252,2025-10-21,Delhi,Furniture,Consumer,1183.69,7,0.2,6628.66,2290.51,5.0,Cash on Delivery
+ORD-10253,2025-08-02,Chennai,Electronics,Corporate,259.2,14,0.0,3628.8,907.2,4.0,UPI
+ORD-10254,2025-01-26,Mumbai,Clothing,Consumer,528.62,12,0.05,6026.27,2410.51,4.0,UPI
+ORD-10255,2026-03-12,Bangalore,Furniture,Consumer,672.79,11,0.0,7400.69,2590.24,4.0,Cash on Delivery
+ORD-10256,2026-05-23,Delhi,Clothing,Corporate,1200.91,14,0.05,15972.1,6388.84,3.0,Cash on Delivery
+ORD-10257,2026-03-30,Delhi,Furniture,Home Office,1361.09,2,0.0,2722.18,952.76,4.0,Cash on Delivery
+ORD-10258,2025-05-09,Chennai,Furniture,Corporate,1234.16,5,0.05,5862.26,2051.79,4.0,UPI
+ORD-10259,2026-06-28,Chennai,Clothing,Consumer,1482.86,13,0.25,14457.89,5748.1,4.0,Cash on Delivery
+ORD-10260,2025-04-12,Kolkata,Clothing,Consumer,1036.55,3,0.05,2954.17,1181.67,5.0,UPI
+ORD-10261,2026-01-17,Bangalore,Accessories,Consumer,458.8,6,0.05,2615.16,1046.06,5.0,Cash on Delivery
+ORD-10262,2026-01-12,Mumbai,Office Supplies,Consumer,549.54,2,0.15,934.22,329.1,4.0,Cash on Delivery
+ORD-10263,2025-10-04,Chennai,Electronics,Corporate,641.78,2,0.0,1283.56,320.89,4.0,UPI
+ORD-10264,2025-03-16,Mumbai,Clothing,Consumer,1265.34,11,0.15,11830.93,4715.94,1.0,Credit Card
+ORD-10265,2025-09-29,Chennai,Furniture,Consumer,1028.87,6,0.2,4938.58,1713.28,5.0,Net Banking
+ORD-10266,2025-07-10,Bangalore,Office Supplies,Consumer,553.36,5,0.0,2766.8,1106.72,4.0,UPI
+ORD-10267,2026-04-05,Chennai,Office Supplies,Consumer,1350.29,3,0.2,3240.7,1261.1,4.0,Net Banking
+ORD-10268,2025-12-20,Bangalore,Furniture,Home Office,829.04,3,0.05,2362.76,826.97,5.0,Net Banking
+ORD-10269,2025-10-08,Bangalore,Electronics,Home Office,208.63,9,0.0,1877.67,469.42,5.0,UPI
+ORD-10270,2025-10-02,Delhi,Electronics,Home Office,1095.47,11,0.1,10845.15,2711.29,4.0,Net Banking
+ORD-10271,2026-02-02,Chennai,Electronics,Consumer,409.71,9,0.0,3687.39,921.85,4.0,Credit Card
+ORD-10272,2025-07-22,Chennai,Electronics,Corporate,906.24,11,0.2,7974.91,1950.38,4.0,UPI
+ORD-10273,2025-05-07,Mumbai,Furniture,Home Office,442.23,12,0.05,5041.42,1764.5,5.0,UPI
+ORD-10274,2026-04-14,Mumbai,Electronics,Home Office,906.49,1,0.1,815.84,203.96,4.0,Credit Card
+ORD-10275,2025-11-20,Hyderabad,Electronics,Home Office,57.21,7,0.05,380.45,95.11,4.0,Cash on Delivery
+ORD-10276,2025-06-23,Delhi,Clothing,Home Office,676.2,8,0.2,4327.68,1706.04,5.0,Net Banking
+ORD-10277,2025-05-12,Delhi,Electronics,Consumer,1184.39,3,0.1,3197.85,799.46,5.0,UPI
+ORD-10278,2025-12-13,Delhi,Furniture,Corporate,124.98,9,0.0,1124.82,393.69,1.0,UPI
+ORD-10279,2025-10-10,Chennai,Electronics,Home Office,510.39,1,0.1,459.35,114.84,4.0,Cash on Delivery
+ORD-10280,2025-02-18,Chennai,Electronics,Consumer,179.88,10,0.05,1708.86,427.21,4.0,Cash on Delivery
+ORD-10281,2025-11-14,Bangalore,Electronics,Consumer,1228.69,1,0.1,1105.82,276.45,2.0,Net Banking
+ORD-10282,2025-07-02,Hyderabad,Furniture,Corporate,1489.37,13,0.2,15489.45,5408.87,4.0,Net Banking
+ORD-10283,2025-11-28,Hyderabad,Clothing,Consumer,1018.42,1,0.15,865.66,298.29,5.0,Cash on Delivery
+ORD-10284,2025-06-02,Mumbai,Electronics,Consumer,108.1,4,0.1,389.16,97.29,2.0,UPI
+ORD-10285,2026-02-24,Bangalore,Electronics,Consumer,1131.74,1,0.05,1075.15,268.79,4.0,Credit Card
+ORD-10286,2025-04-15,Mumbai,Office Supplies,Corporate,763.19,3,0.2,1831.66,700.1,5.0,Cash on Delivery
+ORD-10287,2026-03-30,Chennai,Accessories,Consumer,810.27,8,0.15,5509.84,2167.67,4.0,Net Banking
+ORD-10288,2025-11-07,Mumbai,Electronics,Consumer,846.79,9,0.1,6859.0,1714.75,4.0,Cash on Delivery
+ORD-10289,2025-10-04,Delhi,Furniture,Corporate,427.56,5,0.2,1710.24,567.02,3.0,Cash on Delivery
+ORD-10290,2026-03-27,Bangalore,Clothing,Corporate,166.33,11,0.05,1738.15,695.26,4.0,Credit Card
+ORD-10291,2025-04-28,Delhi,Clothing,Consumer,266.95,5,0.1,1201.28,480.51,1.0,Credit Card
+ORD-10292,2025-07-12,Kolkata,Furniture,Corporate,580.79,3,0.0,1742.37,609.83,2.0,UPI
+ORD-10293,2026-01-30,Bangalore,Clothing,Corporate,559.6,4,0.05,2126.48,850.59,4.0,Net Banking
+ORD-10294,2026-01-23,Chennai,Accessories,Consumer,1466.63,3,0.25,3299.92,1297.68,1.0,UPI
+ORD-10295,2025-12-29,Bangalore,Electronics,Consumer,1139.2,5,0.0,5696.0,1424.0,5.0,Credit Card
+ORD-10296,2025-06-19,Bangalore,Furniture,Consumer,1492.39,9,0.25,10073.63,3507.79,5.0,Cash on Delivery
+ORD-10297,2025-04-19,Kolkata,Office Supplies,Home Office,727.26,13,0.05,8981.66,3592.66,5.0,Net Banking
+ORD-10298,2025-12-09,Bangalore,Furniture,Consumer,308.04,1,0.05,292.64,102.42,4.0,Credit Card
+ORD-10299,2025-10-27,Hyderabad,Furniture,Consumer,882.82,13,0.05,10902.83,3815.99,4.0,Net Banking
+ORD-10300,2026-03-11,Delhi,Clothing,Consumer,502.22,8,0.1,3615.98,1446.39,3.0,Credit Card
+ORD-10301,2026-06-04,Chennai,Furniture,Corporate,357.07,11,0.2,3142.22,1062.28,4.0,Cash on Delivery
+ORD-10302,2025-09-03,Chennai,Office Supplies,Consumer,1195.43,4,0.05,4542.63,1817.05,1.0,UPI
+ORD-10303,2026-06-13,Kolkata,Furniture,Consumer,1136.84,6,0.05,6479.99,2268.0,4.0,UPI
+ORD-10304,2026-02-21,Mumbai,Furniture,Corporate,1379.73,3,0.05,3932.23,1376.28,5.0,UPI
+ORD-10305,2025-03-23,Bangalore,Clothing,Corporate,1213.75,3,0.0,3641.25,,2.0,Cash on Delivery
+ORD-10306,2025-12-03,Hyderabad,Office Supplies,Consumer,1327.53,11,0.0,14602.83,5841.13,5.0,Credit Card
+ORD-10307,2025-10-14,Delhi,Office Supplies,Home Office,65.21,3,0.1,176.07,70.43,3.0,UPI
+ORD-10308,2025-10-04,Bangalore,Office Supplies,Consumer,331.84,9,0.15,2538.58,965.86,3.0,UPI
+ORD-10309,2025-04-23,Chennai,Electronics,Consumer,525.84,5,0.1,2366.28,591.57,3.0,Cash on Delivery
+ORD-10310,2025-07-07,Mumbai,Office Supplies,Home Office,928.13,8,0.0,7425.04,2970.02,5.0,UPI
+ORD-10311,2026-01-19,Delhi,Electronics,Consumer,832.71,14,0.15,9909.25,2429.67,2.0,Credit Card
+ORD-10312,2025-03-24,Mumbai,Electronics,Consumer,760.92,10,0.0,7609.2,1902.3,4.0,UPI
+ORD-10313,2026-03-26,Delhi,Clothing,Consumer,1297.83,3,0.15,3309.47,1276.97,4.0,Net Banking
+ORD-10314,2025-08-19,Mumbai,Electronics,Corporate,1468.89,5,0.0,7344.45,1836.11,4.0,Credit Card
+ORD-10315,2025-01-31,Hyderabad,Furniture,Consumer,887.08,8,0.05,6741.81,2359.63,4.0,UPI
+ORD-10316,2025-01-14,Bangalore,Electronics,Consumer,449.16,14,0.05,5973.83,1493.46,3.0,Net Banking
+ORD-10317,2026-04-11,Bangalore,Electronics,Home Office,1239.19,11,0.0,13631.09,3407.77,4.0,Credit Card
+ORD-10318,2025-08-29,Mumbai,Electronics,Consumer,1066.33,7,0.05,7091.09,1772.77,4.0,UPI
+ORD-10319,2025-11-21,Kolkata,Electronics,Home Office,1243.54,11,0.0,13678.94,3419.74,5.0,Cash on Delivery
+ORD-10320,2026-03-28,Delhi,Office Supplies,Consumer,1366.72,8,0.25,8200.32,3271.11,4.0,UPI
+ORD-10321,2025-06-24,Chennai,Clothing,Corporate,1449.75,12,0.0,17397.0,6958.8,4.0,Credit Card
+ORD-10322,2026-06-17,Mumbai,Clothing,Home Office,175.12,6,0.25,788.04,287.7,4.0,Net Banking
+ORD-10323,2026-05-11,Chennai,Furniture,Consumer,97.49,9,0.0,877.41,307.09,4.0,Cash on Delivery
+ORD-10324,2025-01-31,Delhi,Furniture,Home Office,1101.13,6,0.0,6606.78,2312.37,4.0,Credit Card
+ORD-10325,2025-06-11,Bangalore,Accessories,Consumer,1110.9,6,0.1,5998.86,2399.54,4.0,Cash on Delivery
+ORD-10326,2026-03-14,Mumbai,Electronics,Consumer,1006.96,1,0.0,1006.96,251.74,4.0,Cash on Delivery
+ORD-10327,2025-02-22,Delhi,Electronics,Home Office,1260.63,1,0.0,1260.63,315.16,4.0,Credit Card
+ORD-10328,2026-01-22,Bangalore,Furniture,Corporate,34.69,11,0.2,305.27,99.97,4.0,Credit Card
+ORD-10329,2025-04-29,Delhi,Office Supplies,Corporate,1464.5,11,0.05,15304.02,6121.61,2.0,Net Banking
+ORD-10330,2026-02-25,Bangalore,Electronics,Consumer,1164.25,10,0.0,11642.5,2910.62,4.0,Cash on Delivery
+ORD-10331,2026-06-12,Mumbai,Clothing,Corporate,1321.3,3,0.0,3963.9,1585.56,5.0,Credit Card
+ORD-10332,2026-05-19,Bangalore,Furniture,Consumer,117.23,9,0.2,844.06,263.27,4.0,Cash on Delivery
+ORD-10333,2026-04-16,Delhi,Clothing,Home Office,373.95,8,0.25,2243.7,867.98,5.0,Cash on Delivery
+ORD-10334,2025-10-05,Bangalore,Electronics,Consumer,228.39,10,0.15,1941.31,466.15,3.0,Credit Card
+ORD-10335,2026-04-01,Mumbai,Furniture,Corporate,404.66,1,0.2,323.73,93.13,5.0,Credit Card
+ORD-10336,2025-06-08,Delhi,Electronics,Consumer,31.61,4,0.0,126.44,31.61,1.0,Credit Card
+ORD-10337,2026-02-26,Mumbai,Electronics,Corporate,1025.84,5,0.1,4616.28,1154.07,5.0,UPI
+ORD-10338,2025-07-29,Mumbai,Electronics,Consumer,850.09,6,0.05,4845.51,1211.38,3.0,Net Banking
+ORD-10339,2025-06-10,Chennai,Accessories,Corporate,599.95,12,0.25,5399.55,2145.96,5.0,Cash on Delivery
+ORD-10340,2025-03-31,Mumbai,Electronics,Consumer,1380.69,7,0.0,9664.83,2416.21,4.0,UPI
+ORD-10341,2026-01-25,Chennai,Office Supplies,Home Office,1416.68,11,0.0,15583.48,6233.39,5.0,UPI
+ORD-10342,2025-09-04,Bangalore,Office Supplies,Corporate,478.8,14,0.1,6032.88,2413.15,4.0,Net Banking
+ORD-10343,2025-04-03,Mumbai,Electronics,Consumer,548.4,12,0.0,6580.8,1645.2,4.0,Cash on Delivery
+ORD-10344,2025-06-19,Bangalore,Office Supplies,Corporate,161.19,5,0.0,805.95,322.38,4.0,Cash on Delivery
+ORD-10345,2025-06-22,Chennai,Electronics,Consumer,1380.91,3,0.05,3935.59,983.9,4.0,Net Banking
+ORD-10346,2026-02-08,Delhi,Accessories,Home Office,874.14,14,0.1,11014.16,4405.66,5.0,Credit Card
+ORD-10347,2025-04-01,Bangalore,Office Supplies,Home Office,1318.49,4,0.0,5273.96,2109.58,4.0,Net Banking
+ORD-10348,2025-02-10,Chennai,Electronics,Consumer,1302.82,13,0.0,16936.66,4234.16,4.0,Cash on Delivery
+ORD-10349,2025-04-09,Bangalore,Office Supplies,Consumer,656.55,7,0.2,3676.68,1425.51,4.0,Cash on Delivery
+ORD-10350,2025-03-25,Mumbai,Electronics,Corporate,295.48,3,0.05,842.12,210.53,1.0,UPI
+ORD-10351,2026-05-20,Bangalore,Electronics,Home Office,700.8,8,0.15,4765.44,1184.22,5.0,Credit Card
+ORD-10352,2026-06-20,Bangalore,Office Supplies,Corporate,705.67,5,0.0,3528.35,1411.34,4.0,Credit Card
+ORD-10353,2025-09-11,Mumbai,Furniture,Corporate,110.77,6,0.0,664.62,232.62,5.0,Net Banking
+ORD-10354,2025-03-26,Bangalore,Electronics,Consumer,1099.43,12,0.0,13193.16,3298.29,5.0,Cash on Delivery
+ORD-10355,2025-06-18,Hyderabad,Furniture,Consumer,501.44,9,0.0,4512.96,1579.54,3.0,Credit Card
+ORD-10356,2026-01-17,Bangalore,Accessories,Consumer,346.32,6,0.0,2077.92,831.17,4.0,Credit Card
+ORD-10357,2025-09-29,Chennai,Furniture,Corporate,267.64,14,0.05,3559.61,1245.86,5.0,UPI
+ORD-10358,2026-05-20,Bangalore,Accessories,Corporate,212.31,5,0.0,1061.55,424.62,4.0,Credit Card
+ORD-10359,2025-03-22,Kolkata,Office Supplies,Corporate,1077.2,11,0.15,10071.82,4018.24,2.0,Credit Card
+ORD-10360,2025-11-09,Bangalore,Office Supplies,Consumer,531.11,6,0.1,2867.99,1147.2,3.0,Credit Card
+ORD-10361,2025-03-17,Delhi,Furniture,Corporate,481.74,10,0.0,4817.4,1686.09,5.0,Cash on Delivery
+ORD-10362,2026-03-28,Bangalore,Electronics,Home Office,36.9,10,0.1,332.1,83.03,5.0,Net Banking
+ORD-10363,2025-11-11,Mumbai,Clothing,Corporate,820.29,5,0.05,3896.38,1558.55,5.0,UPI
+ORD-10364,2026-06-09,Kolkata,Clothing,Home Office,355.56,11,0.2,3128.93,1239.49,4.0,Net Banking
+ORD-10365,2026-05-29,Hyderabad,Clothing,Corporate,390.69,8,0.2,2500.42,956.89,5.0,Net Banking
+ORD-10366,2025-07-29,Chennai,Electronics,Consumer,49.3,5,0.0,246.5,61.62,4.0,Credit Card
+ORD-10367,2025-04-07,Bangalore,Office Supplies,Corporate,385.75,1,0.0,385.75,154.3,4.0,Net Banking
+ORD-10368,2025-07-16,Chennai,Electronics,Consumer,1473.43,4,0.1,5304.35,1326.09,4.0,UPI
+ORD-10369,2025-08-03,Bangalore,Office Supplies,Consumer,431.22,2,0.2,689.95,229.82,1.0,UPI
+ORD-10370,2025-07-21,Chennai,Accessories,Consumer,617.33,5,0.0,3086.65,1234.66,4.0,Credit Card
+ORD-10371,2025-07-23,Chennai,Clothing,Corporate,1115.44,2,0.0,2230.88,892.35,4.0,UPI
+ORD-10372,2025-06-03,Mumbai,Electronics,Consumer,1428.11,11,0.05,14923.75,3730.94,4.0,Net Banking
+ORD-10373,2026-04-28,Mumbai,Electronics,Consumer,1448.22,11,0.1,14337.38,3584.34,5.0,Cash on Delivery
+ORD-10374,2025-11-22,Bangalore,Electronics,Corporate,1301.82,1,0.0,1301.82,325.45,4.0,Credit Card
+ORD-10375,2025-03-20,Chennai,Accessories,Consumer,1163.01,4,0.1,4186.84,1674.74,4.0,Cash on Delivery
+ORD-10376,2026-03-25,Chennai,Clothing,Consumer,686.38,1,0.0,686.38,274.55,5.0,UPI
+ORD-10377,2025-09-19,Kolkata,Electronics,Consumer,661.7,3,0.2,1588.08,388.23,5.0,Net Banking
+ORD-10378,2025-09-28,Delhi,Furniture,Consumer,1494.47,12,0.1,16140.28,5649.1,4.0,UPI
+ORD-10379,2025-07-31,Chennai,Clothing,Home Office,94.03,4,0.0,376.12,150.45,3.0,Credit Card
+ORD-10380,2026-01-01,Bangalore,Electronics,Consumer,699.23,3,0.0,2097.69,524.42,4.0,Cash on Delivery
+ORD-10381,2025-12-04,Bangalore,Furniture,Home Office,587.26,4,0.2,1879.23,628.24,3.0,UPI
+ORD-10382,2026-05-09,Bangalore,Accessories,Corporate,816.73,1,0.2,653.38,215.17,5.0,UPI
+ORD-10383,2025-07-06,Bangalore,Clothing,Consumer,1064.08,10,0.05,10108.76,4043.5,4.0,Net Banking
+ORD-10384,2025-12-01,Chennai,Office Supplies,Consumer,677.0,9,0.0,6093.0,2437.2,4.0,Net Banking
+ORD-10385,2025-03-29,Kolkata,Electronics,Corporate,626.31,2,0.05,1189.99,297.5,5.0,Credit Card
+ORD-10386,2025-01-21,Delhi,Clothing,Home Office,680.38,4,0.0,2721.52,1088.61,4.0,Cash on Delivery
+ORD-10387,2025-10-10,Mumbai,Furniture,Consumer,543.61,4,0.2,1739.55,566.58,3.0,Net Banking
+ORD-10388,2026-01-24,Bangalore,Furniture,Corporate,1412.86,1,0.0,1412.86,494.5,5.0,UPI
+ORD-10389,2025-04-19,Mumbai,Electronics,Home Office,1021.87,1,0.0,1021.87,255.47,4.0,UPI
+ORD-10390,2026-04-02,Chennai,Clothing,Consumer,1047.05,7,0.05,6962.88,2785.15,5.0,Credit Card
+ORD-10391,2026-03-26,Mumbai,Office Supplies,Consumer,821.23,14,0.0,11497.22,4598.89,3.0,UPI
+ORD-10392,2026-05-14,Chennai,Furniture,Consumer,349.09,9,0.0,3141.81,1099.63,4.0,Net Banking
+ORD-10393,2025-09-04,Chennai,Electronics,Consumer,1129.1,8,0.1,8129.52,2032.38,4.0,Net Banking
+ORD-10394,2025-10-16,Bangalore,Furniture,Corporate,1059.18,1,0.0,1059.18,370.71,4.0,Credit Card
+ORD-10395,2025-04-03,Mumbai,Electronics,Corporate,193.46,13,0.05,2389.23,597.31,5.0,Credit Card
+ORD-10396,2025-03-12,Chennai,Office Supplies,Corporate,1164.02,7,0.05,7740.73,3096.29,1.0,Credit Card
+ORD-10397,2025-06-20,Chennai,Furniture,Corporate,950.07,10,0.0,9500.7,3325.24,1.0,Cash on Delivery
+ORD-10398,2025-03-14,Mumbai,Office Supplies,Home Office,1268.12,3,0.0,3804.36,1521.74,3.0,Net Banking
+ORD-10399,2026-02-17,Chennai,Office Supplies,Home Office,710.14,5,0.05,3373.16,1349.26,4.0,UPI
+ORD-10400,2026-03-11,Bangalore,Electronics,Consumer,729.3,9,0.1,5907.33,1476.83,5.0,Cash on Delivery
+ORD-10401,2025-02-18,Chennai,Furniture,Home Office,661.54,13,0.05,8170.02,2859.51,4.0,Net Banking
+ORD-10402,2025-01-03,Bangalore,Furniture,Consumer,566.97,11,0.0,6236.67,2182.83,1.0,Net Banking
+ORD-10403,2025-04-06,Chennai,Electronics,Corporate,736.3,12,0.1,7952.04,1988.01,2.0,Cash on Delivery
+ORD-10404,2025-02-17,Chennai,Office Supplies,Corporate,1177.3,13,0.0,15304.9,6121.96,4.0,Cash on Delivery
+ORD-10405,2025-12-21,Delhi,Clothing,Corporate,271.42,9,0.0,2442.78,977.11,4.0,UPI
+ORD-10406,2026-02-05,Bangalore,Clothing,Consumer,1165.97,10,0.05,11076.72,4430.69,4.0,UPI
+ORD-10407,2026-03-21,Delhi,Electronics,Consumer,484.46,8,0.05,3681.9,920.48,5.0,UPI
+ORD-10408,2025-10-27,Delhi,Clothing,Corporate,217.8,3,0.15,555.39,187.48,5.0,Cash on Delivery
+ORD-10409,2025-03-03,Delhi,Electronics,Home Office,961.83,1,0.05,913.74,228.44,5.0,Credit Card
+ORD-10410,2026-01-13,Bangalore,Clothing,Home Office,113.45,5,0.15,482.16,152.85,5.0,UPI
+ORD-10411,2025-12-06,Delhi,Clothing,Consumer,341.5,5,0.0,1707.5,683.0,1.0,Credit Card
+ORD-10412,2026-06-01,Mumbai,Office Supplies,Corporate,654.9,14,0.2,7334.88,2914.31,5.0,Cash on Delivery
+ORD-10413,2025-03-18,Hyderabad,Office Supplies,Consumer,873.52,6,0.0,5241.12,2096.45,5.0,Net Banking
+ORD-10414,2025-04-01,Delhi,Office Supplies,Home Office,377.41,13,0.0,4906.33,1962.53,5.0,Net Banking
+ORD-10415,2026-05-14,Bangalore,Electronics,Consumer,482.05,6,0.0,2892.3,723.08,5.0,UPI
+ORD-10416,2026-03-09,Delhi,Electronics,Home Office,936.9,3,0.2,2248.56,538.47,4.0,Net Banking
+ORD-10417,2026-06-21,Chennai,Clothing,Corporate,1020.67,13,0.0,13268.71,5307.48,3.0,Net Banking
+ORD-10418,2026-06-24,Mumbai,Electronics,Home Office,1472.05,4,0.2,4710.56,1151.89,5.0,UPI
+ORD-10419,2025-10-15,Bangalore,Clothing,Corporate,572.22,7,0.2,3204.43,1248.35,2.0,Net Banking
+ORD-10420,2026-05-26,Kolkata,Electronics,Corporate,1126.74,7,0.05,7492.82,1873.2,3.0,Cash on Delivery
+ORD-10421,2026-02-10,Bangalore,Clothing,Home Office,271.2,4,0.1,976.32,390.53,1.0,Net Banking
+ORD-10422,2025-02-12,Bangalore,Furniture,Corporate,1367.12,12,0.05,15585.17,5454.81,4.0,Credit Card
+ORD-10423,2026-03-14,Mumbai,Clothing,Consumer,96.94,8,0.0,775.52,310.21,3.0,Credit Card
+ORD-10424,2025-12-06,Hyderabad,Office Supplies,Corporate,332.62,13,0.25,3243.05,1261.46,4.0,Net Banking
+ORD-10425,2025-03-29,Hyderabad,Electronics,Consumer,340.02,1,0.1,306.02,76.5,5.0,Cash on Delivery
+ORD-10426,2025-07-26,Hyderabad,Electronics,Consumer,119.18,7,0.0,834.26,208.56,4.0,UPI
+ORD-10427,2025-12-16,Bangalore,Clothing,Corporate,636.0,10,0.0,6360.0,2544.0,4.0,UPI
+ORD-10428,2026-04-30,Mumbai,Accessories,Consumer,189.36,12,0.0,2272.32,908.93,5.0,UPI
+ORD-10429,2025-07-11,Bangalore,Electronics,Consumer,399.57,1,0.0,399.57,99.89,4.0,Cash on Delivery
+ORD-10430,2025-04-11,Chennai,Office Supplies,Corporate,133.19,8,0.0,1065.52,426.21,2.0,UPI
+ORD-10431,2025-01-31,Bangalore,Clothing,Home Office,222.98,6,0.15,1137.2,436.22,4.0,Cash on Delivery
+ORD-10432,2025-04-22,Chennai,Office Supplies,Consumer,1476.67,10,0.15,12551.69,5013.11,4.0,Credit Card
+ORD-10433,2025-03-30,Mumbai,Clothing,Corporate,1296.06,7,0.15,7711.56,3035.1,5.0,Cash on Delivery
+ORD-10434,2025-08-06,Chennai,Furniture,Corporate,749.0,12,0.1,8089.2,2831.22,4.0,Credit Card
+ORD-10435,2025-08-15,Delhi,Electronics,Corporate,635.9,14,0.2,7122.08,1735.48,5.0,UPI
+ORD-10436,2025-07-07,Mumbai,Clothing,Consumer,837.94,9,0.1,6787.31,2714.92,3.0,Net Banking
+ORD-10437,2026-02-26,Hyderabad,Electronics,Home Office,746.33,6,0.15,3806.28,933.71,5.0,Cash on Delivery
+ORD-10438,2025-09-04,Mumbai,Electronics,Consumer,1200.64,3,0.2,2881.54,700.2,5.0,Credit Card
+ORD-10439,2025-09-12,Bangalore,Accessories,Consumer,393.92,5,0.2,1575.68,614.04,3.0,Credit Card
+ORD-10440,2025-10-03,Bangalore,Electronics,Consumer,840.42,13,0.0,10925.46,2731.36,4.0,UPI
+ORD-10441,2025-04-19,Kolkata,Clothing,Home Office,1183.0,13,0.05,14610.05,5844.02,4.0,Credit Card
+ORD-10442,2025-09-29,Mumbai,Office Supplies,Corporate,1062.04,13,0.15,11735.54,4671.31,5.0,Credit Card
+ORD-10443,2025-06-20,Chennai,Electronics,Consumer,775.66,4,0.1,2792.38,698.1,4.0,Cash on Delivery
+ORD-10444,2026-04-24,Chennai,Clothing,Consumer,1282.41,9,0.15,9810.44,3911.95,1.0,UPI
+ORD-10445,2025-09-22,Bangalore,Furniture,Corporate,1374.15,8,0.0,10993.2,3847.62,3.0,Credit Card
+ORD-10446,2025-04-17,Delhi,Furniture,Corporate,205.72,1,0.0,205.72,72.0,4.0,Credit Card
+ORD-10447,2026-02-28,Kolkata,Furniture,Consumer,48.35,3,0.05,137.8,48.23,5.0,Net Banking
+ORD-10448,2026-01-06,Bangalore,Electronics,Home Office,1008.44,3,0.1,2722.79,680.7,4.0,UPI
+ORD-10449,2025-05-27,Chennai,Electronics,Corporate,907.45,4,0.1,3266.82,816.71,3.0,Net Banking
+ORD-10450,2025-02-27,Bangalore,Clothing,Corporate,533.39,12,0.25,4800.51,,4.0,Cash on Delivery
+ORD-10451,2025-07-29,Kolkata,Furniture,Home Office,1409.71,2,0.2,2255.54,781.66,2.0,Cash on Delivery
+ORD-10452,2025-07-03,Mumbai,Electronics,Home Office,681.14,2,0.0,1362.28,340.57,1.0,UPI
+ORD-10453,2025-03-14,Delhi,Office Supplies,Corporate,1358.45,5,0.0,6792.25,2716.9,5.0,Credit Card
+ORD-10454,2025-09-28,Bangalore,Office Supplies,Consumer,1081.34,7,0.2,6055.5,2376.9,5.0,Net Banking
+ORD-10455,2025-07-02,Chennai,Furniture,Corporate,1411.53,5,0.05,6704.77,2346.67,5.0,UPI
+ORD-10456,2026-04-14,Delhi,Furniture,Consumer,749.37,10,0.0,7493.7,2622.79,5.0,Credit Card
+ORD-10457,2025-03-11,Hyderabad,Furniture,Corporate,994.82,2,0.0,1989.64,696.37,5.0,Cash on Delivery
+ORD-10458,2025-07-11,Hyderabad,Furniture,Consumer,36.0,7,0.0,252.0,88.2,5.0,UPI
+ORD-10459,2025-08-25,Chennai,Furniture,Consumer,885.92,5,0.0,4429.6,1550.36,4.0,Credit Card
+ORD-10460,2025-12-26,Chennai,Clothing,Corporate,172.83,10,0.15,1469.06,548.96,4.0,Credit Card
+ORD-10461,2026-03-14,Bangalore,Office Supplies,Consumer,1177.44,8,0.0,9419.52,3767.81,2.0,Cash on Delivery
+ORD-10462,2026-03-15,Chennai,Accessories,Corporate,224.07,10,0.0,2240.7,896.28,5.0,Credit Card
+ORD-10463,2025-01-22,Mumbai,Furniture,Consumer,1212.46,1,0.05,1151.84,403.14,3.0,UPI
+ORD-10464,2026-05-11,Mumbai,Office Supplies,Consumer,583.87,13,0.05,7210.79,2884.32,5.0,Credit Card
+ORD-10465,2026-02-19,Bangalore,Accessories,Consumer,1401.95,1,0.05,1331.85,532.74,4.0,Net Banking
+ORD-10466,2025-01-05,Bangalore,Electronics,Corporate,936.47,4,0.05,3558.59,889.65,5.0,Credit Card
+ORD-10467,2026-01-19,Chennai,Furniture,Corporate,85.18,3,0.0,255.54,89.44,4.0,Cash on Delivery
+ORD-10468,2025-05-02,Hyderabad,Office Supplies,Corporate,572.72,11,0.25,4724.94,1864.99,5.0,UPI
+ORD-10469,2025-05-08,Mumbai,Electronics,Consumer,289.03,11,0.0,3179.33,794.83,5.0,Cash on Delivery
+ORD-10470,2026-03-05,Chennai,Furniture,Corporate,161.68,8,0.05,1228.77,430.07,5.0,Credit Card
+ORD-10471,2026-05-02,Chennai,Office Supplies,Home Office,1376.3,10,0.0,13763.0,5505.2,3.0,UPI
+ORD-10472,2026-04-03,Bangalore,Electronics,Corporate,609.38,2,0.15,1035.95,247.4,5.0,UPI
+ORD-10473,2026-05-09,Chennai,Office Supplies,Corporate,661.98,8,0.05,5031.05,2012.42,3.0,UPI
+ORD-10474,2025-07-31,Chennai,Office Supplies,Corporate,1246.16,11,0.25,10280.82,4063.87,4.0,Credit Card
+ORD-10475,2026-02-20,Delhi,Office Supplies,Home Office,612.31,7,0.0,4286.17,1714.47,5.0,Net Banking
+ORD-10476,2026-01-28,Mumbai,Clothing,Corporate,198.17,9,0.0,1783.53,713.41,2.0,Credit Card
+ORD-10477,2025-06-24,Bangalore,Furniture,Home Office,1168.91,2,0.0,2337.82,818.24,4.0,Credit Card
+ORD-10478,2026-05-05,Chennai,Furniture,Consumer,44.56,14,0.0,623.84,218.34,4.0,UPI
+ORD-10479,2025-04-09,Chennai,Office Supplies,Home Office,470.81,1,0.0,470.81,188.32,5.0,Cash on Delivery
+ORD-10480,2025-05-01,Bangalore,Electronics,Consumer,869.45,2,0.2,1391.12,309.88,5.0,Credit Card
+ORD-10481,2025-12-30,Bangalore,Electronics,Corporate,558.89,4,0.25,1676.67,389.68,3.0,Net Banking
+ORD-10482,2025-03-13,Hyderabad,Furniture,Corporate,94.85,12,0.05,1081.29,378.45,3.0,Net Banking
+ORD-10483,2025-09-10,Bangalore,Electronics,Consumer,153.08,4,0.05,581.7,145.43,4.0,Cash on Delivery
+ORD-10484,2026-02-04,Bangalore,Clothing,Home Office,1143.45,13,0.0,14864.85,5945.94,4.0,UPI
+ORD-10485,2026-03-12,Chennai,Clothing,Home Office,1145.04,4,0.05,4351.15,1740.46,5.0,Net Banking
+ORD-10486,2025-06-13,Bangalore,Electronics,Consumer,1244.49,14,0.0,17422.86,4355.72,4.0,Credit Card
+ORD-10487,2026-03-03,Mumbai,Electronics,Home Office,1345.62,4,0.0,5382.48,1345.62,2.0,UPI
+ORD-10488,2025-04-26,Delhi,Office Supplies,Corporate,1240.04,2,0.0,2480.08,992.03,4.0,Net Banking
+ORD-10489,2025-10-05,Delhi,Electronics,Consumer,1489.02,10,0.05,14145.69,3536.42,2.0,UPI
+ORD-10490,2026-04-23,Bangalore,Office Supplies,Corporate,964.09,5,0.15,4097.38,1614.41,4.0,UPI
+ORD-10491,2025-11-12,Mumbai,Furniture,Corporate,54.83,11,0.0,603.13,211.1,2.0,Credit Card
+ORD-10492,2025-01-04,Mumbai,Furniture,Consumer,717.01,11,0.25,5915.33,2052.13,3.0,UPI
+ORD-10493,2026-01-21,Mumbai,Furniture,Consumer,445.99,2,0.1,802.78,280.97,5.0,Cash on Delivery
+ORD-10494,2025-07-14,Delhi,Clothing,Corporate,1030.15,12,0.0,12361.8,4944.72,4.0,Cash on Delivery
+ORD-10495,2025-04-06,Chennai,Clothing,Consumer,945.49,9,0.1,7658.47,3063.39,3.0,UPI
+ORD-10496,2025-08-25,Mumbai,Office Supplies,Consumer,1106.54,2,0.0,2213.08,885.23,4.0,Cash on Delivery
+ORD-10497,2026-02-28,Chennai,Electronics,Corporate,1214.0,4,0.05,4613.2,1153.3,5.0,Net Banking
+ORD-10498,2026-02-12,Mumbai,Clothing,Home Office,608.87,12,0.05,6941.12,2776.45,3.0,Net Banking
+ORD-10499,2025-10-07,Bangalore,Furniture,Home Office,208.68,2,0.2,333.89,93.56,3.0,Cash on Delivery
+ORD-10500,2026-02-24,Delhi,Office Supplies,Home Office,916.11,1,0.15,778.69,278.82,4.0,Net Banking
+ORD-10501,2026-04-25,Delhi,Electronics,Home Office,502.22,3,0.05,1431.33,357.83,1.0,UPI
+ORD-10502,2026-01-31,Bangalore,Clothing,Corporate,527.24,12,0.2,5061.5,1998.87,4.0,Credit Card
+ORD-10503,2025-04-19,Hyderabad,Clothing,Consumer,462.2,11,0.0,5084.2,2033.68,5.0,Credit Card
+ORD-10504,2026-04-21,Bangalore,Electronics,Corporate,1279.7,11,0.15,11965.19,2945.85,4.0,Net Banking
+ORD-10505,2026-02-13,Bangalore,Clothing,Home Office,354.08,8,0.0,2832.64,1133.06,4.0,Net Banking
+ORD-10506,2025-12-10,Bangalore,Electronics,Consumer,1339.15,3,0.15,3414.83,834.0,4.0,Credit Card
+ORD-10507,2025-11-22,Mumbai,Clothing,Consumer,1112.99,5,0.05,5286.7,2114.68,4.0,Credit Card
+ORD-10508,2025-10-03,Delhi,Office Supplies,Consumer,1100.77,13,0.15,12163.51,4830.09,5.0,Cash on Delivery
+ORD-10509,2025-02-21,Mumbai,Office Supplies,Consumer,354.53,8,0.25,2127.18,841.01,4.0,Net Banking
+ORD-10510,2025-03-18,Mumbai,Electronics,Consumer,176.12,12,0.05,2007.77,501.94,2.0,Net Banking
+ORD-10511,2025-02-11,Hyderabad,Electronics,Consumer,1040.18,14,0.05,13834.39,3458.6,4.0,Cash on Delivery
+ORD-10512,2025-08-20,Mumbai,Electronics,Home Office,130.46,7,0.05,867.56,216.89,,UPI
+ORD-10513,2026-02-25,Chennai,Furniture,Consumer,1154.46,6,0.0,6926.76,2424.37,5.0,Cash on Delivery
+ORD-10514,2025-03-16,Kolkata,Clothing,Consumer,567.64,9,0.0,5108.76,2043.5,2.0,Cash on Delivery
+ORD-10515,2026-01-02,Bangalore,Office Supplies,Consumer,133.55,14,0.0,1869.7,747.88,4.0,Credit Card
+ORD-10516,2026-02-18,Kolkata,Office Supplies,Consumer,1478.99,6,0.0,8873.94,3549.58,4.0,Cash on Delivery
+ORD-10517,2025-09-03,Mumbai,Electronics,Home Office,1411.95,6,0.0,8471.7,2117.93,3.0,UPI
+ORD-10518,2026-03-17,Mumbai,Clothing,Consumer,520.36,1,0.0,520.36,208.14,4.0,Cash on Delivery
+ORD-10519,2026-03-03,Delhi,Electronics,Consumer,558.2,13,0.05,6893.77,1723.44,4.0,Net Banking
+ORD-10520,2025-10-19,Mumbai,Electronics,Corporate,1363.87,2,0.0,2727.74,681.93,5.0,Net Banking
+ORD-10521,2025-07-06,Bangalore,Clothing,Corporate,492.3,7,0.05,3273.79,1309.52,3.0,UPI
+ORD-10522,2025-07-22,Delhi,Accessories,Consumer,474.32,7,0.1,2988.22,1195.29,4.0,UPI
+ORD-10523,2025-03-31,Chennai,Clothing,Consumer,620.03,5,0.05,2945.14,1178.06,5.0,UPI
+ORD-10524,2025-02-02,Chennai,Office Supplies,Corporate,525.93,6,0.0,3155.58,1262.23,5.0,Credit Card
+ORD-10525,2025-04-27,Bangalore,Clothing,Consumer,100.76,3,0.0,302.28,120.91,4.0,UPI
+ORD-10526,2026-02-25,Hyderabad,Office Supplies,Consumer,672.9,11,0.05,7031.8,2812.72,4.0,Credit Card
+ORD-10527,2025-01-22,Chennai,Accessories,Consumer,679.17,5,0.05,3226.06,1290.42,5.0,UPI
+ORD-10528,2026-02-16,Bangalore,Electronics,Consumer,51.11,6,0.0,306.66,76.67,4.0,UPI
+ORD-10529,2025-02-22,Mumbai,Electronics,Corporate,138.56,13,0.0,1801.28,450.32,3.0,UPI
+ORD-10530,2025-12-14,Chennai,Clothing,Consumer,1285.11,13,0.05,15871.11,6348.44,4.0,Net Banking
+ORD-10531,2025-05-02,Chennai,Furniture,Consumer,125.31,7,0.05,833.31,291.66,5.0,Credit Card
+ORD-10532,2025-11-30,Kolkata,Electronics,Consumer,85.22,9,0.2,613.58,124.77,4.0,UPI
+ORD-10533,2026-05-06,Mumbai,Furniture,Consumer,1406.65,9,0.0,12659.85,4430.95,2.0,Cash on Delivery
+ORD-10534,2026-02-24,Bangalore,Accessories,Corporate,1424.49,2,0.2,2279.18,902.57,3.0,Net Banking
+ORD-10535,2026-03-20,Chennai,Electronics,Consumer,1153.64,9,0.05,9863.62,2465.91,1.0,Credit Card
+ORD-10536,2025-03-09,Chennai,Electronics,Home Office,907.05,8,0.0,7256.4,1814.1,4.0,Credit Card
+ORD-10537,2026-06-21,Chennai,Clothing,Consumer,889.79,13,0.05,10988.91,4395.56,5.0,Net Banking
+ORD-10538,2025-04-24,Mumbai,Clothing,Home Office,500.89,10,0.2,4007.12,1560.47,3.0,Credit Card
+ORD-10539,2026-03-16,Delhi,Furniture,Corporate,641.62,11,0.0,7057.82,2470.24,4.0,Cash on Delivery
+ORD-10540,2025-09-10,Chennai,Accessories,Home Office,985.37,8,0.05,7488.81,2995.52,4.0,Net Banking
+ORD-10541,2025-11-06,Chennai,Clothing,Corporate,1491.24,8,0.0,11929.92,4771.97,5.0,Credit Card
+ORD-10542,2025-03-26,Kolkata,Electronics,Consumer,1010.44,11,0.1,10003.36,2500.84,4.0,Credit Card
+ORD-10543,2026-05-06,Bangalore,Electronics,Corporate,314.24,11,0.05,3283.81,820.95,3.0,Net Banking
+ORD-10544,2025-10-30,Chennai,Furniture,Corporate,854.56,6,0.0,5127.36,1794.58,5.0,Credit Card
+ORD-10545,2026-06-17,Delhi,Clothing,Consumer,217.11,5,0.2,868.44,339.63,4.0,UPI
+ORD-10546,2026-06-21,Bangalore,Furniture,Home Office,379.02,6,0.0,2274.12,795.94,4.0,Cash on Delivery
+ORD-10547,2026-05-18,Mumbai,Electronics,Consumer,1077.33,4,0.05,4093.85,1023.46,4.0,UPI
+ORD-10548,2025-01-01,Chennai,Electronics,Home Office,874.13,9,0.0,7867.17,1966.79,4.0,Net Banking
+ORD-10549,2025-01-25,Delhi,Accessories,Corporate,287.56,2,0.0,575.12,230.05,5.0,UPI
+ORD-10550,2026-06-30,Bangalore,Clothing,Corporate,119.72,9,0.0,1077.48,430.99,2.0,UPI
+ORD-10551,2025-01-10,Mumbai,Electronics,Consumer,612.46,9,0.1,4960.93,1240.23,4.0,Cash on Delivery
+ORD-10552,2026-06-05,Bangalore,Electronics,Consumer,512.52,9,0.2,3690.14,896.9,4.0,UPI
+ORD-10553,2026-06-09,Chennai,Clothing,Consumer,216.73,3,0.0,650.19,260.08,3.0,Credit Card
+ORD-10554,2025-04-27,Chennai,Accessories,Consumer,329.99,13,0.1,3860.88,1544.35,3.0,Cash on Delivery
+ORD-10555,2025-03-14,Delhi,Furniture,Consumer,330.34,8,0.15,2246.31,777.44,4.0,UPI
+ORD-10556,2025-06-28,Hyderabad,Electronics,Consumer,506.27,7,0.0,3543.89,885.97,4.0,Credit Card
+ORD-10557,2025-04-16,Delhi,Furniture,Consumer,325.74,4,0.1,1172.66,410.43,3.0,Net Banking
+ORD-10558,2026-04-12,Mumbai,Accessories,Home Office,1241.31,9,0.0,11171.79,4468.72,5.0,UPI
+ORD-10559,2026-04-12,Kolkata,Furniture,Consumer,112.4,6,0.0,674.4,236.04,3.0,Cash on Delivery
+ORD-10560,2026-05-15,Mumbai,Furniture,Home Office,1309.55,10,0.15,11131.17,3884.31,4.0,Net Banking
+ORD-10561,2025-05-14,Delhi,Furniture,Corporate,975.67,10,0.0,9756.7,3414.85,4.0,Cash on Delivery
+ORD-10562,2025-03-16,Hyderabad,Electronics,Home Office,506.66,8,0.0,4053.28,1013.32,5.0,Net Banking
+ORD-10563,2025-04-22,Bangalore,Office Supplies,Consumer,1063.46,8,0.1,7656.91,3062.76,3.0,Net Banking
+ORD-10564,2026-01-22,Chennai,Electronics,Corporate,723.7,6,0.0,4342.2,1085.55,3.0,Net Banking
+ORD-10565,2025-10-25,Mumbai,Electronics,Corporate,776.45,1,0.05,737.63,184.41,5.0,Cash on Delivery
+ORD-10566,2025-01-03,Delhi,Electronics,Home Office,1013.1,13,0.2,10536.24,2622.67,4.0,Cash on Delivery
+ORD-10567,2025-02-19,Bangalore,Furniture,Consumer,537.7,2,0.1,967.86,338.75,3.0,Net Banking
+ORD-10568,2025-12-27,Chennai,Accessories,Corporate,1493.3,4,0.05,5674.54,2269.82,5.0,UPI
+ORD-10569,2025-03-20,Bangalore,Furniture,Corporate,672.18,13,0.0,8738.34,3058.42,2.0,Credit Card
+ORD-10570,2025-01-14,Kolkata,Electronics,Consumer,1001.46,8,0.05,7611.1,1902.78,4.0,Credit Card
+ORD-10571,2025-01-22,Chennai,Office Supplies,Corporate,640.08,1,0.0,640.08,256.03,1.0,Cash on Delivery
+ORD-10572,2026-04-27,Delhi,Furniture,Home Office,404.21,3,0.0,1212.63,424.42,3.0,Credit Card
+ORD-10573,2026-03-02,Chennai,Electronics,Home Office,1268.94,6,0.15,6471.59,1579.02,5.0,Credit Card
+ORD-10574,2026-06-14,Delhi,Electronics,Corporate,475.4,13,0.0,6180.2,1545.05,4.0,Cash on Delivery
+ORD-10575,2025-06-10,Delhi,Electronics,Consumer,1491.61,2,0.0,2983.22,745.8,3.0,Cash on Delivery
+ORD-10576,2025-01-13,Chennai,Furniture,Corporate,1036.04,13,0.05,12795.09,4478.28,5.0,Net Banking
+ORD-10577,2025-07-01,Chennai,Office Supplies,Consumer,1483.48,8,0.0,11867.84,4747.14,4.0,UPI
+ORD-10578,2026-04-15,Delhi,Office Supplies,Consumer,1297.13,13,0.1,15176.42,6070.57,4.0,Net Banking
+ORD-10579,2026-03-07,Bangalore,Electronics,Home Office,519.25,8,0.0,4154.0,1038.5,5.0,UPI
+ORD-10580,2025-08-29,Chennai,Furniture,Consumer,653.67,9,0.0,5883.03,2059.06,4.0,UPI
+ORD-10581,2026-06-18,Kolkata,Office Supplies,Corporate,814.82,1,0.25,611.12,236.74,3.0,Credit Card
+ORD-10582,2025-10-21,Bangalore,Electronics,Corporate,201.3,8,0.0,1610.4,402.6,4.0,UPI
+ORD-10583,2025-04-24,Chennai,Office Supplies,Corporate,135.23,3,0.05,385.41,154.16,5.0,Cash on Delivery
+ORD-10584,2026-05-07,Bangalore,Furniture,Consumer,191.03,4,0.2,611.3,168.04,5.0,Net Banking
+ORD-10585,2026-01-26,Chennai,Electronics,Consumer,578.04,4,0.15,1965.34,466.29,4.0,UPI
+ORD-10586,2025-01-10,Chennai,Furniture,Home Office,988.99,9,0.1,8010.82,2803.79,3.0,Credit Card
+ORD-10587,2025-02-27,Chennai,Furniture,Consumer,78.92,10,0.0,789.2,276.22,3.0,Net Banking
+ORD-10588,2025-04-07,Chennai,Electronics,Consumer,1422.71,13,0.05,17570.47,4392.62,5.0,Cash on Delivery
+ORD-10589,2025-11-30,Mumbai,Office Supplies,Corporate,957.23,1,0.2,765.78,260.02,5.0,Cash on Delivery
+ORD-10590,2025-10-14,Delhi,Electronics,Consumer,484.28,6,0.0,2905.68,726.42,3.0,UPI
+ORD-10591,2025-05-06,Chennai,Furniture,Home Office,993.49,3,0.1,2682.42,938.85,4.0,Credit Card
+ORD-10592,2025-02-01,Bangalore,Office Supplies,Consumer,714.18,2,0.05,1356.94,542.78,4.0,UPI
+ORD-10593,2025-07-18,Bangalore,Electronics,Consumer,126.97,10,0.0,1269.7,317.43,2.0,Credit Card
+ORD-10594,2025-06-25,Chennai,Furniture,Consumer,237.8,8,0.05,1807.28,632.55,3.0,Credit Card
+ORD-10595,2025-05-10,Bangalore,Electronics,Home Office,527.4,1,0.0,527.4,131.85,5.0,Cash on Delivery
+ORD-10596,2025-12-07,Mumbai,Office Supplies,Corporate,811.15,2,0.1,1460.07,584.03,4.0,Credit Card
+ORD-10597,2025-03-23,Chennai,Office Supplies,Consumer,25.68,11,0.1,254.23,101.69,4.0,Net Banking
+ORD-10598,2025-09-22,Bangalore,Furniture,Consumer,1311.49,10,0.2,10491.92,3648.1,4.0,Cash on Delivery
+ORD-10599,2026-03-09,Bangalore,Furniture,Consumer,1366.13,1,0.0,1366.13,478.15,4.0,Cash on Delivery
+ORD-10600,2025-02-18,Hyderabad,Furniture,Corporate,1412.67,7,0.0,9888.69,3461.04,4.0,Cash on Delivery
+ORD-10601,2025-07-08,Delhi,Furniture,Consumer,112.51,10,0.05,1068.85,374.1,4.0,UPI
+ORD-10602,2025-05-28,Chennai,Clothing,Corporate,322.02,7,0.05,2141.43,856.57,1.0,Cash on Delivery
+ORD-10603,2026-03-12,Mumbai,Furniture,Corporate,1212.29,1,0.2,969.83,310.81,5.0,Cash on Delivery
+ORD-10604,2025-10-09,Mumbai,Furniture,Consumer,52.69,7,0.0,368.83,129.09,4.0,UPI
+ORD-10605,2025-10-31,Mumbai,Electronics,Corporate,908.37,12,0.1,9810.4,2452.6,5.0,UPI
+ORD-10606,2025-12-05,Bangalore,Clothing,Consumer,1348.15,6,0.0,8088.9,3235.56,5.0,UPI
+ORD-10607,2026-01-08,Bangalore,Furniture,Home Office,523.21,11,0.2,4604.25,1602.7,4.0,Credit Card
+ORD-10608,2026-06-07,Bangalore,Office Supplies,Corporate,1187.75,9,0.1,9620.77,3848.31,3.0,Credit Card
+ORD-10609,2025-06-03,Chennai,Furniture,Corporate,1289.74,8,0.1,9286.13,3250.15,4.0,Net Banking
+ORD-10610,2025-01-14,Delhi,Electronics,Consumer,807.69,10,0.1,7269.21,1817.3,2.0,UPI
+ORD-10611,2026-05-31,Chennai,Clothing,Corporate,1349.57,2,0.1,2429.23,971.69,5.0,Credit Card
+ORD-10612,2025-11-26,Mumbai,Electronics,Corporate,942.6,12,0.05,10745.64,2686.41,4.0,Net Banking
+ORD-10613,2025-11-05,Delhi,Office Supplies,Consumer,1166.14,10,0.05,11078.33,4431.33,4.0,UPI
+ORD-10614,2025-08-24,Bangalore,Accessories,Home Office,763.51,1,0.1,687.16,274.86,5.0,Credit Card
+ORD-10615,2025-03-27,Bangalore,Accessories,Consumer,838.17,2,0.0,1676.34,670.54,4.0,Cash on Delivery
+ORD-10616,2025-09-05,Chennai,Electronics,Consumer,723.57,2,0.0,1447.14,361.79,2.0,Cash on Delivery
+ORD-10617,2025-10-25,Chennai,Furniture,Corporate,111.68,10,0.05,1060.96,371.34,5.0,Credit Card
+ORD-10618,2025-06-29,Bangalore,Furniture,Corporate,830.33,1,0.15,705.78,230.21,4.0,UPI
+ORD-10619,2026-03-11,Mumbai,Clothing,Consumer,486.99,13,0.2,5064.7,2010.47,4.0,Credit Card
+ORD-10620,2025-05-19,Hyderabad,Clothing,Corporate,441.21,9,0.0,3970.89,1588.36,4.0,Credit Card
+ORD-10621,2025-10-02,Chennai,Electronics,Consumer,161.55,2,0.0,323.1,80.78,4.0,Credit Card
+ORD-10622,2025-04-22,Mumbai,Furniture,Consumer,528.05,10,0.05,5016.47,1755.76,2.0,Net Banking
+ORD-10623,2025-04-18,Kolkata,Furniture,Corporate,137.98,5,0.0,689.9,241.46,5.0,Cash on Delivery
+ORD-10624,2025-01-16,Chennai,Clothing,Home Office,257.68,13,0.1,3014.86,1205.94,5.0,Credit Card
+ORD-10625,2025-06-18,Chennai,Furniture,Consumer,1365.06,8,0.05,10374.46,3631.06,3.0,Net Banking
+ORD-10626,2025-01-11,Delhi,Accessories,Home Office,686.41,13,0.0,8923.33,3569.33,5.0,Cash on Delivery
+ORD-10627,2026-04-06,Chennai,Electronics,Corporate,649.75,5,0.0,3248.75,812.19,1.0,UPI
+ORD-10628,2025-12-23,Bangalore,Electronics,Corporate,616.49,4,0.0,2465.96,616.49,5.0,Credit Card
+ORD-10629,2026-04-27,Kolkata,Office Supplies,Home Office,1021.39,14,0.0,14299.46,5719.78,4.0,Credit Card
+ORD-10630,2026-06-29,Chennai,Clothing,Home Office,1496.33,11,0.15,13990.69,5558.04,2.0,Net Banking
+ORD-10631,2025-07-01,Bangalore,Furniture,Home Office,971.31,8,0.0,7770.48,2719.67,4.0,UPI
+ORD-10632,2026-02-24,Mumbai,Clothing,Home Office,1116.49,14,0.0,15630.86,6252.34,4.0,Credit Card
+ORD-10633,2026-03-01,Chennai,Electronics,Consumer,1387.98,4,0.0,5551.92,1387.98,4.0,Net Banking
+ORD-10634,2026-01-03,Kolkata,Office Supplies,Corporate,1017.58,10,0.05,9667.01,3866.8,4.0,UPI
+ORD-10635,2025-05-12,Delhi,Furniture,Corporate,30.88,8,0.0,247.04,86.46,5.0,Net Banking
+ORD-10636,2026-01-02,Kolkata,Furniture,Corporate,1366.7,12,0.0,16400.4,5740.14,4.0,Credit Card
+ORD-10637,2026-06-23,Bangalore,Furniture,Consumer,1450.73,6,0.1,7833.94,2741.88,5.0,UPI
+ORD-10638,2026-05-18,Bangalore,Electronics,Consumer,1095.78,12,0.0,13149.36,3287.34,5.0,Credit Card
+ORD-10639,2025-03-25,Chennai,Accessories,Corporate,450.5,2,0.15,765.85,272.05,4.0,UPI
+ORD-10640,2025-03-03,Mumbai,Clothing,Home Office,318.08,9,0.0,2862.72,1145.09,4.0,UPI
+ORD-10641,2025-11-21,Chennai,Furniture,Consumer,97.67,10,0.05,927.87,324.75,5.0,Cash on Delivery
+ORD-10642,2025-05-08,Chennai,Electronics,Corporate,437.1,5,0.15,1857.67,455.85,1.0,UPI
+ORD-10643,2026-04-24,Bangalore,Accessories,Consumer,449.58,2,0.0,899.16,359.66,5.0,Credit Card
+ORD-10644,2026-03-22,Bangalore,Furniture,Consumer,596.03,6,0.2,2860.94,961.0,4.0,Cash on Delivery
+ORD-10645,2025-05-07,Chennai,Accessories,Consumer,830.01,9,0.25,5602.57,2229.6,4.0,UPI
+ORD-10646,2025-02-26,Bangalore,Furniture,Home Office,101.35,5,0.0,506.75,177.36,4.0,Credit Card
+ORD-10647,2025-08-25,Mumbai,Electronics,Consumer,148.71,5,0.05,706.37,176.59,5.0,UPI
+ORD-10648,2026-01-06,Bangalore,Furniture,Corporate,945.32,3,0.2,2268.77,784.96,3.0,UPI
+ORD-10649,2025-11-11,Mumbai,Electronics,Consumer,685.92,4,0.1,2469.31,617.33,3.0,UPI
+ORD-10650,2026-01-08,Kolkata,Electronics,Home Office,163.53,4,0.25,490.59,79.25,4.0,Cash on Delivery
+ORD-10651,2025-10-12,Chennai,Furniture,Corporate,782.45,9,0.1,6337.85,2218.25,3.0,UPI
+ORD-10652,2025-12-10,Delhi,Electronics,Home Office,62.84,9,0.15,480.73,93.39,5.0,UPI
+ORD-10653,2025-07-30,Bangalore,Clothing,Consumer,1130.89,10,0.0,11308.9,4523.56,1.0,UPI
+ORD-10654,2025-04-13,Mumbai,Furniture,Home Office,865.37,2,0.1,1557.67,545.18,5.0,UPI
+ORD-10655,2026-03-04,Bangalore,Accessories,Corporate,595.38,12,0.05,6787.33,2714.93,4.0,Net Banking
+ORD-10656,2026-05-09,Chennai,Clothing,Corporate,780.65,14,0.2,8743.28,3448.81,4.0,Cash on Delivery
+ORD-10657,2025-07-13,Mumbai,Clothing,Consumer,1109.98,6,0.0,6659.88,2663.95,5.0,Credit Card
+ORD-10658,2025-01-01,Delhi,Electronics,Home Office,1072.52,10,0.0,10725.2,2681.3,5.0,UPI
+ORD-10659,2026-03-26,Bangalore,Clothing,Home Office,377.57,14,0.0,5285.98,2114.39,5.0,Net Banking
+ORD-10660,2026-05-18,Mumbai,Electronics,Consumer,1480.0,3,0.0,4440.0,1110.0,5.0,UPI
+ORD-10661,2025-11-22,Hyderabad,Furniture,Consumer,217.99,10,0.0,2179.9,762.97,2.0,Credit Card
+ORD-10662,2026-06-03,Bangalore,Office Supplies,Consumer,1078.74,4,0.0,4314.96,1725.98,4.0,UPI
+ORD-10663,2025-10-04,Bangalore,Accessories,Home Office,1204.2,9,0.0,10837.8,4335.12,5.0,Net Banking
+ORD-10664,2026-04-24,Bangalore,Furniture,Consumer,1124.97,13,0.0,14624.61,5118.61,4.0,Cash on Delivery
+ORD-10665,2025-08-29,Chennai,Clothing,Consumer,625.59,4,0.0,2502.36,1000.94,5.0,UPI
+ORD-10666,2026-01-02,Chennai,Office Supplies,Home Office,1476.18,5,0.1,6642.81,2657.12,5.0,Credit Card
+ORD-10667,2026-05-08,Mumbai,Accessories,Consumer,1132.66,13,0.0,14724.58,5889.83,3.0,UPI
+ORD-10668,2026-06-07,Delhi,Electronics,Corporate,1077.4,3,0.0,3232.2,808.05,3.0,Net Banking
+ORD-10669,2025-03-07,Kolkata,Electronics,Corporate,98.03,9,0.05,838.16,209.54,3.0,Credit Card
+ORD-10670,2026-01-30,Chennai,Furniture,Corporate,466.66,6,0.1,2519.96,881.99,4.0,Credit Card
+ORD-10671,2025-02-18,Mumbai,Furniture,Corporate,70.88,6,0.0,425.28,148.85,5.0,Net Banking
+ORD-10672,2026-04-24,Bangalore,Electronics,Consumer,1498.59,7,0.0,10490.13,2622.53,2.0,Net Banking
+ORD-10673,2026-05-29,Mumbai,Furniture,Consumer,981.34,5,0.0,4906.7,1717.34,5.0,Credit Card
+ORD-10674,2025-11-10,Mumbai,Electronics,Consumer,1351.13,11,0.0,14862.43,3715.61,5.0,UPI
+ORD-10675,2025-08-12,Delhi,Electronics,Corporate,427.15,13,0.0,5552.95,1388.24,4.0,UPI
+ORD-10676,2025-01-03,Delhi,Clothing,Corporate,1497.34,11,0.1,14823.67,5929.47,5.0,Net Banking
+ORD-10677,2025-04-12,Kolkata,Electronics,Home Office,976.54,1,0.05,927.71,231.93,4.0,Cash on Delivery
+ORD-10678,2025-10-08,Delhi,Clothing,Consumer,163.59,14,0.1,2061.23,824.49,4.0,Credit Card
+ORD-10679,2025-09-15,Bangalore,Office Supplies,Home Office,427.25,4,0.05,1623.55,649.42,2.0,UPI
+ORD-10680,2026-01-22,Mumbai,Furniture,Corporate,1000.1,6,0.0,6000.6,2100.21,2.0,Credit Card
+ORD-10681,2025-09-28,Mumbai,Electronics,Corporate,1307.15,13,0.05,16143.3,4035.82,4.0,Credit Card
+ORD-10682,2026-03-14,Delhi,Furniture,Corporate,223.1,9,0.2,1606.32,546.27,4.0,Cash on Delivery
+ORD-10683,2026-05-01,Chennai,Accessories,Home Office,1144.85,4,0.05,4350.43,1740.17,4.0,UPI
+ORD-10684,2025-09-06,Mumbai,Clothing,Corporate,1134.62,6,0.0,6807.72,2723.09,3.0,UPI
+ORD-10685,2025-12-08,Kolkata,Furniture,Consumer,797.66,6,0.0,4785.96,1675.09,5.0,Credit Card
+ORD-10686,2025-03-14,Bangalore,Accessories,Home Office,672.29,1,0.1,605.06,242.02,4.0,Net Banking
+ORD-10687,2025-08-09,Delhi,Electronics,Consumer,206.64,14,0.0,2892.96,723.24,5.0,Net Banking
+ORD-10688,2025-05-09,Chennai,Furniture,Consumer,506.28,6,0.05,2885.8,1010.03,4.0,UPI
+ORD-10689,2026-05-21,Mumbai,Office Supplies,Corporate,755.9,8,0.0,6047.2,2418.88,4.0,Credit Card
+ORD-10690,2025-04-27,Chennai,Clothing,Consumer,1074.09,11,0.0,11814.99,4726.0,4.0,Credit Card
+ORD-10691,2026-03-25,Chennai,Accessories,Home Office,348.98,8,0.0,2791.84,1116.74,4.0,UPI
+ORD-10692,2025-07-26,Chennai,Clothing,Corporate,1137.14,3,0.2,2729.14,1044.9,3.0,Net Banking
+ORD-10693,2026-04-27,Bangalore,Furniture,Corporate,393.44,3,0.0,1180.32,413.11,5.0,Credit Card
+ORD-10694,2025-06-25,Mumbai,Accessories,Consumer,1453.12,2,0.1,2615.62,1046.25,3.0,Credit Card
+ORD-10695,2025-01-01,Bangalore,Electronics,Home Office,516.81,7,0.0,3617.67,904.42,4.0,Credit Card
+ORD-10696,2025-11-21,Chennai,Electronics,Corporate,311.83,5,0.05,1481.19,370.3,2.0,Cash on Delivery
+ORD-10697,2025-06-30,Chennai,Electronics,Consumer,359.5,4,0.1,1294.2,323.55,4.0,Net Banking
+ORD-10698,2025-10-12,Chennai,Furniture,Home Office,862.86,9,0.05,7377.45,2582.11,4.0,UPI
+ORD-10699,2025-06-25,Delhi,Accessories,Home Office,1036.28,3,0.15,2642.51,1047.19,5.0,Credit Card
+ORD-10700,2026-01-23,Mumbai,Furniture,Consumer,479.35,1,0.0,479.35,167.77,4.0,Net Banking
+ORD-10701,2025-03-10,Hyderabad,Clothing,Consumer,119.58,9,0.0,1076.22,430.49,1.0,UPI
+ORD-10702,2026-04-07,Bangalore,Furniture,Corporate,1027.23,4,0.1,3698.03,1294.31,3.0,Cash on Delivery
+ORD-10703,2025-08-19,Chennai,Clothing,Consumer,902.14,6,0.0,5412.84,2165.14,5.0,Net Banking
+ORD-10704,2026-06-16,Delhi,Accessories,Consumer,412.45,14,0.1,5196.87,2078.75,3.0,Cash on Delivery
+ORD-10705,2025-04-08,Delhi,Electronics,Home Office,1447.24,1,0.0,1447.24,361.81,2.0,Cash on Delivery
+ORD-10706,2025-01-29,Delhi,Furniture,Consumer,526.49,14,0.05,7002.32,2450.81,4.0,Net Banking
+ORD-10707,2025-05-21,Hyderabad,Electronics,Consumer,47.43,6,0.0,284.58,71.14,2.0,Cash on Delivery
+ORD-10708,2025-02-16,Kolkata,Furniture,Home Office,679.91,12,0.1,7343.03,2570.06,5.0,Net Banking
+ORD-10709,2025-06-11,Mumbai,Electronics,Consumer,811.5,13,0.0,10549.5,2637.38,4.0,Cash on Delivery
+ORD-10710,2025-07-17,Delhi,Clothing,Home Office,628.19,2,0.0,1256.38,502.55,5.0,UPI
+ORD-10711,2025-04-10,Chennai,Electronics,Home Office,369.98,2,0.0,739.96,184.99,3.0,UPI
+ORD-10712,2025-09-21,Hyderabad,Accessories,Consumer,1081.71,3,0.05,3082.87,1233.15,5.0,Cash on Delivery
+ORD-10713,2025-07-30,Chennai,Electronics,Corporate,693.98,2,0.0,1387.96,346.99,4.0,Credit Card
+ORD-10714,2025-08-17,Delhi,Electronics,Home Office,890.88,12,0.0,10690.56,2672.64,4.0,Credit Card
+ORD-10715,2025-10-09,Mumbai,Clothing,Consumer,821.03,1,0.05,779.98,311.99,3.0,UPI
+ORD-10716,2025-05-24,Delhi,Furniture,Consumer,213.4,2,0.2,341.44,78.47,4.0,Cash on Delivery
+ORD-10717,2026-03-01,Mumbai,Electronics,Consumer,383.81,6,0.15,1957.43,463.51,4.0,Cash on Delivery
+ORD-10718,2025-04-09,Mumbai,Office Supplies,Consumer,241.17,9,0.1,1953.48,781.39,4.0,Credit Card
+ORD-10719,2025-09-08,Chennai,Furniture,Home Office,1401.7,10,0.05,13316.15,4660.65,4.0,Net Banking
+ORD-10720,2026-03-19,Mumbai,Electronics,Corporate,182.03,7,0.0,1274.21,318.55,5.0,Net Banking
+ORD-10721,2025-05-01,Delhi,Office Supplies,Corporate,929.46,2,0.0,1858.92,743.57,4.0,Credit Card
+ORD-10722,2025-06-22,Bangalore,Electronics,Corporate,1494.07,10,0.0,14940.7,3735.18,3.0,UPI
+ORD-10723,2025-12-17,Chennai,Electronics,Home Office,1449.1,3,0.0,4347.3,1086.83,1.0,UPI
+ORD-10724,2026-06-27,Hyderabad,Electronics,Consumer,1189.32,9,0.0,10703.88,2675.97,2.0,UPI
+ORD-10725,2026-01-28,Mumbai,Electronics,Consumer,1269.4,11,0.05,13265.23,3316.31,5.0,Cash on Delivery
+ORD-10726,2026-06-24,Hyderabad,Accessories,Consumer,1406.01,12,0.15,14341.3,5721.75,4.0,Net Banking
+ORD-10727,2025-06-07,Chennai,Accessories,Consumer,859.82,2,0.05,1633.66,653.46,4.0,UPI
+ORD-10728,2025-06-23,Chennai,Accessories,Consumer,231.73,2,0.1,417.11,166.84,1.0,UPI
+ORD-10729,2025-04-11,Hyderabad,Electronics,Corporate,700.15,13,0.0,9101.95,2275.49,4.0,UPI
+ORD-10730,2025-01-26,Mumbai,Electronics,Corporate,275.13,13,0.0,3576.69,894.17,4.0,Credit Card
+ORD-10731,2026-01-06,Mumbai,Office Supplies,Corporate,414.02,9,0.15,3167.25,1225.1,5.0,Net Banking
+ORD-10732,2025-03-10,Bangalore,Office Supplies,Consumer,829.43,12,0.15,8460.19,3367.35,3.0,UPI
+ORD-10733,2025-09-13,Chennai,Electronics,Home Office,210.78,2,0.0,421.56,105.39,4.0,Cash on Delivery
+ORD-10734,2026-05-22,Hyderabad,Clothing,Consumer,425.76,9,0.15,3257.06,1261.72,4.0,Cash on Delivery
+ORD-10735,2025-03-31,Chennai,Electronics,Consumer,193.13,13,0.15,2134.09,523.76,4.0,Credit Card
+ORD-10736,2026-02-05,Mumbai,Furniture,Consumer,803.32,14,0.15,9559.51,3318.64,4.0,Net Banking
+ORD-10737,2026-03-22,Hyderabad,Office Supplies,Consumer,513.28,13,0.1,6005.38,2402.15,5.0,UPI
+ORD-10738,2026-06-30,Bangalore,Electronics,Consumer,1424.94,11,0.15,13323.19,3318.12,4.0,Credit Card
+ORD-10739,2025-01-07,Bangalore,Furniture,Corporate,547.71,1,0.1,492.94,172.53,4.0,Cash on Delivery
+ORD-10740,2025-10-15,Chennai,Furniture,Corporate,324.86,12,0.1,3508.49,1227.97,3.0,Cash on Delivery
+ORD-10741,2025-04-13,Bangalore,Clothing,Consumer,1118.15,13,0.2,11628.76,4637.59,5.0,UPI
+ORD-10742,2026-06-27,Bangalore,Accessories,Consumer,284.21,8,0.0,2273.68,909.47,2.0,Cash on Delivery
+ORD-10743,2025-04-19,Mumbai,Clothing,Consumer,71.28,14,0.0,997.92,399.17,5.0,Cash on Delivery
+ORD-10744,2025-08-15,Kolkata,Electronics,Corporate,97.0,5,0.0,485.0,121.25,4.0,Net Banking
+ORD-10745,2026-03-09,Delhi,Furniture,Consumer,243.87,11,0.0,2682.57,938.9,5.0,UPI
+ORD-10746,2025-12-30,Chennai,Electronics,Consumer,1401.13,7,0.15,8336.72,2055.2,4.0,UPI
+ORD-10747,2025-05-03,Delhi,Electronics,Corporate,160.97,14,0.05,2140.9,535.23,4.0,Net Banking
+ORD-10748,2026-01-30,Mumbai,Furniture,Consumer,113.1,12,0.1,1221.48,427.52,3.0,UPI
+ORD-10749,2025-06-20,Kolkata,Clothing,Consumer,1386.3,2,0.1,2495.34,998.14,5.0,Cash on Delivery
+ORD-10750,2026-06-05,Chennai,Clothing,Corporate,467.88,8,0.1,3368.74,1347.5,2.0,Net Banking
+ORD-10751,2025-04-05,Mumbai,Furniture,Corporate,272.8,13,0.0,3546.4,1241.24,5.0,Credit Card
+ORD-10752,2026-04-25,Chennai,Accessories,Consumer,1207.99,14,0.0,16911.86,6764.74,2.0,Net Banking
+ORD-10753,2025-08-17,Chennai,Electronics,Home Office,23.23,6,0.0,139.38,34.84,3.0,Cash on Delivery
+ORD-10754,2025-11-09,Kolkata,Clothing,Consumer,1343.13,11,0.1,13296.99,5318.8,2.0,Credit Card
+ORD-10755,2025-02-11,Bangalore,Furniture,Consumer,95.81,10,0.2,766.48,232.1,3.0,Cash on Delivery
+ORD-10756,2025-09-18,Chennai,Electronics,Corporate,857.3,10,0.0,8573.0,2143.25,5.0,Net Banking
+ORD-10757,2025-04-02,Delhi,Furniture,Consumer,281.13,6,0.25,1265.09,402.65,4.0,Net Banking
+ORD-10758,2025-07-16,Mumbai,Electronics,Consumer,1267.85,12,0.1,13692.78,3423.2,5.0,Net Banking
+ORD-10759,2026-03-31,Chennai,Furniture,Corporate,1140.25,2,0.0,2280.5,798.17,3.0,Credit Card
+ORD-10760,2026-02-07,Hyderabad,Electronics,Consumer,191.1,4,0.05,726.18,181.54,4.0,Credit Card
+ORD-10761,2026-01-29,Mumbai,Furniture,Consumer,703.82,2,0.0,1407.64,492.67,5.0,Net Banking
+ORD-10762,2025-08-09,Kolkata,Clothing,Corporate,690.08,10,0.05,6555.76,2622.3,4.0,Credit Card
+ORD-10763,2026-03-20,Mumbai,Office Supplies,Corporate,1209.71,11,0.0,13306.81,5322.72,4.0,UPI
+ORD-10764,2025-10-25,Bangalore,Electronics,Consumer,1428.52,5,0.25,5356.95,1302.81,3.0,UPI
+ORD-10765,2025-06-01,Bangalore,Electronics,Corporate,52.12,3,0.15,132.91,11.02,4.0,Net Banking
+ORD-10766,2025-12-14,Bangalore,Furniture,Home Office,555.42,14,0.1,6998.29,2449.4,3.0,Credit Card
+ORD-10767,2026-03-20,Chennai,Clothing,Consumer,144.87,6,0.1,782.3,312.92,4.0,Credit Card
+ORD-10768,2025-10-03,Bangalore,Electronics,Consumer,1427.1,3,0.1,3853.17,963.29,5.0,Credit Card
+ORD-10769,2025-06-26,Kolkata,Furniture,Consumer,643.84,14,0.1,8112.38,2839.33,3.0,Cash on Delivery
+ORD-10770,2025-04-28,Bangalore,Electronics,Consumer,974.95,6,0.15,4972.25,1219.27,2.0,UPI
+ORD-10771,2026-04-22,Kolkata,Clothing,Corporate,30.89,12,0.0,370.68,148.27,3.0,Net Banking
+ORD-10772,2025-08-28,Bangalore,Accessories,Home Office,480.57,7,0.0,3363.99,1345.6,4.0,Credit Card
+ORD-10773,2025-05-10,Bangalore,Furniture,Corporate,548.02,8,0.05,4164.95,1457.73,5.0,Cash on Delivery
+ORD-10774,2025-12-23,Bangalore,Accessories,Home Office,329.84,13,0.1,3859.13,1543.65,4.0,Credit Card
+ORD-10775,2025-08-28,Chennai,Electronics,Consumer,1041.45,3,0.0,3124.35,781.09,4.0,UPI
+ORD-10776,2026-04-25,Mumbai,Clothing,Consumer,856.13,14,0.1,10787.24,4314.9,5.0,Credit Card
+ORD-10777,2025-12-03,Kolkata,Electronics,Consumer,507.71,7,0.2,2843.18,685.98,4.0,UPI
+ORD-10778,2026-04-22,Mumbai,Accessories,Corporate,793.61,8,0.0,6348.88,2539.55,4.0,Credit Card
+ORD-10779,2026-03-20,Hyderabad,Furniture,Consumer,648.7,12,0.15,6616.74,2277.77,5.0,UPI
+ORD-10780,2025-08-24,Bangalore,Electronics,Consumer,665.38,14,0.1,8383.79,2095.95,4.0,Credit Card
+ORD-10781,2025-04-06,Mumbai,Electronics,Corporate,393.17,9,0.05,3361.6,840.4,5.0,Net Banking
+ORD-10782,2025-05-13,Bangalore,Accessories,Home Office,1067.75,6,0.0,6406.5,2562.6,5.0,Net Banking
+ORD-10783,2025-11-30,Mumbai,Furniture,Home Office,736.64,11,0.05,7697.89,2694.26,5.0,Net Banking
+ORD-10784,2025-04-23,Chennai,Furniture,Corporate,112.47,13,0.05,1389.0,486.15,1.0,UPI
+ORD-10785,2025-04-23,Bangalore,Clothing,Home Office,416.71,4,0.1,1500.16,600.06,5.0,Net Banking
+ORD-10786,2026-03-19,Bangalore,Accessories,Corporate,345.13,11,0.1,3416.79,1366.72,5.0,UPI
+ORD-10787,2025-10-17,Delhi,Clothing,Corporate,1129.43,8,0.05,8583.67,3433.47,4.0,Net Banking
+ORD-10788,2025-11-16,Chennai,Electronics,Consumer,1426.75,11,0.05,14909.54,3727.39,5.0,Cash on Delivery
+ORD-10789,2025-05-18,Delhi,Electronics,Consumer,676.68,4,0.0,2706.72,676.68,1.0,Net Banking
+ORD-10790,2025-08-22,Delhi,Electronics,Consumer,722.19,11,0.0,7944.09,1986.02,4.0,Cash on Delivery
+ORD-10791,2025-08-08,Hyderabad,Office Supplies,Corporate,97.45,1,0.15,82.83,-7.83,4.0,Cash on Delivery
+ORD-10792,2026-06-27,Delhi,Accessories,Consumer,353.98,11,0.05,3699.09,1479.64,5.0,Net Banking
+ORD-10793,2026-02-09,Chennai,Office Supplies,Consumer,1265.59,2,0.0,2531.18,1012.47,2.0,UPI
+ORD-10794,2026-06-22,Chennai,Electronics,Corporate,1334.64,7,0.1,8408.23,2102.06,4.0,UPI
+ORD-10795,2025-06-14,Bangalore,Furniture,Home Office,1050.62,1,0.05,998.09,349.33,3.0,Cash on Delivery
+ORD-10796,2025-05-19,Bangalore,Furniture,Corporate,32.57,2,0.0,65.14,22.8,3.0,Credit Card
+ORD-10797,2026-03-15,Chennai,Electronics,Home Office,898.6,13,0.0,11681.8,2920.45,4.0,Credit Card
+ORD-10798,2025-01-06,Delhi,Clothing,Consumer,641.97,7,0.05,4269.1,1707.64,4.0,Cash on Delivery
+ORD-10799,2025-08-16,Mumbai,Accessories,Home Office,108.81,13,0.0,1414.53,565.81,4.0,Credit Card
+ORD-10800,2025-10-02,Kolkata,Clothing,Consumer,1010.35,14,0.0,14144.9,5657.96,5.0,Credit Card
+ORD-10801,2026-02-15,Bangalore,Electronics,Corporate,932.04,1,0.1,838.84,209.71,3.0,UPI
+ORD-10802,2025-01-12,Bangalore,Accessories,Corporate,809.55,9,0.2,5828.76,2316.95,4.0,UPI
+ORD-10803,2025-07-21,Bangalore,Office Supplies,Home Office,1177.26,7,0.2,6592.66,2597.68,3.0,UPI
+ORD-10804,2025-11-17,Chennai,Clothing,Consumer,569.48,10,0.0,5694.8,2277.92,4.0,UPI
+ORD-10805,2025-09-10,Mumbai,Office Supplies,Corporate,1459.58,10,0.15,12406.43,4926.39,4.0,Net Banking
+ORD-10806,2026-03-31,Bangalore,Electronics,Corporate,796.52,10,0.0,7965.2,1991.3,4.0,Net Banking
+ORD-10807,2025-09-10,Chennai,Furniture,Corporate,1195.32,6,0.2,5737.54,1991.09,4.0,Cash on Delivery
+ORD-10808,2025-05-18,Chennai,Office Supplies,Consumer,313.04,2,0.0,626.08,250.43,3.0,Cash on Delivery
+ORD-10809,2025-03-25,Bangalore,Electronics,Consumer,219.77,11,0.05,2296.6,574.15,4.0,Net Banking
+ORD-10810,2025-08-01,Delhi,Office Supplies,Corporate,511.36,6,0.0,3068.16,1227.26,5.0,UPI
+ORD-10811,2025-09-27,Hyderabad,Electronics,Home Office,865.57,8,0.05,6578.33,1644.58,5.0,UPI
+ORD-10812,2025-12-02,Bangalore,Office Supplies,Corporate,46.11,13,0.1,539.49,215.8,1.0,Net Banking
+ORD-10813,2025-02-11,Bangalore,Furniture,Consumer,1189.39,14,0.05,15818.89,5536.61,3.0,Cash on Delivery
+ORD-10814,2026-03-02,Delhi,Clothing,Consumer,1217.11,2,0.0,2434.22,973.69,1.0,Net Banking
+ORD-10815,2025-11-04,Chennai,Furniture,Home Office,1201.76,4,0.05,4566.69,1598.34,4.0,Cash on Delivery
+ORD-10816,2026-03-28,Mumbai,Furniture,Consumer,213.07,7,0.05,1416.92,495.92,2.0,UPI
+ORD-10817,2025-08-27,Chennai,Electronics,Corporate,131.78,3,0.1,355.81,88.95,1.0,Cash on Delivery
+ORD-10818,2025-08-02,Bangalore,Electronics,Home Office,1214.75,4,0.0,4859.0,1214.75,1.0,UPI
+ORD-10819,2026-05-19,Chennai,Clothing,Home Office,25.67,11,0.05,268.25,107.3,3.0,UPI
+ORD-10820,2026-04-12,Delhi,Clothing,Home Office,1111.31,10,0.1,10001.79,4000.72,2.0,Net Banking
+ORD-10821,2026-03-17,Delhi,Electronics,Corporate,889.27,8,0.0,7114.16,1778.54,4.0,Credit Card
+ORD-10822,2025-06-11,Kolkata,Electronics,Consumer,256.43,6,0.0,1538.58,384.64,5.0,UPI
+ORD-10823,2025-12-15,Mumbai,Furniture,Corporate,411.16,4,0.0,1644.64,575.62,5.0,UPI
+ORD-10824,2025-07-27,Chennai,Furniture,Consumer,1110.46,13,0.0,14435.98,5052.59,4.0,Net Banking
+ORD-10825,2025-10-04,Mumbai,Furniture,Corporate,1314.63,9,0.2,9465.34,3269.08,4.0,Net Banking
+ORD-10826,2025-11-13,Bangalore,Electronics,Consumer,1038.77,1,0.0,1038.77,259.69,5.0,Credit Card
+ORD-10827,2026-01-04,Chennai,Clothing,Corporate,560.54,13,0.05,6922.67,2769.07,5.0,Net Banking
+ORD-10828,2026-04-02,Bangalore,Furniture,Consumer,1165.51,14,0.0,16317.14,5711.0,4.0,Cash on Delivery
+ORD-10829,2025-05-10,Chennai,Electronics,Home Office,1292.06,9,0.15,9884.26,2430.06,5.0,UPI
+ORD-10830,2025-10-05,Chennai,Office Supplies,Consumer,336.04,12,0.25,3024.36,1191.7,5.0,Net Banking
+ORD-10831,2025-02-22,Bangalore,Accessories,Consumer,597.63,6,0.1,3227.2,1290.88,3.0,Cash on Delivery
+ORD-10832,2025-06-27,Chennai,Electronics,Home Office,306.56,10,0.0,3065.6,766.4,4.0,UPI
+ORD-10833,2025-12-25,Hyderabad,Office Supplies,Consumer,503.97,11,0.1,4989.3,1995.72,5.0,Net Banking
+ORD-10834,2025-05-08,Bangalore,Electronics,Home Office,1225.56,10,0.05,11642.82,2910.7,4.0,Credit Card
+ORD-10835,2025-05-24,Chennai,Electronics,Consumer,1104.6,6,0.0,6627.6,1656.9,3.0,Cash on Delivery
+ORD-10836,2025-08-18,Chennai,Office Supplies,Consumer,1155.51,9,0.0,10399.59,4159.84,4.0,UPI
+ORD-10837,2025-05-18,Chennai,Accessories,Consumer,1266.14,3,0.05,3608.5,1443.4,4.0,Net Banking
+ORD-10838,2025-10-12,Kolkata,Furniture,Consumer,1346.43,10,0.0,13464.3,4712.5,5.0,UPI
+ORD-10839,2026-02-18,Mumbai,Clothing,Home Office,950.73,3,0.0,2852.19,1140.88,2.0,Credit Card
+ORD-10840,2025-08-16,Delhi,Office Supplies,Consumer,635.78,5,0.0,3178.9,1271.56,5.0,Credit Card
+ORD-10841,2025-04-20,Chennai,Furniture,Home Office,930.71,14,0.2,10423.95,3641.2,3.0,Cash on Delivery
+ORD-10842,2026-05-23,Mumbai,Electronics,Consumer,980.75,13,0.1,11474.77,2868.69,5.0,UPI
+ORD-10843,2026-04-21,Chennai,Electronics,Consumer,93.04,12,0.15,949.01,209.84,4.0,UPI
+ORD-10844,2025-05-22,Delhi,Electronics,Corporate,1149.68,14,0.0,16095.52,4023.88,5.0,Net Banking
+ORD-10845,2026-03-26,Chennai,Accessories,Consumer,712.85,4,0.0,2851.4,1140.56,4.0,Credit Card
+ORD-10846,2025-06-26,Delhi,Accessories,Corporate,611.58,11,0.2,5381.9,2108.58,4.0,Net Banking
+ORD-10847,2026-04-08,Mumbai,Electronics,Corporate,109.81,8,0.15,746.71,168.51,3.0,UPI
+ORD-10848,2025-03-29,Chennai,Electronics,Corporate,1403.54,14,0.0,19649.56,4912.39,4.0,Credit Card
+ORD-10849,2025-02-24,Chennai,Office Supplies,Consumer,1284.84,13,0.0,16702.92,6681.17,3.0,UPI
+ORD-10850,2025-11-06,Kolkata,Clothing,Corporate,1369.13,1,0.15,1163.76,449.87,4.0,Net Banking
+ORD-10851,2025-05-13,Delhi,Furniture,Consumer,809.66,5,0.0,4048.3,1416.9,4.0,Credit Card
+ORD-10852,2025-11-25,Delhi,Electronics,Consumer,766.31,5,0.0,3831.55,957.89,5.0,Net Banking
+ORD-10853,2025-02-21,Chennai,Clothing,Consumer,1290.95,13,0.1,15104.12,6041.65,4.0,Net Banking
+ORD-10854,2025-10-27,Kolkata,Furniture,Consumer,1006.73,10,0.0,10067.3,3523.55,4.0,Credit Card
+ORD-10855,2025-12-30,Hyderabad,Accessories,Home Office,247.45,4,0.0,989.8,395.92,4.0,Net Banking
+ORD-10856,2025-11-16,Chennai,Accessories,Consumer,1038.56,1,0.15,882.78,342.01,4.0,Credit Card
+ORD-10857,2026-01-24,Bangalore,Furniture,Consumer,706.06,1,0.05,670.76,234.77,4.0,UPI
+ORD-10858,2025-12-11,Kolkata,Furniture,Corporate,1172.2,8,0.05,8908.72,3118.05,4.0,Cash on Delivery
+ORD-10859,2026-02-22,Chennai,Accessories,Corporate,39.85,7,0.1,251.06,100.42,2.0,UPI
+ORD-10860,2025-04-03,Chennai,Clothing,Corporate,843.93,1,0.0,843.93,337.57,3.0,Cash on Delivery
+ORD-10861,2025-07-13,Mumbai,Electronics,Corporate,935.51,10,0.0,9355.1,2338.78,2.0,Cash on Delivery
+ORD-10862,2025-01-28,Bangalore,Electronics,Consumer,493.76,13,0.0,6418.88,1604.72,3.0,Credit Card
+ORD-10863,2025-04-14,Bangalore,Accessories,Home Office,302.99,7,0.0,2120.93,848.37,3.0,Cash on Delivery
+ORD-10864,2025-09-10,Bangalore,Clothing,Home Office,623.9,5,0.05,2963.52,1185.41,5.0,Cash on Delivery
+ORD-10865,2026-01-28,Chennai,Clothing,Consumer,1163.86,8,0.05,8845.34,3538.14,5.0,UPI
+ORD-10866,2025-08-06,Mumbai,Electronics,Consumer,500.27,11,0.15,4677.52,1123.36,4.0,UPI
+ORD-10867,2025-12-25,Delhi,Electronics,Home Office,312.22,7,0.1,1966.99,491.75,5.0,Net Banking
+ORD-10868,2025-12-17,Bangalore,Accessories,Corporate,1135.64,6,0.05,6473.15,2589.26,2.0,Cash on Delivery
+ORD-10869,2026-03-12,Mumbai,Electronics,Consumer,1234.29,14,0.05,16416.06,4104.02,4.0,UPI
+ORD-10870,2025-09-01,Bangalore,Clothing,Consumer,1299.52,13,0.1,15204.38,6081.75,5.0,Net Banking
+ORD-10871,2025-11-05,Hyderabad,Furniture,Consumer,377.81,13,0.15,4174.8,1440.6,5.0,UPI
+ORD-10872,2025-07-30,Chennai,Accessories,Corporate,695.03,4,0.05,2641.11,1056.44,3.0,Cash on Delivery
+ORD-10873,2025-05-03,Delhi,Electronics,Home Office,897.0,9,0.0,8073.0,2018.25,3.0,Cash on Delivery
+ORD-10874,2025-04-09,Chennai,Office Supplies,Corporate,1218.46,3,0.05,3472.61,1389.04,3.0,Net Banking
+ORD-10875,2025-09-28,Kolkata,Accessories,Consumer,220.56,10,0.0,2205.6,882.24,5.0,Net Banking
+ORD-10876,2025-09-18,Bangalore,Furniture,Consumer,1196.1,8,0.2,7655.04,2635.02,2.0,UPI
+ORD-10877,2025-07-22,Chennai,Electronics,Consumer,831.98,14,0.05,11065.33,2766.33,4.0,UPI
+ORD-10878,2025-12-08,Bangalore,Office Supplies,Corporate,862.83,8,0.05,6557.51,2623.0,1.0,Credit Card
+ORD-10879,2025-05-04,Bangalore,Office Supplies,Consumer,231.38,6,0.2,1110.62,409.46,4.0,Cash on Delivery
+ORD-10880,2025-12-22,Mumbai,Electronics,Consumer,1009.45,10,0.0,10094.5,2523.62,4.0,Credit Card
+ORD-10881,2025-11-02,Kolkata,Clothing,Consumer,395.97,8,0.0,3167.76,1267.1,5.0,Credit Card
+ORD-10882,2025-09-22,Bangalore,Electronics,Corporate,20.59,8,0.1,148.25,37.06,2.0,Net Banking
+ORD-10883,2026-03-07,Hyderabad,Electronics,Consumer,238.23,10,0.05,2263.18,565.79,5.0,UPI
+ORD-10884,2025-03-01,Delhi,Accessories,Corporate,94.67,13,0.0,1230.71,492.28,4.0,Net Banking
+ORD-10885,2025-06-07,Hyderabad,Accessories,Home Office,841.14,12,0.1,9084.31,3633.72,2.0,Credit Card
+ORD-10886,2026-03-25,Mumbai,Electronics,Home Office,254.61,12,0.0,3055.32,763.83,5.0,Credit Card
+ORD-10887,2025-05-25,Bangalore,Electronics,Home Office,80.07,4,0.0,320.28,80.07,5.0,UPI
+ORD-10888,2025-06-27,Chennai,Furniture,Corporate,410.74,4,0.0,1642.96,575.04,5.0,UPI
+ORD-10889,2025-03-21,Mumbai,Furniture,Home Office,384.08,1,0.1,345.67,120.98,4.0,Net Banking
+ORD-10890,2026-06-23,Delhi,Clothing,Consumer,164.83,9,0.0,1483.47,,2.0,Credit Card
+ORD-10891,2025-12-07,Chennai,Electronics,Consumer,988.27,11,0.2,8696.78,2151.36,4.0,Net Banking
+ORD-10892,2025-01-17,Mumbai,Electronics,Consumer,716.76,11,0.15,6701.71,1645.38,4.0,Net Banking
+ORD-10893,2025-12-02,Mumbai,Electronics,Corporate,1477.7,13,0.1,17289.09,4322.27,5.0,Net Banking
+ORD-10894,2026-05-19,Bangalore,Clothing,Consumer,307.93,8,0.0,2463.44,985.38,4.0,Credit Card
+ORD-10895,2026-04-04,Chennai,Accessories,Corporate,957.24,11,0.05,10003.16,4001.26,3.0,Credit Card
+ORD-10896,2026-04-17,Mumbai,Furniture,Corporate,152.05,13,0.05,1877.82,657.24,5.0,Credit Card
+ORD-10897,2025-06-27,Mumbai,Electronics,Home Office,55.82,14,0.05,742.41,185.6,4.0,Credit Card
+ORD-10898,2025-05-06,Mumbai,Clothing,Corporate,1222.67,1,0.2,978.14,355.38,3.0,UPI
+ORD-10899,2025-01-23,Bangalore,Furniture,Corporate,779.49,3,0.25,1753.85,600.94,4.0,UPI
+ORD-10900,2025-11-07,Bangalore,Furniture,Consumer,1038.11,11,0.0,11419.21,3996.72,3.0,Cash on Delivery
+ORD-10901,2025-08-20,Bangalore,Electronics,Corporate,239.76,5,0.0,1198.8,299.7,2.0,Net Banking
+ORD-10902,2025-07-03,Delhi,Electronics,Consumer,658.86,11,0.0,7247.46,1811.87,5.0,Credit Card
+ORD-10903,2026-04-12,Chennai,Electronics,Consumer,966.11,4,0.05,3671.22,917.8,5.0,Credit Card
+ORD-10904,2025-06-25,Delhi,Clothing,Consumer,983.23,11,0.0,10815.53,4326.21,5.0,UPI
+ORD-10905,2025-08-15,Delhi,Furniture,Consumer,450.27,3,0.05,1283.27,449.14,3.0,Net Banking
+ORD-10906,2025-11-30,Mumbai,Electronics,Home Office,845.0,6,0.15,4309.5,1043.09,4.0,Credit Card
+ORD-10907,2025-11-21,Chennai,Office Supplies,Corporate,609.41,13,0.2,6337.86,2523.84,4.0,Credit Card
+ORD-10908,2026-01-22,Chennai,Electronics,Corporate,139.97,13,0.05,1728.63,432.16,4.0,Credit Card
+ORD-10909,2025-09-05,Kolkata,Clothing,Home Office,181.85,6,0.1,981.99,392.8,3.0,Cash on Delivery
+ORD-10910,2025-11-08,Mumbai,Furniture,Home Office,1429.96,4,0.05,5433.85,1901.85,5.0,Credit Card
+ORD-10911,2025-07-16,Delhi,Electronics,Corporate,395.35,10,0.05,3755.82,938.96,3.0,Cash on Delivery
+ORD-10912,2026-05-18,Kolkata,Office Supplies,Consumer,519.82,10,0.0,5198.2,2079.28,5.0,Net Banking
+ORD-10913,2025-04-25,Delhi,Clothing,Home Office,1398.01,13,0.1,16356.72,6542.69,4.0,Cash on Delivery
+ORD-10914,2026-04-02,Mumbai,Electronics,Consumer,196.52,6,0.05,1120.16,280.04,5.0,Cash on Delivery
+ORD-10915,2025-03-26,Delhi,Furniture,Consumer,602.65,9,0.2,4339.08,1478.95,4.0,Credit Card
+ORD-10916,2026-05-05,Kolkata,Furniture,Consumer,1413.89,4,0.1,5090.0,1781.5,5.0,UPI
+ORD-10917,2026-03-16,Mumbai,Furniture,Corporate,685.41,1,0.05,651.14,227.9,3.0,Cash on Delivery
+ORD-10918,2026-04-17,Chennai,Clothing,Consumer,453.15,13,0.2,4712.76,1838.71,2.0,UPI
+ORD-10919,2025-12-08,Chennai,Accessories,Corporate,1065.94,14,0.0,14923.16,5969.26,5.0,Net Banking
+ORD-10920,2025-02-28,Delhi,Clothing,Consumer,21.9,9,0.1,177.39,70.96,4.0,Credit Card
+ORD-10921,2025-01-08,Chennai,Office Supplies,Corporate,677.64,9,0.15,5183.95,2035.96,5.0,UPI
+ORD-10922,2025-12-05,Delhi,Furniture,Consumer,1107.58,7,0.1,6977.75,2442.21,3.0,Credit Card
+ORD-10923,2025-04-05,Hyderabad,Furniture,Corporate,298.1,6,0.15,1520.31,500.0,3.0,Cash on Delivery
+ORD-10924,2025-12-11,Hyderabad,Furniture,Consumer,965.04,12,0.1,10422.43,3647.85,5.0,Credit Card
+ORD-10925,2025-09-26,Hyderabad,Clothing,Consumer,1042.12,9,0.1,8441.17,3376.47,4.0,Credit Card
+ORD-10926,2026-05-04,Bangalore,Electronics,Corporate,80.61,8,0.0,644.88,161.22,5.0,UPI
+ORD-10927,2025-01-23,Kolkata,Electronics,Consumer,844.37,10,0.05,8021.52,2005.38,4.0,UPI
+ORD-10928,2025-08-17,Chennai,Clothing,Corporate,316.23,9,0.1,2561.46,1024.58,5.0,UPI
+ORD-10929,2025-05-03,Chennai,Office Supplies,Corporate,1134.9,4,0.0,4539.6,1815.84,5.0,Credit Card
+ORD-10930,2025-09-11,Chennai,Clothing,Corporate,760.53,9,0.1,6160.29,2464.12,1.0,Credit Card
+ORD-10931,2025-09-23,Hyderabad,Furniture,Corporate,850.81,14,0.25,8933.51,3077.34,4.0,UPI
+ORD-10932,2026-02-19,Mumbai,Electronics,Consumer,1395.67,3,0.05,3977.66,994.41,4.0,Cash on Delivery
+ORD-10933,2025-07-14,Chennai,Office Supplies,Corporate,481.32,6,0.1,2599.13,1039.65,4.0,Cash on Delivery
+ORD-10934,2025-05-27,Hyderabad,Clothing,Consumer,703.65,13,0.1,8232.7,3293.08,4.0,Cash on Delivery
+ORD-10935,2025-03-18,Kolkata,Office Supplies,Corporate,545.83,4,0.15,1855.82,722.02,1.0,UPI
+ORD-10936,2025-08-11,Chennai,Furniture,Consumer,433.61,10,0.0,4336.1,1517.63,5.0,Net Banking
+ORD-10937,2025-03-11,Kolkata,Furniture,Home Office,840.01,3,0.0,2520.03,882.01,2.0,Cash on Delivery
+ORD-10938,2026-03-26,Chennai,Electronics,Consumer,1401.84,11,0.15,13107.2,3263.72,5.0,Credit Card
+ORD-10939,2025-12-02,Hyderabad,Clothing,Corporate,1095.93,8,0.0,8767.44,3506.98,4.0,Credit Card
+ORD-10940,2025-02-25,Delhi,Furniture,Consumer,907.16,9,0.0,8164.44,2857.55,1.0,UPI
+ORD-10941,2026-02-24,Chennai,Clothing,Consumer,649.53,1,0.05,617.05,246.82,4.0,Credit Card
+ORD-10942,2026-03-21,Mumbai,Clothing,Consumer,139.81,13,0.0,1817.53,727.01,5.0,Credit Card
+ORD-10943,2026-06-13,Mumbai,Office Supplies,Home Office,979.09,7,0.05,6510.95,2604.38,5.0,Credit Card
+ORD-10944,2026-06-01,Bangalore,Electronics,Consumer,1208.89,3,0.05,3445.34,861.34,5.0,UPI
+ORD-10945,2025-08-16,Hyderabad,Electronics,Home Office,744.04,3,0.2,1785.7,418.91,4.0,Net Banking
+ORD-10946,2026-01-16,Chennai,Furniture,Corporate,1096.15,3,0.0,3288.45,1150.96,5.0,Credit Card
+ORD-10947,2025-12-30,Chennai,Electronics,Home Office,691.73,10,0.0,6917.3,1729.33,2.0,Credit Card
+ORD-10948,2025-12-14,Hyderabad,Electronics,Consumer,350.17,1,0.1,315.15,78.79,4.0,Credit Card
+ORD-10949,2025-01-31,Mumbai,Electronics,Home Office,1360.8,11,0.1,13471.92,3367.98,5.0,UPI
+ORD-10950,2025-09-02,Hyderabad,Accessories,Consumer,666.55,4,0.0,2666.2,1066.48,3.0,UPI
+ORD-10951,2026-05-17,Hyderabad,Electronics,Consumer,916.43,14,0.15,10905.52,2700.18,4.0,Net Banking
+ORD-10952,2025-09-07,Delhi,Electronics,Corporate,1266.84,3,0.2,3040.42,753.61,5.0,Credit Card
+ORD-10953,2025-10-25,Delhi,Office Supplies,Consumer,753.57,2,0.05,1431.78,572.71,4.0,Cash on Delivery
+ORD-10954,2026-05-06,Chennai,Electronics,Consumer,33.62,12,0.05,383.27,95.82,4.0,Cash on Delivery
+ORD-10955,2025-07-21,Bangalore,Accessories,Consumer,907.56,11,0.1,8984.84,3593.94,4.0,Credit Card
+ORD-10956,2025-04-20,Chennai,Furniture,Consumer,595.18,6,0.0,3571.08,1249.88,4.0,Credit Card
+ORD-10957,2025-04-02,Mumbai,Furniture,Corporate,588.01,2,0.0,1176.02,411.61,4.0,Cash on Delivery
+ORD-10958,2025-08-29,Mumbai,Office Supplies,Consumer,746.11,12,0.2,7162.66,2815.84,4.0,Credit Card
+ORD-10959,2025-06-12,Mumbai,Electronics,Consumer,1208.64,12,0.0,14503.68,3625.92,4.0,Cash on Delivery
+ORD-10960,2026-02-13,Delhi,Electronics,Home Office,1010.39,11,0.05,10558.58,2639.64,1.0,Credit Card
+ORD-10961,2025-04-06,Delhi,Furniture,Consumer,972.49,6,0.1,5251.45,1838.01,5.0,Cash on Delivery
+ORD-10962,2025-02-20,Bangalore,Clothing,Consumer,950.25,8,0.0,7602.0,3040.8,5.0,Credit Card
+ORD-10963,2026-04-16,Mumbai,Furniture,Consumer,200.4,13,0.05,2474.94,866.23,4.0,Cash on Delivery
+ORD-10964,2025-10-07,Bangalore,Clothing,Home Office,262.6,1,0.2,210.08,35.44,5.0,UPI
+ORD-10965,2025-11-07,Mumbai,Furniture,Consumer,136.89,8,0.15,930.85,283.61,5.0,Net Banking
+ORD-10966,2026-04-23,Chennai,Office Supplies,Corporate,406.64,7,0.05,2704.16,1081.66,4.0,Credit Card
+ORD-10967,2025-02-24,Bangalore,Electronics,Consumer,1344.75,11,0.0,14792.25,3698.06,3.0,Net Banking
+ORD-10968,2025-05-02,Mumbai,Electronics,Home Office,1141.05,10,0.0,11410.5,2852.62,5.0,Credit Card
+ORD-10969,2025-08-09,Delhi,Furniture,Consumer,734.56,13,0.15,8116.89,2815.51,5.0,Credit Card
+ORD-10970,2025-04-05,Mumbai,Electronics,Consumer,485.96,9,0.25,3280.23,786.82,3.0,Net Banking
+ORD-10971,2025-09-06,Delhi,Clothing,Consumer,531.11,1,0.2,424.89,139.37,4.0,Cash on Delivery
+ORD-10972,2025-10-03,Bangalore,Clothing,Consumer,1262.32,4,0.15,4291.89,1693.81,4.0,Cash on Delivery
+ORD-10973,2026-05-18,Bangalore,Office Supplies,Consumer,1089.96,10,0.05,10354.62,4141.85,5.0,Cash on Delivery
+ORD-10974,2025-01-29,Bangalore,Clothing,Consumer,35.79,13,0.05,442.01,176.8,5.0,Cash on Delivery
+ORD-10975,2026-04-11,Bangalore,Office Supplies,Home Office,1279.49,3,0.0,3838.47,1535.39,5.0,UPI
+ORD-10976,2025-01-12,Chennai,Furniture,Home Office,1334.03,3,0.05,3801.99,1330.7,2.0,Net Banking
+ORD-10977,2025-02-04,Mumbai,Clothing,Consumer,186.94,9,0.25,1261.85,468.55,5.0,Credit Card
+ORD-10978,2026-03-11,Bangalore,Electronics,Consumer,836.71,7,0.0,5856.97,1464.24,4.0,Net Banking
+ORD-10979,2025-01-21,Kolkata,Electronics,Consumer,513.38,1,0.0,513.38,128.34,3.0,Net Banking
+ORD-10980,2025-11-15,Hyderabad,Electronics,Corporate,886.09,10,0.05,8417.85,2104.46,4.0,Credit Card
+ORD-10981,2025-09-22,Delhi,Office Supplies,Consumer,805.1,7,0.1,5072.13,2028.85,2.0,Cash on Delivery
+ORD-10982,2025-03-18,Bangalore,Clothing,Home Office,807.81,13,0.2,8401.22,3337.07,5.0,Net Banking
+ORD-10983,2025-11-28,Bangalore,Electronics,Home Office,914.48,3,0.05,2606.27,651.57,3.0,UPI
+ORD-10984,2025-09-02,Delhi,Electronics,Corporate,46.73,14,0.05,621.51,155.38,3.0,Net Banking
+ORD-10985,2026-02-07,Chennai,Furniture,Consumer,950.78,11,0.25,7843.93,2739.08,4.0,UPI
+ORD-10986,2026-03-05,Bangalore,Office Supplies,Consumer,789.87,12,0.1,8530.6,3412.24,5.0,Credit Card
+ORD-10987,2025-06-29,Delhi,Electronics,Consumer,1446.45,6,0.05,8244.76,2061.19,5.0,Credit Card
+ORD-10988,2025-11-03,Chennai,Clothing,Corporate,189.37,11,0.2,1666.46,647.14,3.0,Net Banking
+ORD-10989,2025-05-12,Chennai,Accessories,Corporate,288.25,10,0.2,2306.0,911.72,4.0,Net Banking
+ORD-10990,2025-06-30,Mumbai,Furniture,Corporate,1407.86,14,0.0,19710.04,6898.51,2.0,Net Banking
+ORD-10991,2025-11-14,Bangalore,Electronics,Home Office,1207.79,8,0.0,9662.32,2415.58,4.0,Credit Card
+ORD-10992,2025-01-08,Chennai,Electronics,Consumer,1305.08,9,0.0,11745.72,2936.43,3.0,UPI
+ORD-10993,2025-09-25,Chennai,Electronics,Home Office,789.84,10,0.0,7898.4,1974.6,3.0,UPI
+ORD-10994,2025-07-29,Chennai,Furniture,Consumer,1022.41,13,0.1,11962.2,4186.77,4.0,Cash on Delivery
+ORD-10995,2025-01-18,Chennai,Furniture,Corporate,664.14,1,0.0,664.14,232.45,4.0,UPI
+ORD-10996,2025-03-21,Chennai,Clothing,Consumer,769.69,3,0.0,2309.07,923.63,3.0,UPI
+ORD-10997,2025-11-13,Hyderabad,Electronics,Consumer,1348.74,1,0.0,1348.74,337.19,4.0,Net Banking
+ORD-10998,2025-09-08,Delhi,Furniture,Consumer,483.65,7,0.15,2877.72,975.63,2.0,Cash on Delivery
+ORD-10999,2025-11-05,Delhi,Office Supplies,Corporate,245.93,1,0.0,245.93,98.37,4.0,UPI
+ORD-11000,2025-11-14,Bangalore,Clothing,Consumer,894.49,3,0.15,2280.95,865.91,5.0,UPI
+ORD-11001,2025-09-01,Chennai,Accessories,Consumer,287.38,7,0.1,1810.49,724.2,5.0,Cash on Delivery
+ORD-11002,2025-06-08,Mumbai,Accessories,Consumer,493.42,10,0.1,4440.78,1776.31,4.0,Cash on Delivery
+ORD-11003,2025-08-21,Delhi,Furniture,Consumer,123.08,10,0.2,984.64,310.41,3.0,Cash on Delivery
+ORD-11004,2025-04-05,Chennai,Clothing,Consumer,354.13,7,0.2,1983.13,773.43,4.0,Net Banking
+ORD-11005,2026-06-09,Hyderabad,Furniture,Consumer,1181.11,8,0.0,9448.88,3307.11,5.0,Cash on Delivery
+ORD-11006,2025-06-27,Hyderabad,Office Supplies,Consumer,1068.84,5,0.0,5344.2,2137.68,3.0,UPI
+ORD-11007,2025-08-31,Bangalore,Furniture,Corporate,725.6,2,0.1,1306.08,457.13,5.0,Net Banking
+ORD-11008,2025-05-02,Kolkata,Furniture,Consumer,274.37,11,0.0,3018.07,1056.32,3.0,Cash on Delivery
+ORD-11009,2025-03-13,Mumbai,Clothing,Consumer,1015.33,8,0.2,6498.11,2555.35,4.0,UPI
+ORD-11010,2025-09-11,Mumbai,Office Supplies,Consumer,1183.0,4,0.2,3785.6,1487.35,4.0,Credit Card
+ORD-11011,2025-08-06,Hyderabad,Clothing,Consumer,712.28,5,0.2,2849.12,1132.62,5.0,Cash on Delivery
+ORD-11012,2026-02-22,Mumbai,Office Supplies,Consumer,1281.61,1,0.0,1281.61,512.64,4.0,Net Banking
+ORD-11013,2025-06-30,Mumbai,Furniture,Home Office,1268.09,4,0.0,5072.36,1775.33,4.0,Cash on Delivery
+ORD-11014,2026-04-27,Mumbai,Accessories,Home Office,684.27,3,0.0,2052.81,821.12,4.0,UPI
+ORD-11015,2026-04-11,Mumbai,Furniture,Consumer,355.72,3,0.0,1067.16,373.51,4.0,Credit Card
+ORD-11016,2025-02-14,Mumbai,Electronics,Home Office,852.32,6,0.25,3835.44,938.86,4.0,Net Banking
+ORD-11017,2025-08-26,Mumbai,Electronics,Home Office,1079.18,9,0.0,9712.62,2428.16,4.0,Cash on Delivery
+ORD-11018,2025-08-09,Hyderabad,Accessories,Consumer,1398.67,13,0.15,15455.3,6161.08,5.0,UPI
+ORD-11019,2026-01-26,Bangalore,Electronics,Consumer,794.47,4,0.25,2383.41,575.09,4.0,Cash on Delivery
+ORD-11020,2025-11-04,Hyderabad,Furniture,Consumer,1123.92,5,0.05,5338.62,1868.52,4.0,UPI
+ORD-11021,2026-03-30,Chennai,Furniture,Consumer,1479.07,1,0.0,1479.07,517.67,5.0,Credit Card
+ORD-11022,2025-01-08,Bangalore,Furniture,Consumer,303.92,4,0.0,1215.68,425.49,4.0,Net Banking
+ORD-11023,2025-07-26,Bangalore,Electronics,Corporate,636.0,13,0.05,7854.6,1963.65,3.0,UPI
+ORD-11024,2025-06-25,Chennai,Office Supplies,Corporate,190.22,3,0.05,542.13,216.85,5.0,Cash on Delivery
+ORD-11025,2026-06-11,Mumbai,Furniture,Home Office,508.36,7,0.1,3202.67,1120.93,5.0,UPI
+ORD-11026,2026-05-18,Mumbai,Accessories,Consumer,477.09,3,0.0,1431.27,572.51,3.0,UPI
+ORD-11027,2025-01-12,Chennai,Accessories,Corporate,1022.12,6,0.1,5519.45,2207.78,4.0,Net Banking
+ORD-11028,2026-06-25,Chennai,Electronics,Home Office,1399.56,13,0.0,18194.28,4548.57,3.0,Cash on Delivery
+ORD-11029,2026-04-30,Chennai,Accessories,Consumer,1202.87,1,0.05,1142.73,457.09,5.0,Net Banking
+ORD-11030,2025-09-14,Kolkata,Accessories,Corporate,271.81,9,0.2,1957.03,752.88,4.0,Cash on Delivery
+ORD-11031,2025-09-03,Chennai,Clothing,Consumer,902.35,6,0.25,4060.58,1577.7,5.0,Net Banking
+ORD-11032,2025-06-19,Chennai,Electronics,Consumer,735.42,3,0.05,2095.95,523.99,5.0,Net Banking
+ORD-11033,2025-04-29,Chennai,Furniture,Corporate,53.31,9,0.05,455.8,159.53,4.0,Credit Card
+ORD-11034,2026-05-03,Kolkata,Electronics,Consumer,621.78,5,0.05,2953.45,738.36,4.0,Credit Card
+ORD-11035,2026-02-02,Hyderabad,Furniture,Home Office,887.06,5,0.0,4435.3,1552.36,5.0,Cash on Delivery
+ORD-11036,2025-01-07,Bangalore,Office Supplies,Home Office,1271.65,13,0.0,16531.45,6612.58,5.0,Credit Card
+ORD-11037,2025-12-29,Mumbai,Furniture,Consumer,1025.74,10,0.05,9744.53,3410.59,5.0,Credit Card
+ORD-11038,2025-11-05,Bangalore,Accessories,Corporate,1192.23,11,0.05,12458.8,4983.52,5.0,Credit Card
+ORD-11039,2025-09-12,Bangalore,Furniture,Consumer,444.56,2,0.0,889.12,311.19,5.0,UPI
+ORD-11040,2025-10-26,Bangalore,Clothing,Consumer,339.39,2,0.15,576.96,185.96,3.0,Credit Card
+ORD-11041,2025-03-04,Chennai,Office Supplies,Corporate,816.12,3,0.15,2081.11,827.01,4.0,Net Banking
+ORD-11042,2025-02-14,Delhi,Furniture,Corporate,534.7,6,0.05,3047.79,1066.73,1.0,Credit Card
+ORD-11043,2026-02-19,Delhi,Office Supplies,Home Office,741.82,6,0.1,4005.83,1602.33,3.0,Credit Card
+ORD-11044,2025-11-26,Hyderabad,Furniture,Home Office,1489.88,10,0.2,11919.04,4148.91,5.0,UPI
+ORD-11045,2025-01-27,Mumbai,Clothing,Consumer,1269.89,12,0.05,14476.75,5790.7,5.0,Cash on Delivery
+ORD-11046,2026-06-30,Delhi,Furniture,Consumer,657.13,6,0.1,3548.5,1241.97,3.0,Credit Card
+ORD-11047,2025-05-08,Kolkata,Office Supplies,Corporate,1421.62,11,0.1,14074.04,5629.62,4.0,Net Banking
+ORD-11048,2025-10-07,Bangalore,Electronics,Consumer,813.56,2,0.0,1627.12,406.78,5.0,Credit Card
+ORD-11049,2025-09-07,Chennai,Electronics,Consumer,357.11,14,0.0,4999.54,1249.88,4.0,Cash on Delivery
+ORD-11050,2026-03-24,Hyderabad,Furniture,Home Office,738.0,3,0.05,2103.3,736.15,1.0,Cash on Delivery
+ORD-11051,2025-08-31,Mumbai,Clothing,Corporate,282.67,7,0.0,1978.69,791.48,2.0,UPI
+ORD-11052,2025-09-23,Mumbai,Furniture,Consumer,272.14,10,0.05,2585.33,904.87,3.0,Net Banking
+ORD-11053,2026-04-30,Hyderabad,Accessories,Home Office,1324.88,1,0.0,1324.88,529.95,4.0,Cash on Delivery
+ORD-11054,2026-06-18,Chennai,Electronics,Consumer,653.47,8,0.15,4443.6,1105.36,3.0,UPI
+ORD-11055,2026-04-10,Bangalore,Electronics,Home Office,635.21,1,0.2,508.17,84.77,4.0,Credit Card
+ORD-11056,2026-04-26,Bangalore,Furniture,Corporate,764.76,14,0.0,10706.64,3747.32,4.0,Cash on Delivery
+ORD-11057,2025-03-01,Delhi,Office Supplies,Corporate,1272.91,7,0.05,8464.85,3385.94,4.0,Credit Card
+ORD-11058,2026-01-03,Mumbai,Furniture,Corporate,345.7,1,0.2,276.56,54.35,4.0,Credit Card
+ORD-11059,2025-07-07,Bangalore,Electronics,Home Office,775.17,4,0.0,3100.68,775.17,5.0,Cash on Delivery
+ORD-11060,2025-05-10,Chennai,Electronics,Corporate,907.06,7,0.0,6349.42,1587.36,3.0,Credit Card
+ORD-11061,2025-04-25,Chennai,Clothing,Corporate,731.47,9,0.0,6583.23,2633.29,4.0,Credit Card
+ORD-11062,2026-05-17,Delhi,Office Supplies,Consumer,335.78,6,0.0,2014.68,805.87,3.0,Cash on Delivery
+ORD-11063,2025-08-10,Delhi,Furniture,Home Office,263.3,6,0.0,1579.8,552.93,1.0,Credit Card
+ORD-11064,2025-02-16,Bangalore,Electronics,Corporate,628.89,7,0.1,3962.01,990.5,4.0,Credit Card
+ORD-11065,2025-08-20,Delhi,Furniture,Home Office,492.89,5,0.1,2218.01,776.3,4.0,Cash on Delivery
+ORD-11066,2026-02-23,Chennai,Electronics,Consumer,1447.64,6,0.1,7817.26,1954.32,4.0,Cash on Delivery
+ORD-11067,2026-04-13,Mumbai,Electronics,Consumer,1150.15,8,0.0,9201.2,2300.3,3.0,UPI
+ORD-11068,2026-04-01,Hyderabad,Furniture,Corporate,79.95,12,0.1,863.46,302.21,4.0,Net Banking
+ORD-11069,2025-06-04,Chennai,Clothing,Consumer,147.94,4,0.0,591.76,236.7,4.0,Net Banking
+ORD-11070,2026-06-20,Kolkata,Electronics,Consumer,1320.23,10,0.05,12542.18,3135.55,4.0,Credit Card
+ORD-11071,2025-07-17,Hyderabad,Clothing,Consumer,990.02,6,0.05,5643.11,2257.24,5.0,Net Banking
+ORD-11072,2026-05-18,Bangalore,Office Supplies,Corporate,541.41,13,0.2,5630.66,2236.38,5.0,Cash on Delivery
+ORD-11073,2026-02-06,Chennai,Furniture,Home Office,985.87,10,0.2,7886.96,2734.27,1.0,Credit Card
+ORD-11074,2025-03-29,Mumbai,Electronics,Consumer,115.45,12,0.0,1385.4,346.35,4.0,Net Banking
+ORD-11075,2025-02-15,Mumbai,Electronics,Corporate,638.64,3,0.05,1820.12,455.03,4.0,UPI
+ORD-11076,2026-05-26,Chennai,Clothing,Consumer,1388.48,11,0.0,15273.28,6109.31,5.0,Net Banking
+ORD-11077,2025-11-30,Mumbai,Furniture,Consumer,493.09,12,0.1,5325.37,1863.88,5.0,Cash on Delivery
+ORD-11078,2025-08-05,Bangalore,Electronics,Consumer,1251.04,8,0.05,9507.9,2376.97,1.0,Credit Card
+ORD-11079,2025-07-19,Mumbai,Electronics,Home Office,560.32,13,0.0,7284.16,1821.04,1.0,UPI
+ORD-11080,2026-01-06,Mumbai,Office Supplies,Corporate,185.14,6,0.25,833.13,295.3,5.0,UPI
+ORD-11081,2025-05-14,Chennai,Electronics,Consumer,780.84,12,0.05,8901.58,2225.39,4.0,Cash on Delivery
+ORD-11082,2025-04-05,Hyderabad,Clothing,Corporate,1087.8,10,0.05,10334.1,4133.64,3.0,Net Banking
+ORD-11083,2026-05-06,Bangalore,Electronics,Consumer,1008.05,2,0.1,1814.49,453.62,2.0,Credit Card
+ORD-11084,2026-06-04,Bangalore,Furniture,Consumer,597.3,3,0.0,1791.9,627.16,5.0,Credit Card
+ORD-11085,2026-03-15,Chennai,Office Supplies,Home Office,844.18,1,0.0,844.18,337.67,5.0,Cash on Delivery
+ORD-11086,2025-09-20,Delhi,Office Supplies,Consumer,851.73,2,0.0,1703.46,681.38,5.0,Net Banking
+ORD-11087,2026-01-14,Bangalore,Electronics,Corporate,999.06,5,0.05,4745.53,1186.38,3.0,UPI
+ORD-11088,2025-12-09,Chennai,Clothing,Consumer,137.87,4,0.0,551.48,220.59,4.0,Cash on Delivery
+ORD-11089,2025-03-18,Mumbai,Furniture,Corporate,980.07,10,0.05,9310.67,3258.73,1.0,Cash on Delivery
+ORD-11090,2026-03-11,Kolkata,Office Supplies,Corporate,393.23,3,0.1,1061.72,424.69,4.0,Cash on Delivery
+ORD-11091,2025-11-15,Mumbai,Electronics,Home Office,179.73,10,0.0,1797.3,449.32,1.0,Cash on Delivery
+ORD-11092,2025-03-02,Delhi,Office Supplies,Corporate,807.56,9,0.05,6904.64,2761.86,4.0,Net Banking
+ORD-11093,2025-06-10,Bangalore,Furniture,Consumer,97.37,13,0.0,1265.81,443.03,5.0,UPI
+ORD-11094,2025-12-16,Chennai,Clothing,Consumer,1309.89,7,0.05,8710.77,3484.31,2.0,Net Banking
+ORD-11095,2025-02-26,Mumbai,Office Supplies,Consumer,205.12,7,0.0,1435.84,574.34,5.0,UPI
+ORD-11096,2026-06-15,Hyderabad,Furniture,Corporate,179.03,1,0.1,161.13,56.4,4.0,Credit Card
+ORD-11097,2025-09-21,Bangalore,Furniture,Consumer,1002.42,6,0.0,6014.52,2105.08,4.0,Cash on Delivery
+ORD-11098,2025-01-26,Mumbai,Office Supplies,Corporate,80.36,14,0.25,843.78,319.34,4.0,Cash on Delivery
+ORD-11099,2026-02-11,Chennai,Electronics,Home Office,1281.95,12,0.1,13845.06,3461.26,3.0,UPI
+ORD-11100,2026-05-17,Mumbai,Electronics,Consumer,1332.15,11,0.05,13920.97,3480.24,2.0,Net Banking
+ORD-11101,2025-10-17,Delhi,Office Supplies,Corporate,322.67,7,0.1,2032.82,813.13,5.0,Net Banking
+ORD-11102,2025-10-30,Bangalore,Electronics,Consumer,1470.27,3,0.1,3969.73,992.43,4.0,UPI
+ORD-11103,2025-10-04,Mumbai,Clothing,Corporate,1310.72,12,0.2,12582.91,4991.52,4.0,UPI
+ORD-11104,2025-04-30,Mumbai,Electronics,Consumer,298.78,2,0.2,478.05,78.53,4.0,Credit Card
+ORD-11105,2025-09-04,Delhi,Office Supplies,Consumer,81.9,11,0.05,855.86,342.34,4.0,Net Banking
+ORD-11106,2025-10-30,Hyderabad,Furniture,Corporate,1344.7,1,0.2,1075.76,339.15,4.0,UPI
+ORD-11107,2025-01-17,Mumbai,Clothing,Corporate,393.37,12,0.05,4484.42,1793.77,4.0,UPI
+ORD-11108,2025-10-31,Mumbai,Clothing,Consumer,313.59,5,0.0,1567.95,627.18,3.0,UPI
+ORD-11109,2026-03-22,Bangalore,Furniture,Corporate,824.34,12,0.1,8902.87,3116.0,5.0,Cash on Delivery
+ORD-11110,2025-06-22,Bangalore,Clothing,Consumer,491.02,12,0.05,5597.63,2239.05,5.0,UPI
+ORD-11111,2026-04-07,Delhi,Furniture,Home Office,1234.28,1,0.05,1172.57,410.4,4.0,Credit Card
+ORD-11112,2026-04-29,Bangalore,Office Supplies,Consumer,132.63,5,0.1,596.84,238.74,4.0,Net Banking
+ORD-11113,2025-11-03,Kolkata,Electronics,Consumer,303.41,9,0.0,2730.69,682.67,4.0,UPI
+ORD-11114,2025-11-14,Kolkata,Electronics,Consumer,1476.68,4,0.0,5906.72,1476.68,5.0,Cash on Delivery
+ORD-11115,2026-01-12,Hyderabad,Electronics,Corporate,1440.68,3,0.05,4105.94,1026.48,4.0,Net Banking
+ORD-11116,2026-02-02,Hyderabad,Furniture,Consumer,259.71,3,0.1,701.22,245.43,5.0,Cash on Delivery
+ORD-11117,2025-11-21,Mumbai,Office Supplies,Consumer,954.44,11,0.0,10498.84,4199.54,4.0,Net Banking
+ORD-11118,2025-06-17,Delhi,Clothing,Corporate,600.94,13,0.0,7812.22,3124.89,5.0,Net Banking
+ORD-11119,2025-01-11,Hyderabad,Furniture,Corporate,724.39,3,0.15,1847.19,631.46,2.0,Cash on Delivery
+ORD-11120,2026-02-28,Chennai,Electronics,Consumer,1041.15,2,0.1,1874.07,468.52,4.0,UPI
+ORD-11121,2026-02-16,Mumbai,Accessories,Consumer,686.39,5,0.05,3260.35,1304.14,5.0,Cash on Delivery
+ORD-11122,2025-10-06,Chennai,Furniture,Corporate,504.29,4,0.0,2017.16,706.01,5.0,Cash on Delivery
+ORD-11123,2026-05-01,Bangalore,Office Supplies,Consumer,509.58,8,0.15,3465.14,1379.04,3.0,Credit Card
+ORD-11124,2025-11-21,Chennai,Electronics,Consumer,792.39,7,0.0,5546.73,1386.68,5.0,Cash on Delivery
+ORD-11125,2025-09-05,Bangalore,Accessories,Home Office,779.8,5,0.1,3509.1,1403.64,2.0,UPI
+ORD-11126,2025-08-21,Delhi,Clothing,Home Office,618.08,4,0.15,2101.47,791.98,4.0,Credit Card
+ORD-11127,2025-10-04,Bangalore,Clothing,Corporate,46.39,3,0.2,111.34,35.1,3.0,Net Banking
+ORD-11128,2025-05-29,Hyderabad,Furniture,Corporate,225.66,10,0.05,2143.77,750.32,5.0,Net Banking
+ORD-11129,2025-10-20,Bangalore,Clothing,Consumer,841.79,5,0.05,3998.5,1599.4,5.0,Cash on Delivery
+ORD-11130,2026-03-19,Bangalore,Electronics,Corporate,758.33,5,0.05,3602.07,900.52,3.0,Credit Card
+ORD-11131,2025-04-25,Chennai,Furniture,Home Office,1049.6,1,0.05,997.12,348.99,5.0,Credit Card
+ORD-11132,2025-08-09,Mumbai,Accessories,Consumer,702.23,4,0.1,2528.03,1011.21,5.0,Credit Card
+ORD-11133,2026-05-19,Bangalore,Electronics,Corporate,1322.18,9,0.1,10709.66,2677.41,5.0,Cash on Delivery
+ORD-11134,2026-04-04,Bangalore,Office Supplies,Consumer,135.8,10,0.05,1290.1,516.04,4.0,UPI
+ORD-11135,2025-01-25,Bangalore,Electronics,Consumer,767.64,2,0.15,1304.99,285.64,4.0,Cash on Delivery
+ORD-11136,2025-06-17,Hyderabad,Electronics,Corporate,749.68,12,0.1,8096.54,2024.13,4.0,UPI
+ORD-11137,2025-02-18,Chennai,Accessories,Corporate,929.67,7,0.2,5206.15,2036.4,3.0,UPI
+ORD-11138,2025-08-01,Kolkata,Accessories,Consumer,1095.93,6,0.0,6575.58,2630.23,5.0,UPI
+ORD-11139,2026-05-31,Mumbai,Electronics,Corporate,455.13,12,0.0,5461.56,1365.39,4.0,Credit Card
+ORD-11140,2026-04-15,Chennai,Electronics,Consumer,903.01,12,0.0,10836.12,2709.03,4.0,Credit Card
+ORD-11141,2026-06-25,Hyderabad,Clothing,Corporate,229.5,6,0.05,1308.15,523.26,5.0,Net Banking
+ORD-11142,2026-04-27,Mumbai,Furniture,Home Office,1170.24,11,0.1,11585.38,4054.88,4.0,Cash on Delivery
+ORD-11143,2026-01-24,Hyderabad,Electronics,Corporate,450.15,1,0.0,450.15,112.54,4.0,Cash on Delivery
+ORD-11144,2025-10-31,Chennai,Electronics,Consumer,591.0,14,0.0,8274.0,2068.5,5.0,Credit Card
+ORD-11145,2025-10-30,Mumbai,Clothing,Consumer,243.36,9,0.05,2080.73,832.29,4.0,UPI
+ORD-11146,2025-01-16,Chennai,Office Supplies,Consumer,582.69,5,0.0,2913.45,1165.38,5.0,UPI
+ORD-11147,2026-04-19,Chennai,Clothing,Consumer,1223.51,9,0.1,9910.43,3964.17,5.0,Credit Card
+ORD-11148,2026-05-24,Hyderabad,Furniture,Corporate,199.08,1,0.0,199.08,69.68,5.0,Cash on Delivery
+ORD-11149,2026-01-24,Kolkata,Office Supplies,Consumer,176.81,3,0.0,530.43,212.17,4.0,Credit Card
+ORD-11150,2025-06-12,Chennai,Electronics,Consumer,660.25,5,0.0,3301.25,825.31,4.0,Cash on Delivery
+ORD-11151,2025-08-27,Bangalore,Electronics,Corporate,707.12,7,0.0,4949.84,1237.46,2.0,UPI
+ORD-11152,2026-02-09,Mumbai,Electronics,Home Office,1471.01,1,0.0,1471.01,367.75,4.0,Net Banking
+ORD-11153,2025-03-19,Mumbai,Electronics,Consumer,825.91,13,0.0,10736.83,2684.21,4.0,Credit Card
+ORD-11154,2025-07-28,Chennai,Electronics,Corporate,428.61,6,0.0,2571.66,642.91,4.0,Cash on Delivery
+ORD-11155,2025-12-25,Hyderabad,Electronics,Consumer,707.48,12,0.0,8489.76,2122.44,5.0,Credit Card
+ORD-11156,2025-02-27,Kolkata,Furniture,Home Office,639.21,3,0.1,1725.87,604.05,4.0,Credit Card
+ORD-11157,2025-10-31,Mumbai,Electronics,Consumer,534.99,12,0.0,6419.88,1604.97,1.0,Credit Card
+ORD-11158,2025-08-03,Bangalore,Furniture,Home Office,165.05,1,0.2,132.04,8.21,4.0,UPI
+ORD-11159,2026-06-01,Hyderabad,Electronics,Corporate,1051.69,5,0.2,4206.76,1008.95,4.0,Cash on Delivery
+ORD-11160,2026-04-19,Mumbai,Office Supplies,Consumer,1240.59,2,0.2,1984.94,781.96,3.0,Cash on Delivery
+ORD-11161,2025-09-29,Bangalore,Clothing,Consumer,393.36,3,0.0,1180.08,472.03,3.0,UPI
+ORD-11162,2025-06-20,Chennai,Accessories,Home Office,287.37,6,0.05,1638.01,655.2,5.0,Credit Card
+ORD-11163,2025-03-15,Bangalore,Electronics,Corporate,1067.64,7,0.0,7473.48,1868.37,4.0,UPI
+ORD-11164,2026-01-11,Chennai,Accessories,Corporate,1186.15,6,0.0,7116.9,2846.76,4.0,Credit Card
+ORD-11165,2025-01-08,Delhi,Electronics,Home Office,174.47,1,0.2,139.58,-1.89,3.0,UPI
+ORD-11166,2026-01-15,Bangalore,Electronics,Consumer,1117.57,3,0.05,3185.07,796.27,5.0,Cash on Delivery
+ORD-11167,2025-12-03,Chennai,Furniture,Consumer,1049.12,2,0.1,1888.42,660.95,3.0,Net Banking
+ORD-11168,2026-03-29,Kolkata,Electronics,Consumer,52.01,8,0.0,416.08,104.02,4.0,UPI
+ORD-11169,2025-07-13,Delhi,Office Supplies,Corporate,892.95,5,0.05,4241.51,1696.6,4.0,Cash on Delivery
+ORD-11170,2026-05-09,Mumbai,Clothing,Home Office,572.6,5,0.0,2863.0,1145.2,4.0,UPI
+ORD-11171,2026-06-02,Mumbai,Electronics,Consumer,78.09,6,0.0,468.54,117.14,2.0,Cash on Delivery
+ORD-11172,2025-04-01,Mumbai,Furniture,Corporate,782.32,3,0.0,2346.96,821.44,3.0,Credit Card
+ORD-11173,2025-08-16,Mumbai,Accessories,Consumer,770.94,2,0.0,1541.88,616.75,5.0,Cash on Delivery
+ORD-11174,2026-05-20,Hyderabad,Electronics,Home Office,704.29,14,0.0,9860.06,2465.01,1.0,Cash on Delivery
+ORD-11175,2025-08-29,Chennai,Clothing,Consumer,1155.43,10,0.05,10976.59,4390.64,3.0,Cash on Delivery
+ORD-11176,2026-05-10,Delhi,Electronics,Corporate,1204.08,13,0.05,14870.39,3717.6,5.0,Cash on Delivery
+ORD-11177,2025-08-26,Bangalore,Clothing,Consumer,1292.31,6,0.05,7366.17,2946.47,3.0,UPI
+ORD-11178,2025-01-06,Chennai,Electronics,Consumer,1083.32,14,0.0,15166.48,3791.62,4.0,Cash on Delivery
+ORD-11179,2026-01-13,Bangalore,Clothing,Corporate,213.7,4,0.0,854.8,341.92,5.0,Cash on Delivery
+ORD-11180,2026-03-24,Delhi,Clothing,Corporate,1035.82,5,0.1,4661.19,1864.48,4.0,Net Banking
+ORD-11181,2025-11-20,Bangalore,Furniture,Home Office,995.88,6,0.1,5377.75,1882.21,4.0,Credit Card
+ORD-11182,2025-07-18,Hyderabad,Clothing,Consumer,1173.77,3,0.0,3521.31,1408.52,3.0,UPI
+ORD-11183,2025-09-14,Chennai,Clothing,Home Office,22.86,9,0.25,154.31,14.09,5.0,Net Banking
+ORD-11184,2026-06-04,Mumbai,Office Supplies,Home Office,287.03,2,0.15,487.95,177.97,3.0,Cash on Delivery
+ORD-11185,2025-05-27,Mumbai,Furniture,Consumer,71.62,12,0.1,773.5,270.72,4.0,Cash on Delivery
+ORD-11186,2026-01-28,Delhi,Accessories,Corporate,1157.23,4,0.1,4166.03,1666.41,1.0,Credit Card
+ORD-11187,2025-09-30,Chennai,Office Supplies,Corporate,76.42,9,0.05,653.39,261.36,4.0,Credit Card
+ORD-11188,2025-09-18,Bangalore,Accessories,Corporate,316.01,4,0.05,1200.84,480.34,4.0,Credit Card
+ORD-11189,2025-07-21,Bangalore,Electronics,Corporate,43.29,9,0.0,389.61,97.4,5.0,Cash on Delivery
+ORD-11190,2026-06-23,Bangalore,Office Supplies,Corporate,52.79,10,0.0,527.9,211.16,4.0,Cash on Delivery
+ORD-11191,2025-12-15,Delhi,Clothing,Consumer,751.1,4,0.2,2403.52,930.54,4.0,Credit Card
+ORD-11192,2025-02-25,Chennai,Clothing,Corporate,1376.3,4,0.0,5505.2,2202.08,5.0,Net Banking
+ORD-11193,2025-03-27,Chennai,Accessories,Corporate,624.94,10,0.1,5624.46,2249.78,2.0,Credit Card
+ORD-11194,2026-01-08,Hyderabad,Furniture,Corporate,765.58,7,0.2,4287.25,1471.8,5.0,UPI
+ORD-11195,2025-02-16,Kolkata,Office Supplies,Consumer,517.24,7,0.0,3620.68,1448.27,5.0,Credit Card
+ORD-11196,2025-09-01,Kolkata,Clothing,Corporate,515.94,7,0.2,2889.26,1142.85,3.0,UPI
+ORD-11197,2025-03-24,Mumbai,Electronics,Consumer,754.53,12,0.0,9054.36,2263.59,5.0,UPI
+ORD-11198,2025-06-07,Bangalore,Clothing,Consumer,1405.5,8,0.1,10119.6,4047.84,4.0,Net Banking
+ORD-11199,2025-03-04,Mumbai,Electronics,Consumer,1485.99,11,0.1,14711.3,3677.82,5.0,Cash on Delivery
+ORD-11200,2025-03-18,Delhi,Clothing,Home Office,81.56,4,0.05,309.93,123.97,4.0,Cash on Delivery
+ORD-11201,2025-09-02,Kolkata,Furniture,Home Office,1367.2,4,0.0,5468.8,1914.08,1.0,Cash on Delivery
+ORD-11202,2025-09-30,Chennai,Office Supplies,Consumer,241.76,14,0.0,3384.64,1353.86,3.0,Net Banking
+ORD-11203,2025-01-15,Bangalore,Electronics,Home Office,915.31,13,0.1,10709.13,2677.28,3.0,Cash on Delivery
+ORD-11204,2025-12-20,Kolkata,Office Supplies,Home Office,1238.38,1,0.25,928.79,326.1,5.0,Net Banking
+ORD-11205,2026-04-08,Delhi,Clothing,Consumer,1239.49,14,0.2,13882.29,5545.49,1.0,Cash on Delivery
+ORD-11206,2025-09-26,Bangalore,Electronics,Consumer,419.3,12,0.05,4780.02,1195.01,4.0,UPI
+ORD-11207,2026-02-14,Mumbai,Furniture,Corporate,675.42,11,0.1,6686.66,2340.33,5.0,Credit Card
+ORD-11208,2025-10-24,Chennai,Clothing,Corporate,736.71,2,0.0,1473.42,589.37,4.0,Credit Card
+ORD-11209,2026-05-08,Mumbai,Electronics,Consumer,518.45,10,0.25,3888.38,924.03,2.0,Credit Card
+ORD-11210,2025-07-18,Chennai,Furniture,Home Office,1426.91,7,0.0,9988.37,3495.93,4.0,Net Banking
+ORD-11211,2025-12-14,Bangalore,Accessories,Corporate,345.6,14,0.1,4354.56,1741.82,4.0,Net Banking
+ORD-11212,2025-05-01,Mumbai,Accessories,Consumer,1361.04,1,0.2,1088.83,390.14,5.0,Credit Card
+ORD-11213,2025-07-08,Chennai,Furniture,Consumer,280.71,14,0.15,3340.45,1122.16,4.0,UPI
+ORD-11214,2025-03-24,Delhi,Office Supplies,Home Office,1098.97,8,0.05,8352.17,3340.87,1.0,Net Banking
+ORD-11215,2026-01-30,Bangalore,Clothing,Consumer,1449.76,10,0.0,14497.6,5799.04,1.0,Cash on Delivery
+ORD-11216,2026-03-20,Chennai,Clothing,Consumer,1370.1,7,0.05,9111.16,3644.46,3.0,Cash on Delivery
+ORD-11217,2025-08-08,Chennai,Furniture,Corporate,1302.81,6,0.2,6253.49,2177.39,3.0,UPI
+ORD-11218,2025-11-24,Bangalore,Electronics,Consumer,57.66,3,0.25,129.73,-9.01,4.0,Credit Card
+ORD-11219,2025-10-03,Mumbai,Furniture,Consumer,1167.28,2,0.2,1867.65,624.52,5.0,Net Banking
+ORD-11220,2025-11-02,Chennai,Electronics,Corporate,1028.19,13,0.1,12029.82,3007.45,5.0,Net Banking
+ORD-11221,2025-05-27,Kolkata,Electronics,Consumer,518.76,3,0.0,1556.28,389.07,3.0,Net Banking
+ORD-11222,2025-09-20,Chennai,Accessories,Corporate,844.29,8,0.05,6416.6,2566.64,1.0,UPI
+ORD-11223,2025-03-22,Bangalore,Office Supplies,Consumer,347.49,4,0.0,1389.96,555.98,4.0,Net Banking
+ORD-11224,2025-06-29,Bangalore,Clothing,Corporate,376.99,1,0.05,358.14,143.26,4.0,Cash on Delivery
+ORD-11225,2026-02-11,Bangalore,Clothing,Consumer,406.58,9,0.1,3293.3,1317.32,4.0,UPI
+ORD-11226,2025-08-10,Delhi,Furniture,Consumer,274.11,2,0.1,493.4,172.69,5.0,Credit Card
+ORD-11227,2026-02-28,Chennai,Accessories,Corporate,972.42,11,0.0,10696.62,4278.65,5.0,Cash on Delivery
+ORD-11228,2025-07-13,Hyderabad,Clothing,Corporate,1490.38,8,0.1,10730.74,4292.3,4.0,Cash on Delivery
+ORD-11229,2025-09-17,Mumbai,Office Supplies,Corporate,116.5,7,0.0,815.5,326.2,4.0,Net Banking
+ORD-11230,2025-06-21,Bangalore,Electronics,Home Office,1334.52,8,0.2,8540.93,2112.62,5.0,Net Banking
+ORD-11231,2025-02-22,Bangalore,Electronics,Corporate,637.24,12,0.0,7646.88,1911.72,4.0,Credit Card
+ORD-11232,2026-04-11,Mumbai,Furniture,Home Office,205.91,4,0.05,782.46,273.86,4.0,Cash on Delivery
+ORD-11233,2025-08-02,Bangalore,Electronics,Consumer,723.92,14,0.0,10134.88,2533.72,2.0,UPI
+ORD-11234,2026-01-13,Bangalore,Furniture,Consumer,628.16,10,0.0,6281.6,2198.56,4.0,Cash on Delivery
+ORD-11235,2025-02-08,Mumbai,Office Supplies,Home Office,272.43,9,0.0,2451.87,980.75,1.0,Credit Card
+ORD-11236,2025-08-16,Delhi,Electronics,Consumer,1120.57,5,0.15,4762.42,1176.54,3.0,Net Banking
+ORD-11237,2025-04-09,Chennai,Office Supplies,Consumer,1443.73,8,0.15,9817.36,3914.42,1.0,Credit Card
+ORD-11238,2026-03-12,Kolkata,Furniture,Consumer,864.17,13,0.25,8425.66,2912.47,4.0,Cash on Delivery
+ORD-11239,2025-06-10,Delhi,Electronics,Consumer,372.67,13,0.0,4844.71,1211.18,1.0,Credit Card
+ORD-11240,2025-01-02,Delhi,Office Supplies,Consumer,407.39,4,0.0,1629.56,651.82,4.0,Net Banking
+ORD-11241,2025-05-03,Bangalore,Accessories,Consumer,533.63,8,0.15,3628.68,1434.12,4.0,Credit Card
+ORD-11242,2025-04-17,Bangalore,Electronics,Home Office,256.91,5,0.0,1284.55,321.14,5.0,UPI
+ORD-11243,2026-05-13,Bangalore,Accessories,Corporate,1385.2,9,0.0,12466.8,4986.72,4.0,UPI
+ORD-11244,2025-12-22,Bangalore,Furniture,Corporate,1390.79,4,0.0,5563.16,1947.11,4.0,Credit Card
+ORD-11245,2026-04-19,Bangalore,Furniture,Consumer,659.85,5,0.1,2969.33,1039.27,4.0,Cash on Delivery
+ORD-11246,2026-04-20,Mumbai,Office Supplies,Consumer,657.02,10,0.25,4927.65,1945.55,5.0,Credit Card
+ORD-11247,2025-03-18,Kolkata,Clothing,Consumer,1434.17,14,0.0,20078.38,8031.35,4.0,UPI
+ORD-11248,2025-09-24,Bangalore,Clothing,Consumer,1467.84,4,0.05,5577.79,2231.12,3.0,UPI
+ORD-11249,2025-09-28,Hyderabad,Office Supplies,Consumer,1496.91,2,0.1,2694.44,1077.78,1.0,Net Banking
+ORD-11250,2026-03-04,Chennai,Clothing,Consumer,460.37,1,0.25,345.28,130.7,5.0,Net Banking
+ORD-11251,2025-04-18,Chennai,Office Supplies,Consumer,1204.76,14,0.25,12649.98,5053.7,3.0,Net Banking
+ORD-11252,2025-12-12,Delhi,Furniture,Corporate,449.34,12,0.05,5122.48,1792.87,2.0,UPI
+ORD-11253,2025-04-21,Chennai,Accessories,Home Office,1175.17,7,0.2,6580.95,2621.69,4.0,UPI
+ORD-11254,2025-06-13,Hyderabad,Furniture,Consumer,1392.59,14,0.05,18521.45,6482.51,4.0,Credit Card
+ORD-11255,2025-02-24,Bangalore,Office Supplies,Consumer,489.68,5,0.15,2081.14,810.49,2.0,Cash on Delivery
+ORD-11256,2026-04-23,Mumbai,Electronics,Corporate,586.96,14,0.0,8217.44,2054.36,5.0,UPI
+ORD-11257,2025-10-21,Delhi,Electronics,Home Office,841.3,12,0.25,7571.7,1865.72,3.0,Credit Card
+ORD-11258,2025-04-25,Delhi,Office Supplies,Corporate,396.24,9,0.0,3566.16,1426.46,1.0,Cash on Delivery
+ORD-11259,2025-08-01,Hyderabad,Office Supplies,Home Office,821.7,2,0.05,1561.23,624.49,5.0,UPI
+ORD-11260,2025-06-18,Bangalore,Furniture,Corporate,444.46,6,0.0,2666.76,933.37,3.0,Net Banking
+ORD-11261,2025-08-29,Kolkata,Electronics,Consumer,894.07,2,0.0,1788.14,447.04,5.0,Net Banking
+ORD-11262,2026-06-16,Kolkata,Electronics,Consumer,306.44,13,0.1,3585.35,896.34,2.0,Net Banking
+ORD-11263,2025-04-01,Mumbai,Electronics,Consumer,1123.69,5,0.15,4775.68,1151.1,4.0,Net Banking
+ORD-11264,2026-06-01,Bangalore,Office Supplies,Home Office,1012.12,13,0.2,10526.05,4189.08,3.0,Net Banking
+ORD-11265,2026-06-22,Bangalore,Furniture,Corporate,1144.15,6,0.25,5148.68,1785.04,5.0,Net Banking
+ORD-11266,2026-04-18,Delhi,Furniture,Home Office,1098.78,7,0.0,7691.46,2692.01,5.0,UPI
+ORD-11267,2026-05-09,Bangalore,Furniture,Consumer,795.51,13,0.05,9824.55,3438.59,1.0,Cash on Delivery
+ORD-11268,2025-06-16,Mumbai,Clothing,Home Office,285.1,7,0.0,1995.7,798.28,4.0,UPI
+ORD-11269,2025-06-24,Hyderabad,Clothing,Consumer,703.42,10,0.0,7034.2,2813.68,2.0,Net Banking
+ORD-11270,2026-03-08,Bangalore,Electronics,Corporate,1158.84,11,0.0,12747.24,3186.81,4.0,Cash on Delivery
+ORD-11271,2025-07-05,Hyderabad,Office Supplies,Corporate,228.93,3,0.0,686.79,274.72,3.0,Credit Card
+ORD-11272,2025-01-03,Mumbai,Electronics,Corporate,893.37,8,0.1,6432.26,1608.07,5.0,Cash on Delivery
+ORD-11273,2026-05-04,Bangalore,Office Supplies,Consumer,690.44,7,0.1,4349.77,1739.91,2.0,Net Banking
+ORD-11274,2025-11-07,Delhi,Electronics,Corporate,1174.78,1,0.05,1116.04,279.01,4.0,Cash on Delivery
+ORD-11275,2025-01-28,Mumbai,Clothing,Home Office,659.76,14,0.15,7851.14,3109.24,2.0,Credit Card
+ORD-11276,2025-01-30,Chennai,Clothing,Corporate,1430.6,4,0.0,5722.4,2288.96,5.0,Credit Card
+ORD-11277,2025-05-25,Chennai,Accessories,Corporate,1232.89,12,0.1,13315.21,5326.08,5.0,Cash on Delivery
+ORD-11278,2026-01-20,Bangalore,Clothing,Corporate,751.99,3,0.0,2255.97,902.39,4.0,Cash on Delivery
+ORD-11279,2025-08-07,Mumbai,Electronics,Consumer,1070.84,1,0.0,1070.84,267.71,5.0,Cash on Delivery
+ORD-11280,2026-02-28,Kolkata,Electronics,Consumer,88.94,9,0.05,760.44,190.11,4.0,Credit Card
+ORD-11281,2026-06-28,Mumbai,Office Supplies,Consumer,544.31,5,0.0,2721.55,1088.62,4.0,Cash on Delivery
+ORD-11282,2025-02-15,Hyderabad,Electronics,Consumer,580.69,8,0.05,4413.24,1103.31,4.0,Credit Card
+ORD-11283,2025-10-20,Bangalore,Electronics,Home Office,1207.96,7,0.05,8032.93,2008.23,4.0,Credit Card
+ORD-11284,2026-02-23,Mumbai,Furniture,Consumer,515.39,14,0.1,6493.91,2272.87,2.0,Cash on Delivery
+ORD-11285,2026-05-05,Chennai,Clothing,Home Office,617.56,2,0.05,1173.36,469.34,5.0,UPI
+ORD-11286,2025-09-27,Hyderabad,Furniture,Corporate,227.3,5,0.05,1079.67,377.88,5.0,Credit Card
+ORD-11287,2025-01-28,Hyderabad,Electronics,Consumer,549.31,7,0.0,3845.17,961.29,4.0,Cash on Delivery
+ORD-11288,2025-09-28,Bangalore,Furniture,Corporate,102.26,12,0.05,1165.76,408.02,4.0,Cash on Delivery
+ORD-11289,2026-04-08,Chennai,Furniture,Consumer,1439.97,9,0.2,10367.78,3591.45,5.0,Net Banking
+ORD-11290,2025-11-17,Bangalore,Furniture,Consumer,802.24,6,0.0,4813.44,1684.7,5.0,Net Banking
+ORD-11291,2025-06-16,Hyderabad,Office Supplies,Corporate,585.9,4,0.0,2343.6,937.44,4.0,Cash on Delivery
+ORD-11292,2025-01-26,Delhi,Office Supplies,Corporate,1100.76,14,0.05,14640.11,5856.04,4.0,Credit Card
+ORD-11293,2025-07-21,Chennai,Clothing,Consumer,1365.15,11,0.1,13514.99,5406.0,2.0,Net Banking
+ORD-11294,2025-04-02,Hyderabad,Clothing,Consumer,442.21,9,0.0,3979.89,1591.96,4.0,Cash on Delivery
+ORD-11295,2025-12-08,Kolkata,Electronics,Consumer,354.63,13,0.15,3918.66,963.72,5.0,UPI
+ORD-11296,2025-12-13,Chennai,Office Supplies,Home Office,1452.43,12,0.1,15686.24,6274.5,3.0,Cash on Delivery
+ORD-11297,2026-04-19,Chennai,Electronics,Consumer,116.21,14,0.05,1545.59,386.4,4.0,UPI
+ORD-11298,2026-05-03,Mumbai,Furniture,Corporate,221.65,9,0.25,1496.14,516.96,3.0,Cash on Delivery
+ORD-11299,2025-03-23,Delhi,Electronics,Corporate,1333.97,11,0.2,11738.94,2922.29,5.0,Credit Card
+ORD-11300,2025-10-16,Mumbai,Furniture,Home Office,1139.7,11,0.15,10656.19,3686.12,4.0,Cash on Delivery
+ORD-11301,2026-06-13,Chennai,Electronics,Corporate,358.9,8,0.0,2871.2,717.8,4.0,UPI
+ORD-11302,2025-10-27,Hyderabad,Electronics,Corporate,407.01,10,0.1,3663.09,915.77,4.0,Credit Card
+ORD-11303,2026-04-09,Chennai,Clothing,Consumer,1130.78,5,0.0,5653.9,2261.56,3.0,Credit Card
+ORD-11304,2025-04-14,Delhi,Electronics,Consumer,975.77,5,0.0,4878.85,1219.71,4.0,Net Banking
+ORD-11305,2025-08-28,Delhi,Furniture,Consumer,336.62,6,0.1,1817.75,636.21,5.0,Cash on Delivery
+ORD-11306,2025-10-27,Chennai,Accessories,Corporate,1377.13,11,0.0,15148.43,6059.37,4.0,UPI
+ORD-11307,2025-03-14,Chennai,Clothing,Consumer,1184.25,13,0.0,15395.25,6158.1,5.0,Credit Card
+ORD-11308,2025-04-16,Bangalore,Furniture,Consumer,1150.2,1,0.1,1035.18,362.31,4.0,Cash on Delivery
+ORD-11309,2025-08-28,Kolkata,Clothing,Corporate,114.59,3,0.0,343.77,137.51,5.0,UPI
+ORD-11310,2025-11-04,Mumbai,Office Supplies,Consumer,1253.15,6,0.2,6015.12,2372.45,3.0,Credit Card
+ORD-11311,2025-07-11,Bangalore,Furniture,Consumer,1432.86,10,0.15,12179.31,4228.28,4.0,Credit Card
+ORD-11312,2025-02-28,Chennai,Electronics,Home Office,315.48,3,0.25,709.83,147.75,5.0,Credit Card
+ORD-11313,2025-09-20,Hyderabad,Clothing,Consumer,1284.82,1,0.15,1092.1,408.32,4.0,UPI
+ORD-11314,2025-05-15,Hyderabad,Accessories,Consumer,761.43,9,0.2,5482.3,2183.22,4.0,Credit Card
+ORD-11315,2025-04-23,Delhi,Furniture,Corporate,628.66,8,0.0,5029.28,1760.25,2.0,Credit Card
+ORD-11316,2026-04-21,Delhi,Electronics,Consumer,975.72,8,0.0,7805.76,1951.44,2.0,Cash on Delivery
+ORD-11317,2026-05-26,Mumbai,Electronics,Home Office,470.08,3,0.15,1198.7,276.45,5.0,Credit Card
+ORD-11318,2026-05-14,Bangalore,Clothing,Consumer,331.66,3,0.1,895.48,358.19,2.0,Cash on Delivery
+ORD-11319,2025-03-07,Delhi,Electronics,Consumer,1042.19,3,0.0,3126.57,781.64,4.0,Credit Card
+ORD-11320,2025-12-27,Chennai,Electronics,Consumer,482.36,8,0.1,3472.99,868.25,4.0,Cash on Delivery
+ORD-11321,2025-09-17,Mumbai,Furniture,Consumer,633.49,5,0.0,3167.45,1108.61,3.0,Credit Card
+ORD-11322,2025-07-07,Chennai,Office Supplies,Home Office,133.56,2,0.0,267.12,106.85,2.0,Cash on Delivery
+ORD-11323,2025-05-22,Bangalore,Accessories,Corporate,34.91,13,0.05,431.14,172.46,2.0,Net Banking
+ORD-11324,2025-04-16,Delhi,Electronics,Consumer,67.39,3,0.0,202.17,50.54,5.0,Cash on Delivery
+ORD-11325,2025-04-03,Chennai,Accessories,Consumer,58.19,13,0.1,680.82,272.33,4.0,Net Banking
+ORD-11326,2026-01-05,Hyderabad,Accessories,Home Office,540.44,10,0.0,5404.4,2161.76,5.0,Cash on Delivery
+ORD-11327,2026-02-16,Mumbai,Electronics,Consumer,1419.83,1,0.05,1348.84,337.21,5.0,UPI
+ORD-11328,2025-08-16,Mumbai,Furniture,Corporate,1347.63,11,0.2,11859.14,4138.23,3.0,UPI
+ORD-11329,2026-06-24,Chennai,Furniture,Home Office,384.99,8,0.2,2463.94,857.26,5.0,Net Banking
+ORD-11330,2025-11-04,Bangalore,Clothing,Consumer,1142.98,5,0.2,4571.92,1807.71,3.0,Cash on Delivery
+ORD-11331,2025-07-03,Chennai,Electronics,Home Office,1024.02,5,0.0,5120.1,1280.03,4.0,Net Banking
+ORD-11332,2026-04-29,Mumbai,Office Supplies,Corporate,1134.36,5,0.0,5671.8,2268.72,4.0,Net Banking
+ORD-11333,2025-11-09,Chennai,Clothing,Consumer,97.48,10,0.1,877.32,350.93,5.0,Net Banking
+ORD-11334,2025-05-26,Bangalore,Furniture,Corporate,1441.17,7,0.2,8070.55,2778.11,4.0,Cash on Delivery
+ORD-11335,2026-05-27,Bangalore,Accessories,Corporate,82.17,4,0.0,328.68,131.47,5.0,Credit Card
+ORD-11336,2025-05-10,Hyderabad,Furniture,Consumer,1066.09,12,0.0,12793.08,4477.58,1.0,Credit Card
+ORD-11337,2025-01-12,Delhi,Accessories,Corporate,396.85,4,0.0,1587.4,634.96,5.0,UPI
+ORD-11338,2026-05-27,Kolkata,Clothing,Consumer,1075.28,12,0.05,12258.19,4903.28,5.0,Cash on Delivery
+ORD-11339,2025-09-21,Delhi,Clothing,Corporate,1301.45,10,0.0,13014.5,5205.8,4.0,Net Banking
+ORD-11340,2025-01-05,Bangalore,Electronics,Consumer,422.51,13,0.15,4668.74,1160.68,2.0,Credit Card
+ORD-11341,2025-02-22,Bangalore,Furniture,Corporate,416.15,4,0.25,1248.45,388.6,4.0,Net Banking
+ORD-11342,2026-02-08,Chennai,Furniture,Corporate,341.08,12,0.0,4092.96,1432.54,4.0,Cash on Delivery
+ORD-11343,2025-09-22,Bangalore,Furniture,Consumer,1158.77,3,0.05,3302.49,1155.87,4.0,Credit Card
+ORD-11344,2025-09-10,Mumbai,Electronics,Corporate,1437.81,14,0.15,17109.94,4239.57,5.0,UPI
+ORD-11345,2026-02-12,Delhi,Furniture,Corporate,174.03,3,0.1,469.88,164.46,1.0,UPI
+ORD-11346,2025-12-19,Mumbai,Furniture,Home Office,1430.55,12,0.05,16308.27,5707.89,5.0,Cash on Delivery
+ORD-11347,2026-02-04,Delhi,Furniture,Corporate,323.11,3,0.1,872.4,305.34,1.0,Net Banking
+ORD-11348,2026-01-17,Mumbai,Clothing,Home Office,772.35,1,0.15,656.5,244.63,4.0,UPI
+ORD-11349,2025-01-06,Mumbai,Electronics,Consumer,1351.98,8,0.0,10815.84,2703.96,5.0,UPI
+ORD-11350,2025-05-31,Chennai,Electronics,Consumer,937.65,1,0.05,890.77,222.69,4.0,UPI
+ORD-11351,2025-10-14,Hyderabad,Electronics,Corporate,564.39,2,0.0,1128.78,282.19,4.0,Credit Card
+ORD-11352,2026-01-30,Delhi,Electronics,Home Office,126.38,7,0.0,884.66,221.16,5.0,Cash on Delivery
+ORD-11353,2025-07-21,Bangalore,Furniture,Consumer,328.94,10,0.15,2795.99,941.29,5.0,UPI
+ORD-11354,2026-05-09,Kolkata,Clothing,Corporate,1465.92,13,0.0,19056.96,7622.78,4.0,Net Banking
+ORD-11355,2026-04-29,Delhi,Clothing,Corporate,1485.48,14,0.2,16637.38,6619.1,5.0,UPI
+ORD-11356,2025-10-31,Chennai,Clothing,Consumer,862.18,5,0.0,4310.9,1724.36,4.0,Net Banking
+ORD-11357,2025-12-06,Mumbai,Office Supplies,Corporate,1482.2,5,0.2,5928.8,2331.57,3.0,Net Banking
+ORD-11358,2026-02-16,Bangalore,Electronics,Corporate,998.47,5,0.15,4243.5,1042.65,2.0,Cash on Delivery
+ORD-11359,2025-05-29,Bangalore,Accessories,Consumer,652.19,10,0.15,5543.62,2171.27,4.0,UPI
+ORD-11360,2026-03-18,Delhi,Accessories,Consumer,671.41,10,0.0,6714.1,2685.64,4.0,Credit Card
+ORD-11361,2025-10-28,Chennai,Furniture,Corporate,1316.78,2,0.1,2370.2,829.57,1.0,UPI
+ORD-11362,2025-05-13,Mumbai,Furniture,Corporate,357.7,6,0.05,2038.89,713.61,4.0,UPI
+ORD-11363,2025-02-15,Hyderabad,Clothing,Corporate,1347.62,8,0.0,10780.96,4312.38,5.0,Credit Card
+ORD-11364,2025-01-01,Bangalore,Office Supplies,Consumer,70.39,8,0.0,563.12,225.25,4.0,Net Banking
+ORD-11365,2025-02-05,Hyderabad,Clothing,Consumer,1400.37,14,0.05,18624.92,7449.97,5.0,Cash on Delivery
+ORD-11366,2026-03-31,Chennai,Electronics,Consumer,436.85,12,0.15,4455.87,1074.71,3.0,Net Banking
+ORD-11367,2025-10-29,Kolkata,Electronics,Home Office,315.6,7,0.1,1988.28,497.07,1.0,Cash on Delivery
+ORD-11368,2025-08-01,Mumbai,Electronics,Home Office,395.97,9,0.15,3029.17,738.4,4.0,UPI
+ORD-11369,2025-05-12,Chennai,Electronics,Corporate,974.8,14,0.0,13647.2,3411.8,5.0,Cash on Delivery
+ORD-11370,2025-07-10,Mumbai,Office Supplies,Corporate,460.03,8,0.25,2760.18,1056.55,5.0,Credit Card
+ORD-11371,2025-11-04,Bangalore,Furniture,Home Office,912.31,2,0.0,1824.62,638.62,4.0,Credit Card
+ORD-11372,2025-08-21,Delhi,Clothing,Consumer,1153.86,14,0.0,16154.04,6461.62,5.0,UPI
+ORD-11373,2025-04-22,Hyderabad,Clothing,Consumer,857.41,8,0.0,6859.28,2743.71,4.0,Net Banking
+ORD-11374,2025-06-04,Hyderabad,Office Supplies,Corporate,1084.15,11,0.0,11925.65,4770.26,5.0,Net Banking
+ORD-11375,2025-01-30,Hyderabad,Clothing,Corporate,294.2,4,0.0,1176.8,470.72,4.0,Cash on Delivery
+ORD-11376,2026-03-20,Chennai,Office Supplies,Home Office,493.68,10,0.15,4196.28,1654.21,5.0,UPI
+ORD-11377,2026-01-22,Chennai,Clothing,Consumer,1472.44,5,0.0,7362.2,2944.88,3.0,Cash on Delivery
+ORD-11378,2025-10-25,Bangalore,Electronics,Consumer,302.32,3,0.05,861.61,215.4,3.0,Cash on Delivery
+ORD-11379,2025-09-30,Bangalore,Electronics,Corporate,537.66,13,0.0,6989.58,1747.39,5.0,Net Banking
+ORD-11380,2025-10-14,Bangalore,Electronics,Consumer,985.74,13,0.05,12173.89,3043.47,4.0,Net Banking
+ORD-11381,2026-02-03,Delhi,Electronics,Consumer,1327.04,7,0.05,8824.82,2206.2,5.0,UPI
+ORD-11382,2025-05-23,Mumbai,Electronics,Corporate,768.86,4,0.0,3075.44,768.86,5.0,UPI
+ORD-11383,2026-06-20,Hyderabad,Clothing,Consumer,1030.96,9,0.0,9278.64,3711.46,5.0,Credit Card
+ORD-11384,2025-09-16,Delhi,Electronics,Home Office,804.53,2,0.0,1609.06,402.26,4.0,Credit Card
+ORD-11385,2026-03-28,Delhi,Furniture,Consumer,508.35,9,0.25,3431.36,1175.08,5.0,UPI
+ORD-11386,2026-03-24,Mumbai,Accessories,Home Office,1182.98,11,0.0,13012.78,5205.11,3.0,Net Banking
+ORD-11387,2025-07-28,Mumbai,Office Supplies,Home Office,633.64,3,0.0,1900.92,760.37,5.0,UPI
+ORD-11388,2025-02-01,Bangalore,Furniture,Consumer,979.21,4,0.0,3916.84,1370.89,4.0,Credit Card
+ORD-11389,2025-06-16,Chennai,Clothing,Consumer,1014.68,1,0.1,913.21,365.28,3.0,UPI
+ORD-11390,2025-03-21,Hyderabad,Furniture,Home Office,248.53,9,0.05,2124.93,743.73,5.0,Cash on Delivery
+ORD-11391,2025-06-05,Bangalore,Office Supplies,Corporate,595.9,14,0.0,8342.6,3337.04,4.0,Cash on Delivery
+ORD-11392,2025-08-14,Bangalore,Furniture,Corporate,734.16,5,0.1,3303.72,1156.3,5.0,Credit Card
+ORD-11393,2025-04-22,Chennai,Furniture,Home Office,744.76,2,0.0,1489.52,521.33,5.0,Credit Card
+ORD-11394,2026-05-12,Hyderabad,Clothing,Consumer,824.43,10,0.2,6595.44,2625.96,4.0,Net Banking
+ORD-11395,2025-10-06,Chennai,Clothing,Home Office,584.73,4,0.0,2338.92,935.57,4.0,Net Banking
+ORD-11396,2025-10-12,Delhi,Office Supplies,Corporate,46.46,2,0.1,83.63,33.45,4.0,UPI
+ORD-11397,2026-03-03,Hyderabad,Clothing,Corporate,1457.67,4,0.0,5830.68,2332.27,5.0,Credit Card
+ORD-11398,2026-05-05,Hyderabad,Furniture,Corporate,1068.06,10,0.05,10146.57,3551.3,2.0,UPI
+ORD-11399,2026-05-10,Bangalore,Furniture,Corporate,83.64,4,0.05,317.83,111.24,5.0,Cash on Delivery
+ORD-11400,2025-07-02,Delhi,Office Supplies,Corporate,918.24,5,0.2,3672.96,1427.21,2.0,Net Banking
+ORD-11401,2025-05-29,Bangalore,Electronics,Home Office,659.4,4,0.0,2637.6,659.4,4.0,Credit Card
+ORD-11402,2026-05-07,Chennai,Office Supplies,Home Office,790.38,1,0.0,790.38,316.15,3.0,Net Banking
+ORD-11403,2026-02-17,Hyderabad,Clothing,Home Office,181.28,14,0.0,2537.92,1015.17,4.0,Credit Card
+ORD-11404,2025-06-12,Mumbai,Electronics,Consumer,1297.32,11,0.1,12843.47,3210.87,4.0,Credit Card
+ORD-11405,2025-05-30,Bangalore,Electronics,Home Office,1199.54,2,0.0,2399.08,599.77,5.0,UPI
+ORD-11406,2025-01-16,Chennai,Furniture,Consumer,1060.89,4,0.15,3607.03,1241.65,3.0,Net Banking
+ORD-11407,2025-05-29,Hyderabad,Office Supplies,Home Office,1202.47,3,0.0,3607.41,1442.96,5.0,UPI
+ORD-11408,2026-02-19,Bangalore,Office Supplies,Consumer,1190.95,10,0.0,11909.5,4763.8,2.0,Net Banking
+ORD-11409,2026-04-11,Mumbai,Furniture,Consumer,1394.84,10,0.0,13948.4,4881.94,3.0,UPI
+ORD-11410,2025-01-01,Chennai,Office Supplies,Corporate,1156.77,10,0.05,10989.32,4395.73,5.0,UPI
+ORD-11411,2025-07-03,Hyderabad,Office Supplies,Consumer,586.64,10,0.05,5573.08,2229.23,1.0,Net Banking
+ORD-11412,2025-11-09,Bangalore,Clothing,Consumer,279.0,4,0.05,1060.2,424.08,2.0,Credit Card
+ORD-11413,2025-09-23,Bangalore,Office Supplies,Consumer,816.98,12,0.1,8823.38,3529.35,5.0,Credit Card
+ORD-11414,2026-01-15,Bangalore,Clothing,Home Office,1038.41,13,0.0,13499.33,5399.73,5.0,Net Banking
+ORD-11415,2025-09-14,Kolkata,Furniture,Consumer,275.02,11,0.1,2722.7,952.94,4.0,Credit Card
+ORD-11416,2026-02-22,Chennai,Furniture,Consumer,1422.45,9,0.0,12802.05,4480.72,5.0,Credit Card
+ORD-11417,2025-04-13,Bangalore,Clothing,Consumer,442.78,8,0.2,2833.79,1116.77,4.0,Net Banking
+ORD-11418,2025-01-19,Kolkata,Accessories,Consumer,215.26,1,0.25,161.44,34.51,4.0,UPI
+ORD-11419,2026-05-23,Mumbai,Electronics,Consumer,311.28,3,0.0,933.84,233.46,4.0,Cash on Delivery
+ORD-11420,2025-04-07,Mumbai,Electronics,Corporate,1156.75,12,0.0,13881.0,3470.25,5.0,Net Banking
+ORD-11421,2025-06-29,Mumbai,Furniture,Consumer,1122.8,10,0.0,11228.0,3929.8,2.0,Net Banking
+ORD-11422,2025-06-30,Delhi,Accessories,Home Office,426.19,4,0.1,1534.28,613.71,5.0,UPI
+ORD-11423,2025-09-14,Chennai,Electronics,Home Office,109.63,7,0.0,767.41,191.85,4.0,Credit Card
+ORD-11424,2026-01-23,Delhi,Clothing,Home Office,1304.11,6,0.15,6650.96,2614.45,4.0,Credit Card
+ORD-11425,2025-10-06,Chennai,Clothing,Consumer,658.94,3,0.0,1976.82,790.73,2.0,Net Banking
+ORD-11426,2026-05-23,Chennai,Electronics,Consumer,374.44,3,0.25,842.49,191.85,2.0,Cash on Delivery
+ORD-11427,2026-02-14,Bangalore,Electronics,Consumer,1463.44,12,0.1,15805.15,3951.29,2.0,Cash on Delivery
+ORD-11428,2025-06-25,Bangalore,Clothing,Home Office,28.37,14,0.1,357.46,142.98,4.0,Credit Card
+ORD-11429,2026-06-07,Mumbai,Electronics,Consumer,282.16,14,0.0,3950.24,987.56,4.0,Credit Card
+ORD-11430,2025-09-17,Mumbai,Furniture,Consumer,1078.88,3,0.0,3236.64,1132.82,5.0,Net Banking
+ORD-11431,2025-10-29,Chennai,Electronics,Consumer,783.01,8,0.0,6264.08,1566.02,5.0,Cash on Delivery
+ORD-11432,2025-04-10,Chennai,Furniture,Corporate,1366.09,7,0.15,8128.24,2826.81,4.0,Net Banking
+ORD-11433,2025-08-26,Chennai,Electronics,Consumer,1205.79,10,0.25,9043.42,2218.1,5.0,Net Banking
+ORD-11434,2026-06-03,Mumbai,Office Supplies,Consumer,164.6,10,0.05,1563.7,625.48,5.0,Net Banking
+ORD-11435,2025-10-23,Mumbai,Electronics,Home Office,1388.57,8,0.0,11108.56,2777.14,5.0,Cash on Delivery
+ORD-11436,2026-01-13,Hyderabad,Office Supplies,Consumer,855.22,11,0.15,7996.31,3159.41,5.0,Credit Card
+ORD-11437,2026-03-26,Delhi,Accessories,Corporate,212.69,4,0.15,723.15,251.56,5.0,UPI
+ORD-11438,2025-05-28,Bangalore,Furniture,Consumer,69.22,7,0.2,387.63,94.53,4.0,Credit Card
+ORD-11439,2026-04-27,Hyderabad,Furniture,Consumer,271.19,7,0.0,1898.33,664.42,5.0,Credit Card
+ORD-11440,2025-10-16,Kolkata,Furniture,Corporate,907.56,8,0.0,7260.48,2541.17,2.0,Net Banking
+ORD-11441,2025-05-29,Bangalore,Electronics,Home Office,1043.89,10,0.1,9395.01,2348.75,4.0,Credit Card
+ORD-11442,2025-10-22,Kolkata,Accessories,Corporate,356.72,8,0.0,2853.76,1141.5,5.0,Credit Card
+ORD-11443,2025-03-16,Chennai,Accessories,Home Office,1483.99,11,0.0,16323.89,6529.56,4.0,Net Banking
+ORD-11444,2025-09-11,Hyderabad,Electronics,Consumer,1469.54,14,0.1,18516.2,4629.05,4.0,UPI
+ORD-11445,2026-03-16,Hyderabad,Clothing,Corporate,1120.2,8,0.1,8065.44,3226.18,4.0,Net Banking
+ORD-11446,2025-11-21,Delhi,Furniture,Consumer,736.83,6,0.0,4420.98,1547.34,3.0,Credit Card
+ORD-11447,2026-05-16,Delhi,Furniture,Consumer,165.61,14,0.05,2202.61,770.91,5.0,UPI
+ORD-11448,2025-10-31,Chennai,Electronics,Corporate,1251.69,4,0.0,5006.76,1251.69,2.0,Credit Card
+ORD-11449,2025-12-18,Bangalore,Electronics,Consumer,223.08,1,0.0,223.08,55.77,4.0,Cash on Delivery
+ORD-11450,2026-03-04,Hyderabad,Electronics,Consumer,1132.66,1,0.1,1019.39,254.85,5.0,Credit Card
+ORD-11451,2025-06-28,Chennai,Office Supplies,Consumer,1377.19,13,0.15,15217.95,6052.32,3.0,Net Banking
+ORD-11452,2025-10-03,Mumbai,Furniture,Consumer,1452.34,3,0.0,4357.02,1524.96,5.0,Cash on Delivery
+ORD-11453,2025-05-05,Hyderabad,Clothing,Consumer,66.08,6,0.2,317.18,108.04,5.0,Credit Card
+ORD-11454,2025-06-05,Mumbai,Electronics,Consumer,1165.05,3,0.0,3495.15,873.79,2.0,UPI
+ORD-11455,2026-04-27,Mumbai,Office Supplies,Consumer,1392.91,14,0.2,15600.59,6197.09,3.0,Net Banking
+ORD-11456,2026-02-11,Hyderabad,Electronics,Consumer,612.32,2,0.1,1102.18,275.55,5.0,Cash on Delivery
+ORD-11457,2025-07-22,Mumbai,Clothing,Consumer,577.57,6,0.0,3465.42,1386.17,4.0,UPI
+ORD-11458,2026-06-11,Chennai,Electronics,Consumer,1183.7,14,0.05,15743.21,3935.8,3.0,UPI
+ORD-11459,2026-06-28,Bangalore,Office Supplies,Consumer,1095.13,11,0.0,12046.43,4818.57,5.0,Credit Card
+ORD-11460,2025-03-15,Chennai,Electronics,Consumer,982.54,10,0.1,8842.86,2210.72,4.0,UPI
+ORD-11461,2026-03-20,Bangalore,Electronics,Corporate,1429.41,5,0.0,7147.05,1786.76,2.0,Net Banking
+ORD-11462,2025-02-20,Chennai,Clothing,Consumer,851.06,7,0.0,5957.42,2382.97,4.0,Net Banking
+ORD-11463,2026-03-11,Mumbai,Accessories,Corporate,999.69,8,0.0,7997.52,3199.01,5.0,UPI
+ORD-11464,2025-07-28,Mumbai,Electronics,Consumer,130.01,13,0.0,1690.13,422.53,2.0,Credit Card
+ORD-11465,2026-04-03,Bangalore,Clothing,Corporate,1163.35,10,0.15,9888.48,3922.65,3.0,Credit Card
+ORD-11466,2026-01-30,Hyderabad,Clothing,Corporate,622.16,12,0.0,7465.92,2986.37,2.0,UPI
+ORD-11467,2026-03-20,Bangalore,Office Supplies,Consumer,1452.98,4,0.15,4940.13,1929.09,5.0,UPI
+ORD-11468,2025-11-26,Mumbai,Office Supplies,Corporate,1144.8,6,0.0,6868.8,2747.52,5.0,Credit Card
+ORD-11469,2026-04-11,Kolkata,Electronics,Home Office,1011.99,8,0.15,6881.53,1686.96,4.0,UPI
+ORD-11470,2025-09-21,Hyderabad,Office Supplies,Consumer,72.7,13,0.0,945.1,378.04,5.0,Credit Card
+ORD-11471,2026-01-29,Bangalore,Office Supplies,Consumer,690.67,9,0.0,6216.03,2486.41,1.0,Credit Card
+ORD-11472,2025-06-09,Delhi,Furniture,Home Office,127.92,6,0.05,729.14,255.2,3.0,Net Banking
+ORD-11473,2025-07-13,Chennai,Furniture,Consumer,577.69,1,0.2,462.15,145.66,5.0,Cash on Delivery
+ORD-11474,2026-06-09,Bangalore,Electronics,Consumer,429.55,2,0.0,859.1,214.78,5.0,UPI
+ORD-11475,2026-01-11,Kolkata,Clothing,Corporate,76.24,7,0.05,507.0,202.8,2.0,Cash on Delivery
+ORD-11476,2025-03-26,Hyderabad,Furniture,Consumer,127.57,3,0.2,306.17,73.4,5.0,Credit Card
+ORD-11477,2025-05-13,Mumbai,Electronics,Home Office,891.42,12,0.2,8557.63,2093.31,5.0,Credit Card
+ORD-11478,2025-08-06,Kolkata,Furniture,Consumer,994.76,5,0.0,4973.8,1740.83,1.0,Credit Card
+ORD-11479,2026-01-21,Hyderabad,Office Supplies,Corporate,411.86,10,0.25,3088.95,1186.34,4.0,Credit Card
+ORD-11480,2025-05-02,Delhi,Electronics,Consumer,131.4,9,0.05,1123.47,280.87,2.0,Cash on Delivery
+ORD-11481,2025-03-08,Bangalore,Furniture,Consumer,400.37,9,0.0,3603.33,1261.17,4.0,Credit Card
+ORD-11482,2025-04-25,Chennai,Electronics,Consumer,1453.55,14,0.1,18314.73,4578.68,4.0,UPI
+ORD-11483,2025-10-19,Chennai,Electronics,Home Office,1392.35,4,0.2,4455.52,1085.9,2.0,Net Banking
+ORD-11484,2026-01-20,Chennai,Office Supplies,Corporate,334.68,5,0.05,1589.73,635.89,5.0,Cash on Delivery
+ORD-11485,2025-10-05,Bangalore,Clothing,Corporate,1238.71,12,0.1,13378.07,5351.23,3.0,Net Banking
+ORD-11486,2026-01-10,Delhi,Furniture,Consumer,269.53,2,0.1,485.15,169.8,4.0,UPI
+ORD-11487,2026-01-28,Kolkata,Clothing,Consumer,598.31,1,0.15,508.56,170.62,5.0,Cash on Delivery
+ORD-11488,2025-02-20,Chennai,Clothing,Corporate,1478.9,12,0.15,15084.78,5994.53,3.0,UPI
+ORD-11489,2025-04-09,Hyderabad,Furniture,Corporate,1336.07,10,0.0,13360.7,4676.24,5.0,Credit Card
+ORD-11490,2025-08-07,Mumbai,Electronics,Consumer,1417.45,14,0.0,19844.3,4961.07,4.0,Net Banking
+ORD-11491,2026-03-04,Bangalore,Furniture,Home Office,275.15,5,0.0,1375.75,481.51,5.0,Net Banking
+ORD-11492,2026-06-26,Bangalore,Furniture,Consumer,611.11,10,0.0,6111.1,2138.89,5.0,Credit Card
+ORD-11493,2026-02-09,Chennai,Clothing,Consumer,1189.31,14,0.05,15817.82,6327.13,5.0,UPI
+ORD-11494,2025-12-09,Chennai,Electronics,Consumer,283.79,3,0.0,851.37,212.84,3.0,Net Banking
+ORD-11495,2025-08-14,Delhi,Electronics,Corporate,498.89,3,0.2,1197.34,255.42,2.0,Credit Card
+ORD-11496,2025-08-08,Chennai,Electronics,Home Office,1364.53,3,0.0,4093.59,1023.4,4.0,Net Banking
+ORD-11497,2026-06-27,Chennai,Office Supplies,Corporate,235.03,8,0.15,1598.2,614.85,3.0,Cash on Delivery
+ORD-11498,2025-05-07,Chennai,Furniture,Consumer,1221.09,9,0.0,10989.81,3846.43,5.0,Credit Card
+ORD-11499,2025-12-07,Mumbai,Electronics,Home Office,1305.39,4,0.1,4699.4,1174.85,4.0,Cash on Delivery
